@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Element with Class Selector
+</title>
+
+<style>
+
+a:link, a:visited {
+  text-decoration: none;
+  background-color: green;
+  border: 1px solid blue;
+  color: black;
+  display: block;
+  width: 200px;
+  text-align: center;
+  margin-bottom: 1px;
+}
+a:hover, a:active {
+  background-color: red;
+  color: purple;
+}
+
+section div:nth-child(odd) {
+  background-color: gray;
+}
+
+section div:nth-child(even):hover {
+  background-color: green;
+  cursor: pointer;
+}
+
+/* all with class="highlight" */
+.highlight {
+  background-color: green;
+}
+/* all p elements with class="highlight" */
+p.highlight {  
+  font-style: italic;
+}
+/* all elements with class 'highlight' as well as with class 'mainpoint'. */
+.mainpoint.highlight {
+  color: red;
+  background-color: black;
+}
+</style>
+
+</head>
+<body>
+
+<h1>Element with Pseudo Class Selector</h1>
+<section>
+  <div>DIV 1</div>
+  <div>DIV 2</div>
+  <div>DIV 3</div>
+  <div>DIV 4</div>
+  <div>DIV 5</div>
+  <div>DIV 6</div>
+  <div>DIV 7</div>
+  <div>DIV 8</div>
+  <div>DIV 9</div>
+  <div>DIV 10</div>
+
+</section>
+<h1 class="highlight">Element with Class Selector</h1>
+<p class="highlight">Hardik Patel Btech IT Sem 4</p>
+<p class="highlight">This is P with CLASS="highlight"</p>
+<div class="mainpoint highlight">This is the main point of the entire article.
+</div>
+
+</body>
+</html>
