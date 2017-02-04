@@ -1,5 +1,10 @@
-.fit{
-	min-width: 99%;
-	min-height: 99%;
-
+.object{
+	background-image: url("http://www.randylahaie.com/blog/wp-content/uploads/2015/09/chessboard.jpg");
+	background-size: 80%;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 100%;
+}
+ p{
+	font-family: cursive;
 }
