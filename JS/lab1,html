@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<h3>Creating Objects, Functions and Pass By Value and Pass by Reference</h3>
+
+
+<script type="text/javascript">
+	// creating variables 
+	var car = "Fiat"; 
+	console.log(car); 
+
+	// creating a function 
+	var x  = 5
+	var y = 6; 
+	console.log("x: ", x); 
+	console.log("y: ", y); 
+	
+	// display sum function 
+	function display_sum(p1, p2){
+		return (p1 + p2); 
+	}
+
+	console.log("Pass by value: "); 
+	console.log("x + y: ", display_sum(x,y)); 
+	
+
+	// reference variables 
+	var x = new Number(5);    
+	var y = new Number(6);
+	console.log("Pass by Reference: "); 
+	console.log("x + y: ", display_sum(x,y)); 
+
+
+</script>
+</body>
+</html>
