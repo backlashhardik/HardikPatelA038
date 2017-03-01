@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Comparing Arrays</title>
+	<script>
+    var arr1 = [1, 2, 3, 5, 10, 22];
+    var arr2 = [1, 2, 3, 4, 5, 20];
+
+    var arr3 = [5, 7, 56, 76, 100, 55, 97, 23, 745];
+    var arr4 = [56, 76, 100, 87, 34, 64, 760];
+
+
+    console.log(arr1);
+    console.log(arr2);
+    console.log(arr3);
+    console.log(arr4);
+
+	function difference(arr1,arr2) {
+ var arr1= flatten(arr1,true);
+ var arr2= flatten(arr2,true);
+ var a=[], diff=[];
+  
+  for(var i=0;i<arr1.length;i++)
+  a[arr1[i]]=false;
+  for(i=0;i<arr2.length;i++)
+  if(a[arr2[i]]===false) 
+  { delete a[arr2[i]];}
+  else a[arr2[i]]=true;
+  for(var k in a)
+  diff.push(k);
+  return diff; 
+  }
+  var flatten = function(a, shallow,r){
+  if(!r){ r = [];}
+  if (shallow) {
+  return r.concat.apply(r,a);
+  } 
+  for(i=0; i<a.length; i++){
+  if(a[i].constructor == Array){
+  flatten(a[i],shallow,r);
+  }else{
+  r.push(a[i]);
+  }
+  }
+  return r;
+  };
+  var arr5 = difference([1, 2, 3, 5, 10, 22],[1, 2, 3, 4, 5, 20]);
+  console.log(arr5);
+
+  var max1 = Math.max(...arr5);
+  console.log(" The maximum element is: " +max1);
+
+  var arr6 = difference([5, 7, 56, 76, 100, 55, 97, 23, 745],[56, 76, 100, 87, 34, 64, 760]);
+  console.log(arr6);
+
+  var max2 = Math.max(...arr6);
+  console.log(" The maximum element is: " +max2);
+        
+        
+	</script>
+</head>
+<body>
+<h1>
+    Hardik Patel - A038
+</h1>
+lab 5
+</body>
+</html>
