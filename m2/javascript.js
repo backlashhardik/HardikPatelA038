@@ -6,11 +6,7 @@ document.addEventListener("DOMContentLoaded",
     document.querySelector("button")
       .addEventListener("click", function () {
 
-               document.getElementById("ques").innerHTML="<h2>" + + "</h2>"
-        
-
-              document.querySelector("#content")
-                .innerHTML = "<h2>" + message + "</h2>";
+          
         
         
         $ajaxUtils
