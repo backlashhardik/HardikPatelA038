@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded",
 
 	if(document.getElementById("btn").value === "Start Test"){
 	$ajaxUtils
-          .sendGetRequest("data/name.json", 
+          .sendGetRequest("json.json", 
             function (res) {
               var message = res.q1; 
               document.querySelector("#content")
@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded",
         
 	if(document.getElementById("btn").value === "Submit"){
 		$ajaxUtils
-          .sendGetRequest("data/name.json", 
+          .sendGetRequest("json.json", 
             function (res) {
               var answer = res.a1;
 	      var response = " "; 
