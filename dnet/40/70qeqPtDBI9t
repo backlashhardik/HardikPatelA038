@@ -1,0 +1,205 @@
+Ajay Pancholi
+
+B-8, Amar Enclave, Ramtekdi
+
+Pune –Solapur Road
+
+                                                                        
+                                          Pune-13
+
+  HYPERLINK "mailto:ajay_pancholi@rediffmail.com" 
+ajay_pancholi@rediffmail.com 
+
+  HYPERLINK "mailto:ajayi_pancholi@yahoo.co.in" 
+ajayi_pancholi@yahoo.co.in 
+
+Phone: +919881465832
+
+Objective 
+
+
+
+To achieve high career growth through a continuous learning process and
+looking for a challenging, dynamic and vibrant environment in design,
+Application Development.
+
+
+
+
+
+Summary
+
+Software Programmer
+
+MCA first class from Veer Narmad South Gujarat University, Gujarat. 
+
+Vb.Net, Asp.Net, VB 6.0, MS SQL Server 2000, Crystal Reports 8.5
+
+IT Experience
+
+
+
+Overall an IT Experience of 2.4 years 
+
+
+
+Currently working with InfoWorld Consultancy Pvt. Ltd., Pune.
+
+
+
+Technical Proficiency 
+
+
+
+Languages	
+
+VB.Net, ASP. Net, Visual Basic 6.0
+
+Databases	MS-SQL 2000, MS-Access 2000
+
+Web Technologies	ASP, HTML
+
+Reporting tools	Crystal Report
+
+Operating System	Windows 2000 Professional, Windows XP
+
+
+
+Professional Qualification 
+
+May - 2005 	M.C.A               	South Gujarat University, Gujarat	1st
+Class      
+
+May – 2002	B.Sc. (Chemistry) 	South Gujarat University, Gujarat	1st
+Class          
+
+April – 1999	H.S.C                 	C.B.S.E, Gujarat	2nd Class        
+ 
+
+April – 1997	S.S.C.                 	C.B.S.E, Gujarat	1st Class       
+  
+
+Personal Details       
+
+Father’s Name	Ashok VinodChandra Pancholi
+
+Date of Birth	April 06, 1981
+
+Permanent Address	104, Sapphire Appt., Raveshia Park, Near Morarji
+Circle,
+
+Vapi – 391 195   Dist – Valsad, Gujarat.
+
+Phone No.	0260 2435744
+
+E-mail                        	ajay_pancholi@rediffmail.com
+
+Nationality	Indian
+
+Projects:
+
+
+
+4.   1. Hoerbiger Machine Interface System
+
+     Technologies	A   VB.Net, SQL Server 2000, Crystal Reports 10
+
+     Overview	Hoerbiger is a Group of companies involved in
+manufacturing & servicing of different kinds of valve & Cylinders.
+Hoerbiger has many companies in approximately 12 countries. 
+
+The database is centrally located at the Head Office in Australia and
+all the branches will just have the local client of the HMI application.
+HMI has the complete solution for maintaining the details about the
+Valve and the relationship between a particular valve and the cylinder
+in which is applicable. HMI also has all the details of all the customer
+of different branches. HMI is mainly focused on maintaining the details
+up to smallest unit of valve and cylinder. It has a detail listing of
+the linking between the customer and the valve or cylinder sold to him.
+It also handles the minor detail about the location of the valve inside
+the cylinder and the location of cylinder at customer premises. HMI also
+maintains the information about servicing of valves and other parts.  
+
+HMI is being built in Visual Studio 2005 environment and uses MS SQL
+Server 2000 as backend. It has multi tier architecture. Data Object,
+Business Object, Web Service are the different layers. Client doesn’t
+have direct link to database. All database manipulations are done
+through Data Objects, Business Objects and Web services. All the
+functionality is handled by Treeview structure.
+
+     Role	So  Software  Programmer
+
+
+
+2. InfoERP System
+
+Technologies	VB, SQL Server 2000, Crystal Reports 8.5 
+
+           Overview	It is an ERP product that is been developed for
+Crane process flow Technologies (India) Pvt. Ltd.   Consisting of
+various functional areas like Purchase, Sale, Production, Export,
+Accounting, Payroll. It is in the development phase. 
+
+Phase I- Sales & Distribution, Material Management, Purchase, and
+Sub-Contracting. 
+
+Phase II- 2nd level BOM, MRP, QAP, Excise, and BSR (FG) Stock. 
+
+Phase III- Financial integration, Chart of account, General Ledger,
+Account Receivable, Account Payable, Fixed Asset, TDS, and HR & Payroll.
+
+
+
+Role
+
+	Software Programmer(Development of Sales Modules. Developing and
+implementing Master and Transaction forms for defined. This module deals
+with Sales Dept activities. The Sales Dept receives Enquiry from
+Customer. In turn, the Sales Dept sends Quotation to the Customer. After
+that Sales order received from Customer. 
+
+Bill Of Material is available for the finished product. Dispatch
+Clearance is issued against that sales order. Invoice is made against
+that Dispatch Clearance Financial accounting and stock is updated. This
+includes Number Of Reports, namely Order Booking; Net sales Report,
+Business Under Negotiation, Sales Order Reports, and Pending Enquiry
+Report are generated.
+
+
+
+4.   3. Valve Selection Program
+
+     Technologies	A    ASP, MS-SQL Server 2000
+
+     Overview	The Project is Developed for Hoerbiger Company of America
+it’s one of the World’s largest Valve manufacturing company. The
+Project maintains data for valve, cylinder and combination of valve &
+cylinder. User gives input parameter and search for suitable valve for
+particular cylinder on different parameter.
+
+
+
+      Role	So  Software  Programmer
+
+
+
+
+
+44 4. Smart Selection Activex Exe
+
+     Technologies	A   VB 6.0, MS-SQL Server 2000
+
+     Overview	This ActiveX exe is developed to call from asp pages. It
+takes input parameter and    based on the input parameter search for
+suitable Valves and refine the valve using different algorithms and
+after that passes these refined valve to another DLL call ITKK DLL which
+return optimal valve after some mathematical calculation. These valve
+are returned back to calling Asp page. It also draws pressure graphs for
+valves.
+
+     Role	So  Software  Programmer
+
+
+
+Curriculum Vitae  
+

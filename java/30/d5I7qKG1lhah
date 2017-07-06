@@ -1,0 +1,333 @@
+	
+
+Experience	Projects Worked	Skills Summary	Certification / Education
+
+1+. Yrs Experience in Client Server Technologies
+
+Software Engineer- FINENG Solutions Pvt Ltd, Mumbai - December 2005 to
+till date.
+
+	PerfoRM for ICICI Bank
+
+Wealth Management System (Telesto) for ABN,DBS,CEN and UTI
+
+ 	Java 1.4, Jsp 2, Java Struts 1.1, JavaScript 1.2, AJAX , HTML and SQL
+Server 2000
+
+Third Party Controls – Display tag 1.0.1, JfreeChart 0.9.21, iReports
+0.4.1
+
+Known –VC++,C, C++, Oracle 8i
+
+Application Servers – Tomcat 5.0, Pramati 4.1, Web sphere 6.0  
+
+Editors – Eclipse 3.2 , struts-console-4.7 , Macromedia Dreamweaver MX
+
+Release Tools – IzPack 2.0 , DataScriptDesigner , DeployRDL 1.0
+
+Operating Systems – Windows 98/XP
+
+	Education
+
+M.Sc., Computer Science – 2006 with 79%– St.Xavier’s College
+(Autonomous), Manonmaniam Sundaranar University, Tirunelveli.  
+
+B.Sc., Computer Science – 2004 2006 with 75%– St.Xavier’s College
+(Autonomous), – Manonmaniam Sundaranar University, Tirunelveli. 
+
+Hr.Sec – 2001 with 72% - Bishop Arockiasamy Hr.Sec.School,  Nagercoil
+
+S.S.L.C – 1999 2001 with 90% - Bishop Arockiasamy Hr.Sec.School, 
+Nagercoil
+
+
+
+Project Summary
+
+
+
+Project 	Wealth Management System(Telesto)
+
+Company	FinEng Solutions Pvt. Ltd.
+
+Clients	ABN,CEN,DBS and UTI
+
+Duration	6/2006 to Till now
+
+Description	This Project deals with Cash Management followed by both
+Mutual Funds and Insurance Industry. The System enables the Account
+Mapping for the Relevant scheme in the Mutual Fund or Insurance
+Industry. It also allows maintaining the Transactions, Cash inflow and
+Cash outflow. Customized reports on the fly to monitor the Transactions
+with dynamic parameters are also Provided.
+
+Project Environment	Java,JSP,JavaStruts,HTML,JavaScript Third Party
+Controls – Display Tag 1.0.1,JfreeChart 0.9.16, Jasper Reports
+
+Role	Software Engineer
+
+Accomplishments	Coding, Testing – Unit Testing , Technical Document
+Creation, Class Diagram
+
+Developed Modules Pledging and De-Pledging, Purging Report, Equity
+Transactions Upload (NSDL and CSDL), Target Portfolio Customer Mapping,
+Charts, Masters, PENS and Issues.
+
+3 months in support. 
+
+Team Size	20
+
+
+
+ Project 	PerfoRM
+
+Company	FinEng Solutions Pvt. Ltd.
+
+Clients	ICICI Bank
+
+Duration	1/2006 to 6/2006
+
+Description	           PerfoRM allows Top management to monitor
+Performance, volumes and Exposure through one single application. It is
+a data warehousing and data mining application which gets information
+from various processing applications and every month it summarizes and
+stores the data so that accurate reports can be delivered to top
+management faster as and when required. 
+
+Project Environment	JSP,Java, SQL Server 2000, Third Party Controls –
+Display tag 1.0.1
+
+Role	Software Engineer
+
+Accomplishments	Coding, Testing – Unit Testing 
+
+Developed - Manual Adjustment, Customer Product wise Report, Total
+Sanction Additional Report, Total Sanction Renewal Report, PENS and
+Issues.
+
+Client Side Deployment and Client Interaction.
+
+Client Implementation and Onsite Support
+
+Team Size	6
+
+
+
+Modules Handled Individually during my tenure in the Project WMS
+
+Module	Pledging and De-Pledging
+
+Description	This module allows the user can Pledge their Mutual Fund
+units  as well as De-Plege units. This module follows the Maker-Checker
+concept.
+
+Role	Software Engineer
+
+Accomplishments	Preparing Technical Documents, Unit Test Cases preparing
+
+Coding, Testing – Unit Testing 
+
+Class Diagram
+
+
+
+Module	Purging Reports
+
+Description	This module delete all temporary pdf,xls and jasper files
+within the Report generated Folders. In our application  we are prodeced
+many Resports such as, Customer,Transaction,Portfolio and so on . While
+user viewing the report in xls,pdf the temporary files are created .
+This occupy lot of spaces.So it take more time to load the report. For
+these purpose of deleting the temporary files we using this module.
+
+Role	Software Engineer
+
+Accomplishments	Preparing Technical Documents, Unit Test Cases preparing
+
+Coding, Testing – Unit Testing 
+
+Class Diagram
+
+
+
+Module	Equity Transactions Upload (NSDL and CDSL)
+
+Description	In our application we have lot of upload modules. In this
+upload we  upload the various transaction types of equity transactions
+from various Data providers depository such as NSDL and CDSL. 
+
+Role	Software Engineer
+
+Accomplishments	Preparing Technical Documents, Unit Test Cases preparing
+
+Coding, Testing – Unit Testing 
+
+Class Diagram
+
+
+
+Module	Target Portfolio Customer Mapping
+
+Description	In our application we have Target portfolio Master. We have
+mapping the customer to atmost one Target portfolio. This means the
+customer target portfolio would like that particular  Target portfolio.
+
+Role	Software Engineer
+
+Accomplishments	Preparing Technical Documents, Unit Test Cases preparing
+
+Coding, Testing – Unit Testing 
+
+Class Diagram
+
+
+
+Support work involves the following Activities
+
+Description	This works involves client interaction and Release
+maintenance .
+
+Accomplishments	Internal Release for Testing.
+
+Client Release.
+
+VSS Maintenance.
+
+Client Interaction.
+
+Maintaining Issues.
+
+Internal and Client Side, Application Deployment. 
+
+
+
+Role	Software Engineer
+
+
+
+Modules Handled Individually during my tenure in the Project PerfoRM
+
+Module	Manual Adjustment
+
+Description	This module allows the Relational Manager to manually adjust
+the exposure of a customer  for a particular product. This adjustment
+involves on a customer level or customer product level or customer 
+product category level.
+
+Role	Software Engineer
+
+Accomplishments	Preparing Technical Documents, Analysis Document
+
+Coding, Testing – Unit Testing 
+
+Class Diagram
+
+
+
+Module	Customer Product Wise Report
+
+Description	This produces  report for a particular customer, based on
+some selection creteria such as product , Zone, SBU , Rating , Clients
+,ZM , DZM , SM and Date.
+
+Role	Software Engineer
+
+Accomplishments	Preparing Technical Documents, Analysis Document
+
+Coding, Testing – Unit Testing 
+
+Class Diagram
+
+
+
+Module	Total Sanction Additional Report
+
+Description	This produces  report for the customers those who are got
+loans, based on some selection creteria such as From Date , To Date,
+Sanction Forum , Sanction Facility , Rating ,SBU and Sanction Amount.
+
+Role	Software Engineer
+
+Accomplishments	Preparing Technical Documents, Analysis Document
+
+Coding, Testing – Unit Testing 
+
+Class Diagram
+
+
+
+Module	Total Sanction Renewal Report
+
+Description	This produces  report for the customers those who are got
+loans and make renewal , based on some selection creteria such as From
+Date , To Date, Sanction Forum , Sanction Facility , Rating ,SBU and
+Sanction Amount.
+
+Role	Software Engineer
+
+Accomplishments	Preparing Technical Documents, Analysis Document
+
+Coding, Testing – Unit Testing 
+
+Class Diagram
+
+
+
+Personal Details
+
+Sex			:	Male
+
+Date of Birth		:	09-June-1984
+
+Nationality		:	Indian
+
+Marital Status		:	Single
+
+References		:	
+
+Professional Reference – 
+
+           1) Mr. R. Ayera Jothi.
+
+						               Business Analyst, i-flex solutions Pvt Ltd,
+Singapore. 
+
+               Phone:. 64312736. 
+
+               E-Mail:   HYPERLINK "mailto:mumbaijothi@yahoo.com" 
+mumbaijothi@yahoo.com 
+
+           2) Mr.Muthu Rajesh.
+
+	 Project Leader, FinEng Solutions Pvt Ltd, Mumbai.
+
+	 Phone: 9819400421.
+
+	 E-Mail: muthu_rajesh@fineng.com
+
+	
+
+				Educational Reference – Mr. Walter Jeyakumar.
+
+						            Professor, Computer Science Department,
+
+						            St. Xavier’s College. Tirunelveli, TamilNadu.
+
+						            E-Mail: walterjeya@hotmail.com
+
+Page   PAGE  5  of   NUMPAGES  5 
+
+Name: 	Amala Jeen A.
+
+Address: 121 A, Kolivery Village, 
+
+Kalina, 
+
+Santacruz (E), 
+
+Mumbai - 400098
+
+Mobile No: 9920317478
+
+E-MAIL: jeen983@yahoo.co.in
+

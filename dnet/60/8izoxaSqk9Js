@@ -1,0 +1,279 @@
+Name              : Shivakumar.P.Yadav
+
+Date of Birth  : 13th January, 1979
+
+E-Mail ID        :    HYPERLINK "mailto:k_shiv@hotmail.com" 
+k_shiv@hotmail.com 
+
+                       :  k_shivv@yahoomail.com
+
+Tel                  :  022-28826563
+
+Mobile            :  09869395064	Address: 1/3 Mavalankar Nagar,
+
+Dattamandir Road,
+
+Malad (East),
+
+Mumbai : 400 097
+
+
+
+Objective:
+
+To work as an applications or systems programmer in a software company
+where I can utilize and apply my analytical design, development and
+problem solving skills.
+
+Summary:
+
+MCA with 2 years experience in Visual Studio.Net, C#.Net, ADO.Net,
+ASP.Net, VB.Net, MS-SQL Server 2000, Crystal Reports 9.0.
+
+Also familiar with a vast array of programming languages, concepts and
+technologies, including, but not limited to: Object Oriented
+programming, Web application development, Relational Database, Eclipse,
+Java, C, C++, HTML, JavaScript, SQL, i80x86 assembly, COBOL, Databases
+and UNIX. 
+
+Certifications: MCP in Developing and Implementing Windows Based
+Applications with Microsoft Visual C#.Net and Microsoft Visual
+Studio.Net.
+
+Work Experience:	
+
+Presently employed with Financial Technologies (India) Ltd, Mumbai, as a
+Software Engineer
+
+From May 2005. Working on C# .Net Technology and SQL Server 2000.
+
+Previously employed with Corcomp Infosystems Pvt Ltd., Mumbai,
+http://www.corcomp.com, as a Developer in C#.Net and VB.Net, From
+January 2004 to May 2005; Working on development, enhancements and bug
+fixing of Bicycle Framework which is a proprietary .NET application
+development framework created by Corcomp Infosystems Pvt Ltd.
+
+Current Project for Financial Technologies:
+
+Client: - MCX (Multi Commodity Exchange)
+
+Project Name: - PSC (Primary Service Controller)
+
+Environment/Language: - Visual Studio.Net, C#.Net
+
+Duration: - Under development.
+
+Team Size: - 15
+
+Description: -
+
+PSCUI (Primary Service Controller- User Interface)
+
+Is an UI for an application server, which decides about the
+initialization of all other server components like THS (Transaction Host
+Server), OMX (Order Management Exchange), also STARTS and STOPS these
+components. In case of any components getting crashed, then at that time
+PSC decides what all components required to be initialized.
+
+Created a number of Views that displays the User Information, Connection
+Information, Contract Information, and Order Information.
+
+It also functions as a Front End for the Exchange Administrators to
+perform other activities such as.
+
+Changing Admin Passwords.
+
+Managing and Updating Entity Information
+
+Managing Connection Information
+
+Creating new Entity.
+
+Surveillance Maintenance.
+
+Responsibilities: -
+
+Designing various types of input Forms and Views.
+
+Creating Custom Controls, which are used in the Forms.
+
+Using exposed methods for updating the data entered in the Form.
+
+Implementing the Business Logic as per the Specification.
+
+Testing all the forms and their functionalities.
+
+Role: - Programmer
+
+Projects Completed for Corcomp Infosystems:
+
+Project 1: -
+
+	Project Name: - Report Writer
+
+Environment/Language: -  Visual Studio.Net, C#.Net
+
+Duration: - 4 months
+
+Team Size: - 2
+
+Description: - 
+
+Report Writer is a report generating tool developed using Bicycle
+Framework 
+
+which is a proprietary .NET application development framework developed
+by Corcomp 
+
+Infosystem. This tool designs two types of Report, one is the Text
+Report which uses dos characters for drawing lines and boxes, the
+another is the Graphical Report which uses the graphic characters for
+drawing lines and boxes. All parameter information and data passed to
+design the report is stored in the form of a XML document. 
+
+Role: - Programmer
+
+Project 2: -
+
+Client: - Roche Diagnostics. Andheri (India)
+
+Project Name: - Logistics Management
+
+Environment/Language: -  Visual Studio.Net, C#.Net
+
+Reporting Tool: - Crystal Reports 9.0
+
+Database: - SQL Server 2000
+
+Role: - Coding and Testing
+
+Duration : -  3 months
+
+Team Size: - 4
+
+Description: -
+
+The main functionality of this module is to Track the Movement and
+present location of the goods in different warehouses located in many
+different places.
+
+This module also provides with various reports such as Stock Transfer
+Order, Stock Transfer Report, Inventory Status Report, Goods Expiry
+Ageing Report etc.
+
+It also consists of various Master Forms as well as Transaction Forms.
+It also provides information about the overall quantity of goods been
+stored in all of the branches.
+
+Role: - Programmer
+
+Project 3: -
+
+Client: - GrandPrix (Division of Parekh Integrated Services), India
+
+Project Name: - Business Process Module
+
+Environment/Language: -  Visual Studio.Net, C#.Net
+
+Reporting Tool: - Crystal Reports 9.0
+
+Database: - SQL Server 2000
+
+Duration: - 2 months
+
+Team Size: - 3
+
+Description: -
+
+This project is a pure business application specifically developed for
+GrandPrix (Division of Parekh Integrated Services). This module consists
+of some Master forms such as Account, Customers, Contact, Bank, Schedule
+etc. and it also consists of some Transaction forms such as Journal,
+Receipt and Payment, Bank Reconcilation Statement, Account Transfer,
+ARAP, Bank Upload Statement etc.
+
+Role: - Programmer
+
+Curriculum Projects (MCA): - 
+
+Project 1: -
+
+	Company: - Adobe Systems, Seattle, USA
+
+	Project Name: - Emanager
+
+Environment/Language: - Visual Studio.Net, VB.Net, C#.Net
+
+	Database: - SQL Server 2000 
+
+Role: - Designer and Programmer
+
+Duration: - 6 months
+
+	Team size: - 1
+
+Description: - 
+
+Emanager is a web based intranet application, which is being used inside
+the organization in all the adobe offices worldwide. This application
+was created for managing and administering windows accounts and groups
+in Windows NT or Windows 2000, Active Directory Environment. Primarily
+this application was designed to be used by Service Desk technicians,
+Desktop technicians, Windows Administrators and General Users based on
+the access level defined in the system. Emanager has an extensive
+logging mechanism for logging every single operation. This project was
+developed using ASP.NET, VB Script, C#, HTML and extensively used ADSI
+(Active Directory Services Interface) and WMI (Windows Management
+Instrumentation) Api’s. SQL Server 2000 database was used for storing
+application and logging information and for generating various detailed
+reports to track the application usage etc.,
+
+Some of the features, capabilities and limitation emanager have are: -
+
+Individual User Login/Sign in capability, Modules available based on
+access level defined, Browser based user friendly navigation system,
+Application to be used in an Intranet environment and works only on
+Internet Explore 5.0 and above.
+
+Create accounts, Disable accounts, Change Password, Modify account
+properties, Enable disabled accounts, and View user properties.
+
+Create groups, Add/Remove users to group, Delete groups, List members of
+a Group
+
+Application can be installed on native Windows NT or Windows 2000
+environment with IIS and Active Directory services installed and
+configured.
+
+Educational Qualification:
+
+Master of Computer Applications      April (2004) - First Class
+
+Bachelor of Commerce		      April (2001)  
+
+Technical Skills:
+
+Languages	: - VB.Net, C#.Net, ASP.Net, ADO.Net.
+
+RDBMS			: - SQL Server 2000.
+
+Reports			: - Crystal Reports 9.0.
+
+       General:
+
+Operating Systems		: - Windows 2000, Windows NT, Windows XP, UNIX
+
+Languages	: - Visual Basic 6.0, Java, C, C++, COBOL 85.
+
+Development Environment	: - Visual Studio.Net, Eclipse
+
+RDBMS			: - Oracle 8, MS-Access, MySQL
+
+Web Tools			: - Front Page, HTML
+
+Packages			: - MS-Office 97 & 2000, XP
+
+Reports			: - Crystal Reports 9.0
+
+Web Servers			: - IIS 5.0 
+

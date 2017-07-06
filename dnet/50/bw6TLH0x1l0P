@@ -1,0 +1,384 @@
+Aim 	
+
+To attain challenging positions in the Information Technology industry.
+Develop and Implement projects through use of Rapid Application
+Development (RAD) Tools while utilizing my skills and experience and
+thereby contribute maximum towards the overall growth and success of the
+organization.
+
+Summary: -
+
+	
+
+	I am working with KENKEEN Consultancy Services Private Limited with
+total industry experience of 6 years. My IT experience has been in
+Analysis, Design, Development, and Implementation of Client-Server
+Applications.
+
+	My technological forte is Microsoft Technologies mainly Vb.net and
+Visual Basic 6.
+
+I am also exposed to SQL and PL/SQL. I have undergone full life-cycle
+implementation for various modules listed below.
+
+Skills Inventory
+
+Operating System	MS-DOS, WIN 9X / 2000 / XP.
+
+Programming
+
+Languages known	Foxpro26, VB.net
+
+RAD/GUI Utilities	Visual Basic 6.0
+
+RDBMS	MS-Access, SQL Server 2000, Oracle-7.3.
+
+Reporting Tools	Crystal Reports 8.5 / Data Dynamics Active Reports.
+
+
+
+Various 3rd Party Controls used in my projects:
+
+Janus GridEX Control
+
+Janus Button Bar Control
+
+Infragistics UltraGrid and Other Controls Suite
+
+Component One True DBGrid Control 
+
+Data Dynamics Active Bar Control
+
+Data Dynamics Active Report Control
+
+Sticky Notes
+
+
+
+Work Experience	
+
+	I have been working as a Software Programmer for the last 6 years. I
+have strong experience in Visual Basic 6.0. The projects done below are
+made using Three-tier architecture. Strong urge to accept challenges and
+overcome them, have helped me meet deadlines, while at the same time
+strive and thereby achieve excellence and quality of work. Also I
+strongly advocate teamwork and am aware of the advantages of working as
+a team.
+
+Effective communication and problem solving skills with strong ability
+to achieve results have helped me deliver as expected.
+
+Career Profile
+
+Dates	Organization	Designation
+
+Jul-2005 till Date	KENKEEN Consultancy Services Private Limited, Mumbai
+Senior Software Programmer / Team Leader
+
+Jan-2004 to May-2005	M/S Micronet Data Services Private Limited, Mumbai
+Senior Programmer / Operations Manager
+
+Jun-2001 to Dec–2003	Prosoft Solutions, Mumbai	Software Programmer
+
+
+
+Professional Experience
+
+Company 	Kenkeen Consultancy Services Pvt. Ltd.
+
+Period	Jul-2005 to Till Date
+
+Position	Senior Programmer / Team Leader
+
+About the Company	Kenkeen Consultancy Services Pvt. Ltd. – is a Mumbai
+based IT company offering software consulting and information technology
+services and related products. Their domain expertise is predominantly
+finance sector – stock exchanges and brokerage houses. 
+
+
+
+
+
+Project Details: -
+
+Environment	VB.Net and SQL Server 2000, On Windows 2000
+
+Project	BackOffice-Demat Stock Handling
+
+Team Size	3
+
+Position	Programmer / Team Leader
+
+Role	Design, Coding, Documenting and Testing.
+
+Preparation of technical design and documenting, get them reviewed by
+business users and freeze them for development. 
+
+Coding / assigning / distributing modules to team members
+
+Assisting team members and resolving technical and functional queries.
+Getting clarification on functional issues from the Client. 
+
+Monitoring development and intermittent testing.
+
+Validating and performing the required set-up for development and
+testing.
+
+Undertook code walkthrough and functional testing of deliverables to
+ensure compliance with quality standards and strived towards delivering
+defect free deliveries
+
+Making Test Scripts and Performing sample transaction.
+
+Project Description		There are 3 phases to all transaction. One is
+recording of all transactions and generating a bill. Second is recording
+all delivery entries resulting out of such transaction including receipt
+and payment entries (Demat). Third is recording all financial entries.
+Member back office work starts after trades are reported by the
+exchange. This module captures purchase delivery and sales delivery
+resulting out of such transactions. Members deliver stock either against
+purchase or may like to deliver in advance without any sale to back up.
+They can deliver either in NSDL DP or in CDSL DP. Both the DP gives us
+file output of all transaction taken place through them. This module
+imports this data in the database (DPC9, Speed and DP89 Files). The
+system also provides for manual voucher entry. After importing the files
+from the DP, client sale / buy position and how much shares are received
+/ delivered against their sales / buys are made available. Like wise the
+purchase / sell position of exchanges and how much is delivered /
+received from it is arrived at. 
+
+Various operations provided in the project can be summarized as follows:
+
+File Imports.
+
+Manual entries.
+
+Reconciliation.
+
+Payin Handling.
+
+Exchange Payin / Payout.
+
+Auction Process.
+
+Generating Inter Settlement Transfers.
+
+Payout to Clients current as well as Hold back stock.
+
+Generation of payin instruction to DP.
+
+Generation of payout instruction to DP.
+
+Reports.
+
+
+
+Environment	Visual Basics 6.0, Crystal Reports 8.5 and SQL Server 2000
+On Windows 2000
+
+Project	Client Master
+
+Team Size	4
+
+Position	Programmer / Team Leader 
+
+Role	Design, Coding, Documenting.
+
+Project Description		Client Master is a one-point data-capturing
+program, which services all other various applications running at the
+client office.
+
+It has been designed as a relational database with appropriate masters
+so that all the clients falling under different Market segments and
+Categories like Individual, NRI, HUF, Non-Individual, Web Clients etc
+can be stored in a single database.
+
+This database is used in all the other systems viz BackOffice software
+for Billing, Demat Stock Handling, Reports etc. The system is thus a
+centralized system for all types of clients and is a one-point Client
+data access application. 
+
+Various Modules designed in the Client Master:
+
+Bank Master- a system for capturing Bank Details of major banks across
+India with their Branch Codes and Addresses to be used with Client
+master.
+
+CDSL BackOffice BO Setup Module – To open BO (Beneficiary Owner)
+account with CDSL, this system is designed to generate BO request files
+(DP59) and a facility to upload this data in the CDSL BackOffice
+software.
+
+Moving (Copying) data from Client Master (SQL) to Oracle database for
+web clients managed by another vendor. The module is designed to
+facilitate centralization of data entry of Client forms. Any additions /
+updates to client data in SQL Server are updated to web database using
+XML through this module.
+
+Client Reports.
+
+
+
+Environment	Visual Basics 6.0 and SQL Server 2000, MS Access 2000,
+Crystal Reports 7 On Windows 2000
+
+Project	BA Reports  (Reports for Business Associates)
+
+Team Size	1
+
+Position	Programmer
+
+Role	Design, Coding, Documenting and Testing.
+
+Project Description		The program is a reports module. All the reports
+currently available to the Business associates on the client web site
+are made available to the Business Associates of the Client (Bas)
+through this program. The program runs in the BA’s offices on their
+machines. It works as follows. –
+
+First time, all information pertaining to the BA is sent to them along
+with this program and an Access (mdb) file.
+
+Then on-wards, BA’s pull information from the central computers, which
+store incremental data in Access file format. The system merges this
+downloaded information, with the last available information. The
+information is thus updated and ready to be viewed and printed as
+reports.
+
+The entire process is split up as:
+
+First Time Mdb Generator at Client Site.
+
+Split Module for Incremental Data at Client site.
+
+BA reports executable at BA site. 
+
+Features of the module
+
+Multi-user.
+
+User Management.
+
+Grant / revoke access rights to the users.
+
+Download and Import is integrated in the module and is a single click
+operation.
+
+All the reports can be viewed and printed. 
+
+In-built Help feature provided.
+
+
+
+Environment	Visual Basics 6.0 and SQL Server 2000, On Windows 2000
+
+Project	Online Trade Details
+
+Team Size	1
+
+Position	Programmer
+
+Role	Design, Coding, Documenting and Testing.
+
+Project Description		Online Trade Feed Software (TWS) provided by BSE To
+Client, sends trades done by all the members of the Client to back
+office specific IP address and port number. Trades are sent in binary
+format in multiple packets. Every trade packet consists of header and
+data. Header gives the information about the message-length and the no
+of trades in current packet.
+
+The application receives these packets and stores data in to the
+database. This data is then processed to calculate client wise and scrip
+wise trade positions.
+
+
+
+Environment	Visual Basics 6.0 and SQL Server 2000, Crystal Reports 7 On
+Windows 2000
+
+Project	Contract Printing / E-Contracts
+
+Team Size	1
+
+Position	Programmer
+
+Role	Design, Coding, Documenting and Testing.
+
+Project Description	Approximately 50,000 trades are executed daily on
+behalf of the Clients. As per rules and regulations, the contracts have
+to be ready for dispatch within 24 hours of execution of the trades.
+Project Specifications: -
+
+This project facilitates splitting of printing process and conducts it
+in parallel on several machines simultaneously. Multiple printing
+processes can be done from multiple locations and at the same time, the
+security of data so sent to other locations for printing is ensured.
+Also the system generates e-contracts and mails them directly to the
+clients. Signatures are attached to mails thus generated. 
+
+The requisite data is split into multiple access mdb files. The files
+are protected by password and checksum. The same password is encrypted
+and sent along with the mdb file to the destination region. Print
+program – every time it runs, reads this password, decrypts and uses
+it for reading the information.
+
+Clients opting for e-contracts are sent signed e-mails.
+
+
+
+Educational Qualification	Bachelor of Commerce
+
+  (Mumbai University-1996)
+
+Training Attended	Client-Server Applications
+
+(Oracle – 7.3, Visual Basic-6.0, MS Access)
+
+Concourse Information Technology International Ltd, Mumbai.
+
+	Workshop on Dot Net architecture
+
+Kenkeen Consultancy Services Private Limited
+
+
+
+Personal Details
+
+Name	Sayed Nadim Haider
+
+Date of Birth	January 18, 1974
+
+Gender	Male
+
+Nationality	Indian 
+
+Marital Status	Married
+
+Residential Address	303/2413, Motilal Nagar - II,
+
+M.G.Road, Goregaon (West),
+
+Mumbai 400062.
+
+Linguistic Proficiency	English, Hindi, Marathi, Urdu. 
+
+Contact Details	Mobile: 09892659824
+
+Email Id	  HYPERLINK "mailto:sayed_nadim@vsnl.net"  sayed_nadim@vsnl.net
+
+
+
+
+SAYED NADIM HAIDER
+
+Mobile No. 98926 59824
+
+E-mail: 	sayed_nadim@vsnl.net
+
+________________________________________________________________________
+_______
+
+ PAGE   1 
+
+ PAGE   6 
+
