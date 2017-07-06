@@ -1,0 +1,201 @@
+Manjusha Yande
+
+302,Gokul B-wing, Tirthdham Complex, Lal Chowky (Opp. Subhash Nagar),
+
+Kalyan (W), Mumbai-421 310  Phone: (+91) (0251) 2312563, 9967437198
+
+	E-mail:  manjusha_yande@yahoo.co.in
+
+ 
+
+ 
+
+OBJECTIVE: 
+
+To establish myself as an efficient Software Professional, associate
+with the organization, where my potential and talents can be used in a
+mutually beneficial way.
+
+   
+
+WORK EXPERIENCE: 
+
+Programmer with Choksi Technologies  at Millennium Business Park,
+Mahape, Navi Mumbai (from Nov-2005 till)
+
+Programmer with Clarion Technologies at Andheri (E). (May 2005 - Oct.
+2005).
+
+PROFESSIONAL SKILLS: 
+
+. NET Framework 	XML, VB.NET, ASP. NET, C#
+
+Languages  	C, C++, Visual Basic 6.0
+
+RDBMS	MS-SQL Server 2000
+
+Web Technologies	HTML, JavaScript,
+
+Reports	Crystal Reports 9.0, MS-Data Reports
+
+Operating System	Windows
+
+
+
+EDUCATION:
+
+BCA (Bachelor in Computer Application)
+
+Diploma in Computer Technology From Board of Technical Education.
+
+OTHER:
+
+Attended Microsoft Seminar for Visual Studio 2005 (ADO.Net 2.0, ASP.Net
+2.0), MS-SQL      Server 2005  in Feb. 2006.
+
+Worked on several software projects as a programmer, My Roles has been
+to analyze systems, design databases, develop and implement modules
+accordingly. 
+
+PROJECT DETAILS:
+
+TheSportsFan.com:  
+
+Employer 			Clarion Technologies
+
+Project Duration 		3 months
+
+Role 				Application of Business Rules & Developing programs
+
+PLATFORM			Asp.NET/SQL SERVER2000
+
+Project Details
+
+This site is mainly developed for the fans of sports. They will register
+on the site and they will select the team. And if the team wins the
+member will remain in the pool and he can select team for next match.
+
+Registration will be on paid basis. At the time of registration system
+will ask for credit card details, and on successful response from
+payment gateway (Verisign) member will be registered.
+
+AddaCartLite:  
+
+Employer 			Clarion Technologies
+
+Project Duration 		3 months
+
+Role 				Application of Business Rules & Developing programs
+
+PLATFORM			Asp.NET/SQL SERVER2000
+
+Project Details
+
+This is a shopping cart site. This is developed for merchants. 
+
+All merchants have their personal sites without shopping cart procedure.
+If users of merchants site want to purchase item they are redirected to
+“AddaCartSite” where they can add their favorite items in shopping
+cart. After adding all items when user checks out his details are send
+to merchants site.
+
+Also merchants can add items into their item database from
+“AddaCartSite”.
+
+Edge Upload:  
+
+Employer 			Choksi Technologies
+
+Project Duration 		Nov’ 05 to Apr 06
+
+Role 				Programmer
+
+PLATFORM			VB.NET/SQL SERVER2000/crystal Reports9.0
+
+Project Objectives:
+
+Compute Capital Cain. 
+
+Compute Tax amount based on tax rate of different country.
+
+Apply Central Government Rule on Short-term Gain, Loss, Long –Term
+Gain, loss.
+
+Generate Reports For Capital Gain, Trade Details.
+
+Edge Tax:  
+
+Employer 			Choksi Technologies
+
+Project Duration 		May 06 to Nov 06
+
+Role 				Sr. Programmer
+
+PLATFORM			VB.NET/SQL SERVER2000/crystal Reports9.0
+
+Project Objectives:
+
+Define Sub-Account, FDI, and Group.
+
+Enter Equity, Debt, Units, Options, Futures, FDI (Foreign Direct
+Investment).
+
+Compute equity, debt based on corporate action (Split, Merger,
+De-merger, bonus).
+
+Compute Capital Cain. 
+
+Compute Tax amount based on tax rate of different country.
+
+Apply Central Government Rule on Short-term Gain, Loss, Long –Term
+Gain, loss.
+
+Generate Reports For Equity, Debt, Dividend, Interest, Tax Payment.
+
+Finally generate certificate for FDI to submit  Reserve Bank of India.
+
+	
+
+Myoyanke:  
+
+Employer 			Choksi Technologies
+
+Client		               	Myoyanke (US)
+
+Project Duration 		Dec 06 to till date
+
+Role 				Sr. Programmer
+
+PLATFORM			ASP. Net 2.0, C#, SQL Server 2000
+
+Project Objectives:
+
+The objective is to create a networked exchange that will allow members 
+	                               to   find goods and services.
+
+Find common interest groups.
+
+Create buying cooperatives and convey clear voting directions to
+politicians.
+
+Provide financial compensation to members who actively contribute
+content.
+
+MY PERSONAL DETAILS:
+
+	Sex	:	Female
+
+	Marital Status	:	Single
+
+	Date of Birth	:	13th Dec 1983
+
+	Strength	:	Proactive, Patient and Hard working.
+
+	Interest	:	Reading, Listening Music,Computer and Web-surfing.
+
+							(Manjusha Yande)
+
+ PAGE   
+
+		Page   PAGE  1  of   NUMPAGES  3 
+

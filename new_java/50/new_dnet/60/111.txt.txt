@@ -1,0 +1,489 @@
+ 
+
+	Contact Information
+
+ 
+
+ 
+
+Confidential
+
+Confidential
+
+Email: Confidential
+
+Phone: Confidential
+
+Mobile: Confidential
+
+Current Location: Mumbai
+
+ 
+
+	Personal Information 
+
+ 
+
+Date of Birth:  13 May 1975
+
+Gender:  Male
+
+Nationality:  India
+
+ 
+
+	Professional & Educational Details 
+
+ 
+
+Work Experience
+
+5 years 
+
+Skills
+
+VB.Net, ASP.Net, VB, ASP, SQL Server, XML, Style Sheet 
+
+Industry
+
+IT/ Computers - Software
+
+Category
+
+Software, Hardware, EDP
+
+Roles
+
+Software Engineer/ Programmer
+
+Current Employer
+
+Confidential 
+
+Current Annual Salary
+
+3.50 lacs per annum
+
+Work Authorization
+
+Authorized to work in India
+
+Highest Degree Held
+
+B.Sc, Physics, Marathwada University Aurangabad
+
+2nd Highest Degree Held
+
+Other, Other, Bostan's Computer Institution Pune
+
+Preferred Job Location
+
+Pune
+
+ 
+
+	 Domain Knowledge
+
+ 
+
+ 
+
+	IT/ Computers - Software
+
+ 
+
+
+
+	 Detailed Resume
+
+	
+
+Sandip R. Kulkarni 
+
+2/2, Vastu Anand, 
+
+Parsik Nagar, Kalwa, 
+
+Thane (W). 
+
+Telephone (M): 9820228193 
+
+E-mail:   HYPERLINK "mailto:sankul01@yahoo.com"  sankul01@yahoo.com  
+
+Date of Birth: May 13, 1975 
+
+B.Sc. + E-Biz with 4.10 years exp. in VB.NET, ASP.NET, VB, ASP, XML, SQL
+Server, Crystal Report, Cascading Style Sheet. 
+
+Key Skills: 
+
+VB.NET, ASP.NET, VB, ASP, XML, SQL-Server, Crystal Report, Cascading
+Style Sheet 
+
+Objective: 
+
+I want to build career in the Software Development, which will utilize
+my skills. 
+
+Educational Qualifications: 
+
+Exam 
+
+College/School 
+
+University/Board 
+
+Year of passing 
+
+% Attained 
+
+S.S.C. 
+
+Z. P. H. S. Sillod. 
+
+Dist-Aurangabad 
+
+Board Pune. Div. Board Aurangabad 
+
+1990 
+
+77.71 
+
+H.S.C. 
+
+S. B. College Aurangabad 
+
+Board Pune. Div. Board Aurangabad 
+
+1992 
+
+56.50 
+
+B.Sc. 
+
+S. B. College Aurangabad 
+
+Dr. B.A.M. University Aurangabad 
+
+1997 
+
+54.44 
+
+Professional Qualifications: 
+
+Course 
+
+Institution 
+
+Duration 
+
+Class 
+
+Diploma in Computer Software & Application (DCSA) 
+
+Computer Technology Centre. Yeshwantrao Chavan College, Sillod 
+
+Aug 1998 To Jul 1999 
+
+A+ 
+
+Ebiz.Com 
+
+Boston's Computer Institute, Pune. (Kothrud branch) 
+
+Nov 2000 To May 2001 
+
+Passed 
+
+VB.Net Programming 
+
+SEED InfoTech, Karve Road, Pune 
+
+Jul 2004 To Sep 2004 
+
+A+ 
+
+Passport Details: 
+
+Passport No. 
+
+: F 1546367 
+
+Date of Issue 
+
+: 28/12/2004 
+
+Date of Expiry 
+
+: 27/12/2014 
+
+Place of Issue 
+
+: MUMBAI 
+
+Software Proficiency: 
+
+Languages Known 
+
+: VB.NET, Visual Basic 6.0, Java, Adv. Java 
+
+Web Technology 
+
+: ASP.NET, ASP, XML, EJB, JSP 
+
+RDBMS 
+
+: Oracle 8i, SQL Server 7.0/2000, MS-Access 2000 
+
+Scripting Languages 
+
+: VBScript, JavaScript 
+
+Wireless Application 
+
+: WAP/WML 
+
+Front Ended Tools/GUI 
+
+: HTML, DHTML, Visual InterDev 6.0, FrontPage 2002 
+
+Operating System 
+
+: Windows 95/98/2000/NT, Dos 
+
+Version Control Tools 
+
+: VSS, Clear Case 
+
+Applications 
+
+: MS-Office 2000 
+
+Work Experience: 
+
+Name of Company 
+
+: CoinStar 
+
+Post 
+
+: Software Engineer 
+
+Period 
+
+: 01-Feb-2007 to Till Now 
+
+Experience 
+
+: 
+
+Name of Company 
+
+: Travelex India Pvt. Ltd. 
+
+Post 
+
+: Software Engineer 
+
+Period 
+
+: 28-Sep-2004 to 31-Jan-2007 
+
+Experience 
+
+: 2 Year 4 Months 
+
+Name of Company 
+
+: Divya InfoTech 
+
+Post 
+
+: Programmer 
+
+Period 
+
+: 20-Dec-2001 to 30-Jun-2004 
+
+Experience 
+
+: 2 Year 6 Months 
+
+Project Details: 
+
+5) CMT: 
+
+Title 
+
+: CMT (CoinStar Money Transfer) 
+
+Tools Used 
+
+: VB.NET, ASP.NET, XML, sqlXpress, Red Gate SQL, Beyond Compare, Defect
+Tracker. 
+
+Database 
+
+: SQL Server 2000 
+
+Summary 
+
+: This project is about money transfers. It includes website and back
+office system which are in ASP.NET and VB.NET respectively. Company
+agents use website for money transfer from various countries. They
+provide information about sender as well as receiver and other details
+to website. At other end agent receives information through website and
+inform to customer about his money. This money transfer has three
+products i) Money Transfer ii) Account Transfer iii) Courier Delivery. 
+
+Money Transfer: - Receiver has to collect money from agent manually. 
+
+Account Transfer: - Money gets transferred to receiver's bank account. 
+
+Courier Delivery: - Money gets delivered to receiver's postal address. 
+
+It is a maintenance kind of project. 
+
+Role 
+
+: My role is of a programmer. I have done form designing; creating
+database objects like stored procedures, views, triggers, functions for
+assigned modules according project document, making reports and handled
+coding part. 
+
+Creating scripts for deployment, Creating deployment kit, Deployment on
+UK server for system testing, Defect fixing, File Merging, Database
+Comparison etc. 
+
+4) TMT: 
+
+Title 
+
+: TMT (Travelex Money Transfer) 
+
+Module 
+
+: Country Info, Dual Auth, GOPI, Russian website, Password Expiry,
+Package 33 (Happy Package), Package 36-39-40-41, Package Multilingual 35
+& 50, Package 51& 52, Package 54 AML Phase I, Package 54 AML Phase II. 
+
+Tools Used 
+
+: VB.NET, ASP.NET, Visual Basic 6, ASP, XML, sqlXpress, Red Gate SQL,
+Beyond Compare, Defect Tracker. 
+
+Database 
+
+: SQL Server 7.0 / 2000 
+
+Summary 
+
+: This project is about money transfers. It includes website and back
+office system which are in ASP.NET and VB.NET respectively. Company
+agents use website for money transfer from various countries. They
+provide information about sender as well as receiver and other details
+to website. At other end agent receives information through website and
+inform to customer about his money. This money transfer has three
+products i) Money Transfer ii) Account Transfer iii) Courier Delivery. 
+
+Money Transfer: - Receiver has to collect money from agent manually. 
+
+Account Transfer: - Money gets transferred to receiver's bank account. 
+
+Courier Delivery: - Money gets delivered to receiver's postal address. 
+
+It is a maintenance kind of project. 
+
+Role 
+
+: My role is of a programmer. I have done form designing; creating
+database objects like stored procedures, views, triggers, functions for
+assigned modules according project document, making reports and handled
+coding part. 
+
+Creating scripts for deployment, Creating deployment kit, Deployment on
+UK server for system testing, Defect fixing, File Merging, Database
+Comparison etc. 
+
+3) Engg SAM 1.0.1 & 1.0.2: 
+
+Title 
+
+: Engg SAM (Engineering - Schedule and Advisory Master) 
+
+Module 
+
+: i) SR (Schedule of Rates): 
+
+SR notes, Area wise extra % of rates, Area wise GIS, Lift wise extra %
+of rates, Excavation lift charges, Survey work, Supply of material,
+Wages of labour, Machinery, Transportation, Pay load factor, Loading,
+unloading & stacking, POL component, Life of equipment, Output of
+machine, Fuel consumption, Asphalt consumption, Cement consumption,
+Cement Vs lime, Item details 
+
+ii) EQ (Estimating and Quantities): 
+
+Material, Transportation, Labour, Machinery, Other factor 
+
+iii) RA (Rate analysis): 
+
+Material, Transportation, Labour, Machinery, Other factor 
+
+iv) RevSR (Revise Schedule of Rates): 
+
+Market rates, Material, Labour, Machinery, Transportation, Tender
+analysis, Price indices 
+
+v) Tender: 
+
+Basic info, Documents, Selling, Submission, Opening, Comparison, Letter
+of intent, Work order, Contract extension 
+
+vi) Security: 
+
+Login, Log viewer, Security (User wise module access) 
+
+vii) Search: 
+
+Created search engine for each module. It is searching data on various
+conditions 
+
+Tools Used 
+
+: Visual Basic 6, Crystal Report 7 
+
+Database 
+
+: MS Access 2000 & SQL Server 7.0 
+
+Summary 
+
+: This project is related to civil engineering. It keeps information
+about construction. It does work of keeping information of government SR
+(Schedule of Rates). It also does work of estimation, tendering process,
+estimating & quantities; revise SR per year by using old SR, work
+scheduling, users, roles, security, logging and search. 
+
+SR module is keeping information of rates of material, labour,
+transporation, survey, machinery, lift wise extra % of rates. 
+
+Estimating and quantities module is keeping information of quantities of
+material, labour,… etc for each item in construction. 
+
+Project is using above information for rate analysis of each item in
+construction per unit. 
+
+Importing SR from excel sheet into database. 
+
+Role 
+
+: My role is of a programmer and later co-project leader. I have done
+requirement analysis, project document designing, GUI designing,
+database designing, coding and making reports. I have also done unit
+testing, creating deployment package and scripts for deployment. 
+
+
+
+	
+

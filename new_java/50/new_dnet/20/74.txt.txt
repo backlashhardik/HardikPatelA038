@@ -1,0 +1,186 @@
+Vinit S. Naik						            Phone	           : 022-28798706
+
+E-mail: vinit_nk@yahoo.com				            Mobile No.      :	9869758660	
+
+Summary of Skills:
+
+Positive Attitude to work in a cohesive team environment,
+team-contributor.
+
+Good communication, management and presentation skills.
+
+Desire to learn new skills and excel in given parameters.
+
+Having Good Knowledge of Banking Domain.
+
+Having Good Experience and Knowledge in Data Migration Activity.  
+
+Work Experience: 	
+
+Company	: CMS
+
+Duration	: Feb 2007 Till date
+
+Designation	: Data Base Administrator
+
+Job Profile	: Joined as Databases Administrator for  Client Development
+Credit Bank.
+
+Company	: Kalpataru Computer Services Private Limited
+
+Duration	: May 2005 – Jan 2007.
+
+Designation	: Support 
+
+Job Profile	: Worked as a SQL programmer/Support with experience and
+expertise in     
+
+               		       software and system planning, design,
+configurations, databases, and product  
+
+                            testing / evaluation and installing,
+upgrading, and  maintaining software.  
+
+                           Excellent time management and organizational
+skills. Also Handled Networking    
+
+                            related issues.
+
+Company	:NIIT Vivek Centre, Goregaon (W).
+
+Duration	: Sep 2001 – March 2004.
+
+Designation	: Machine Room Faculty
+
+Job Profile	: Guiding students during their practice sessions and
+helping them out with logic and                      
+
+                            program flow and assisting them in their
+Semester Projects.Taking Backup maintain   
+
+                            Database back. Creating data for testing
+purpose at the back  end. Also Handled  
+
+                            Networking  related issues.
+
+ 
+
+Database Administration (SQL Server 2000)
+
+Installation of SQL Server 2000.
+
+Disk Space Management. 
+
+Creation Databases and various database objects and privilege allocation
+on various database objects as per application requirements.
+
+Creation of new stored procedures according change of structure.
+
+Testing the Store procedure.
+
+Monitoring the Database Servers.
+
+Backup of Database Servers and Logical Logs Using DTS/Restore utility.
+
+Creation of index objects, running update statistics scripts to maintain
+system catalog tables up to date, reorganization of tables that are
+overly fragmented for improving the performance.
+
+Technical Skills:
+
+Languages	VB6.0, 
+
+RDBMS	MS-SQL 2000
+
+Web Technologies	ASP, DHTML, HTML, CSS, Crystal report,IIS
+
+O.S.Platform 	Windows NT, Windows 2000, Windows 2003,Linux
+
+
+
+Project Experience:
+
+Project Name	: Data Migration 	
+
+Responsibility  : Coding, Testing and Implementation at Client place.
+
+Platform	:  SQL server 2000.
+
+Description	: The existing Data of the client  was migrated from there
+existing system  
+
+                            (oracle Database) to  our Database  SQL
+2000.The data of Transaction done by 
+
+                            customer and Customer out standing balance.
+
+Project Name	: Data Migration as well as Interface	
+
+Responsibility  : Coding, Testing and Implementation at Client place.
+
+Platform	: Microsoft Visual Basic 6.0, SQL server 2000.
+
+Description	: Data Migration is the utilities through which we can
+migrate the data from their   
+
+ 	  existing Database to current Database. We migrate the data of Slips
+and billing.  
+
+	  Prepared the Stored Procedure for pulling the data from existing
+Oracle system 
+
+	  to SQL2000 database. 
+
+Project Name	: Depository Back Office System                
+
+Responsibility	: Support 
+
+Platform	: Microsoft Visual Basic 6.0, SQL server 2000.
+
+Description	: Kalpataru’s software captures the data Like client
+information, ISIN, Market     
+
+  Rate etc. from DPM (Depository Participant Module). This software did 
+
+  transactions like Client to client, Broker to client etc. then upload
+to DPM and   
+
+                            also utility to convert the DEMAT.
+
+Project Name	: LADS (Loan Against  Demat Shares)
+
+Responsibility	: Testing   
+
+Platform	: Microsoft Visual Basic 6.0, SQL server 2000.
+
+Description	: Lads is a software Which allows you to take Loan Against
+shares. Branch    
+
+  module was on Web which was prepare on Active Server Page and the HO
+part  
+
+                            was Done on Visual Basic 6.0
+
+ 
+
+Personal Details:
+
+Qualification			:B.Com from Mumbai University  
+
+Professional Qualification	:DNIIT from NIIT.
+
+Date Of Birth			:5th July 1982.
+
+Hobbies			:Reading, Listening music. 
+
+Address			:S/2/20 Shree Dwarakadish HSG Society,
+
+                                                     Bangur Nagar,
+Goregaon (w).
+
+                                                     Mumbai 400090.
+
+       
+
+Place: 	Mumbai						                        Vinit Naik
+

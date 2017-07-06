@@ -1,0 +1,233 @@
+VINOD J. JANGLE
+
+201, Nutan Manas Appt, Koparkhairane, Navi Mumbai 
+
+Cell: 9920595224 • vinodjangle@yahoo.co.in 
+
+
+
+Software Developer and Web Developer !
+
+Objective :  To secure a challenging position to utilize my skills and
+abilities in the Information Technology Industry that offers
+professional growth while being resourceful, innovative and flexible.
+
+	
+
+Core knowledge and skills :
+
+valuable internship experience 
+
+Analytical, detail oriented with strong programming skills 
+
+Strong interpersonal skill  
+
+ 
+
+
+
+PROFESSIONAL EXPERIENCE
+
+ 
+
+(A) LUSCIOUS TECHNOLOGY PVT. LTD., Pune,  			Jan 2006 – June 2006
+
+Trainee / Software Developer
+
+Recruited as a trainee for web development and software development
+projects in internship program at last semester of MSc (Computers). The
+responsibility given to design and implement programs for running
+projects. During this period I develop Budgeting Management Information
+System project for client Reliance InfoCom. Platform used is JSP,
+Servlet, Struts and MySql as Database server.
+
+Key Achievements:
+
+•	Training on Java technology 
+
+•	Development and web design Exp.
+
+(B) PANACEA MULTI SERVICES PVT. LTD., Airoli, Navi Mumbai            
+Jan 2007 – Present
+
+ Software Developer
+
+Recruited here as Junior Software developer for web development
+projects.  Responsibility provided to generate code development,
+business plans, project documentation, and delivery of product
+application.
+
+  
+
+Key Achievements:
+
+Re-engineering of application (web based apps.) 
+
+Developed highly effective Software Manager Application
+
+Project deals for Back office projects (Data Processing)
+
+Data processing work experience (conversion from *.pdf to *.doc.)
+
+VINOD J. JANGLE
+
+
+
+	
+
+TECHNICAL EXPLOSURE
+
+  Platforms :   Windows 9x/NT/2000/XP
+
+ Languages :   Core Java, VB, Vb.Net
+
+          Web Technology :   HTML, JavaScript, JSP, Servlets, ASP.Net
+
+                      Database :   Oracle 9i/ 10g, MS Sql, MySql
+
+                    Web Server :   Internet Information Services (IIS)
+Server , TOMCAT Server 5.X version.
+
+                     Awareness :    Bea Web Logic Server, Apache Struts
+1.2.6 (MVC Framework)
+
+EDUCATION & CREDENTIALS
+
+Master of Computer Science – (58.00%) Second Class  
+
+DOCS, North Maharashtra University, Jalgaon.
+
+Bachelor of Science in Computer Science – (63.00%) First Class
+
+M. J. College, North Maharashtra University, Jalgaon.
+
+H.S.C. (Science stream) – (60.00%) First Class
+
+M. J. College, Jalgaon  
+
+S.S.C. – (60.00%) First Class
+
+L N High School, Jalgaon  
+
+ 
+
+PROJECTWORK  Experience
+
+Budgeting MIS  - JSP, Servlet and MySql
+
+Gas Agency Management – VB6 and Oracle 7.
+
+Institute Management – ASP.Net 2.0 and Sql Server 2000
+
+Website :   HYPERLINK "http://www.panaceamultiservices.com" 
+http://www.panaceamultiservices.com  – HTML, ASP, Dream viewer
+
+Library Management system – ASP.Net and Sql
+
+                                                                        
+                               (Details are on last page…)
+
+PERSONAL  INFORMATION
+
+             Name :   Mr. Vinod J. Jangle
+
+ Date of Birth :   04th May 1984	
+
+         Address :  71, Dixit wadi, Jilha Peth, Jalgaon – 425001. (Ph
+: +91 257 2232304)
+
+    Nationality :  Indian
+
+Marital Status :  Single
+
+   Languages  :  English, Marathi, Hindi
+
+         Passport  : NA
+
+Project details 
+
+Budgeting MIS – (Reliance InfoCom)                            Platform
+: JSP/ Servlets / Struts and MySql
+
+Internship project, developed at Luscious Technology, Pune for the
+client Reliance Infocom.  
+
+Role: Design and code development.
+
+Duration: 5 months
+
+Description: In this project various reports are generated as per
+company plans, for there finance dept. to schedule the budget details
+and expenses.
+
+Gas Agency                                                              
+                            Platform : VB6 and Oracle 7
+
+This project developed for the BSC project work, developed for client
+Harshil Gas Agency, Jalgaon.  
+
+Role: Design and code development
+
+Duration: 3 months
+
+Description: In this project various office automation facilities
+provided to convert their manual work to towards computerization. Daily
+reports are generated as per needs and requirements, for there vendor as
+well as them also.
+
+  HYPERLINK "http://www.panaceamultiservices.com" 
+http://www.panaceamultiservices.com                                     
+Platform : HTML, ASP, and Dreamviwer
+
+This website is developed at panacea multi services, as company website.
+
+Role: Design and code development
+
+Duration: 1 month
+
+Description: This is the home site of company Panacea Multi Services
+Pvt. Ltd. This includes all the company profile and user transaction as
+Submission of resumes and feedbacks. The site supports both static and
+dynamic pages.
+
+Institute Management                                                    
+                       Platform : ASP.Net and Sql server
+
+Practice project, developed personally, for the client as the Training
+Institutes to manage their daily work as automation tool.   
+
+Role: Design and code development
+
+Duration: 3 months
+
+Description: In this project various operations and reports are
+generated as per daily need. This project works as an office automation
+tool. 
+
+Library Management system                                               
+               Platform : ASP.Net and Sql Server
+
+This project, developed for library management as an automation tool.
+
+  
+
+Role: Design and code development
+
+Duration: 2 months	
+
+Description: This project works as office automation tool. It supports
+the daily ongoing transaction for library as receiving books,
+dispatching boos maintaining records and generation of monthly reports.
+                                                                       
+                                                                        
+     Vinod J. Jangle
+
+                                                                   
+
+       
+
+                                                                       
+[Signature]
+
+ 
+

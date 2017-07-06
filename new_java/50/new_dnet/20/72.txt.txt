@@ -1,0 +1,210 @@
+	       
+
+C u r r i c u l u m      V i t a e
+
+Career Objective
+
+Being given an opportunity, I will use my technical skill at my level
+best and achieve my best along with the progress of the firm.
+
+Educational Qualifications 
+
+B.E. Computer with 61% from North Maharastra University, Jalgaon in May
+2004.
+
+Diploma in Computer Engineering with 62.63% from Government Polytechnic
+Thane, MSBTE Mumbai in June 2000.
+
+S.S.C. with 58% from Mumbai Board, Mumbai in March 1995.
+
+Passed Brain bench certification in ASP.NET.
+
+Computer SKILLs
+
+Operating Systems	       : Ms-Dos, Windows 95 / 98 / XP.
+
+Languages		       : SQL
+
+Microsoft Technologies       : Dot Net Architecture, VB.Net, ADO.Net,
+ASP.Net, C#.
+
+Databases		        : MS-SQL Server 2000.
+
+Work Experience
+
+Currently working as IT-Executive in  HYPERLINK "http://www.cybage.com/"
+All cargo Global Logistics Ltd .
+
+  Company Profile:  HYPERLINK "http://www.cybage.com/" All cargo Global
+Logistics Ltd   is shipping company. Merge of 3 companies  
+
+ HYPERLINK "http://www.cybage.com/" All cargo Global Logistics Ltd . 
+
+ HYPERLINK "http://www.cybage.com/" TransIndia Freight Services Pvt Ltd
+.
+
+ HYPERLINK "http://www.cybage.com/" ECU Line  
+
+    Duration: 11 Sep 2006 to Till Date 
+
+Project:  Intranet
+
+This is Three Tier Architecture. The process begins with the requester
+send a request to the authority person about the problem he is facing in
+the system. Depending on the problem the solving time and status has
+been declare automatically. For Each process the logs are maintain so
+the authorized person of concern department can keep the track.
+
+There are following sections in intranet to ease the processes.
+
+Help Desk
+
+Capital Sanction Note
+
+Man Power Requisition System
+
+Hardware Inventory
+
+Publishing News, Articles, Events
+
+Developed in Asp.NET with C# as Front End and SQL SERVER 2000 as Back
+End   
+
+2. Working as Software Developer in  HYPERLINK "http://www.cybage.com/"
+Magnum E Broking Pvt. Ltd , from 1st Aug 2005 to   30 Aug 2006.
+
+  Company Profile:  HYPERLINK "http://www.cybage.com/" Magnum E Broking
+Pvt. Ltd  is an broking firm.
+
+    Duration: Aug 2005 to Sep 2006 
+
+Project:  Time and Attendance System	
+
+               There are two modules in Time & Systems.  The first one
+is Mustering Module.  In this module the data from tab files (text file)
+get into our database tables and then processing for Time In & Time Out,
+Late, Early or OT will be calculated for each employee.  And also
+calculate Absentees for each employee.
+
+The other one is Time & Attendance module.  In this module, the shift,
+Leave and Rota master is present for assign of shift, leave & Rota code.
+  After completion of process of Mustering Module, Reports will be
+generated like daily Attendance Reports, Early / Late Report, Department
+wise Present or Absent Report & Muster Report for a month.   This whole
+is based on Swap Card System.  After swapping the card, the data get
+into tab file & then time & Attendance process goes on.
+
+Developed in VB, NETas Front End and SQL SERVER as Back End   
+
+Project: Sub broker Registration and Printing System
+
+There are 3 modules in this Sub broker Registration & Printing system.
+The first one is for the registration sub broker and details .In this
+sub broker has to give all is details.
+
+The second one is printing all the form of that has been submitted both
+at SEBI .The agreement between the Stockbroker and Sub broker is
+printed.
+
+And third is report of the sub broker. Through which exchange he is
+registered.
+
+ 
+
+Developed in Asp.net as Front End and SQL SERVER as Back End   
+
+ A WEBSITE FOR MAGNUM EQUITY & BROKING LTD. – 
+
+Environment:        ASP.net, SQL Server 2000, Oracle
+
+Role: 	  Software design and analysis 
+
+Duration:               6 months
+
+Website:               www.magnumlive.com
+
+Group Member:     4
+
+3. Worked as Junior Software Developer in  HYPERLINK
+"http://www.cybage.com/" Allied InfoTech , Mumbai, from 24th June 2004
+to 27 July 2005.
+
+Company Profile:   HYPERLINK "http://www.cybage.com/" Allied InfoTech  
+is an Organization involved in providing customized Financial ERP,
+Educational ERP, Judiciary ERP etc., and Software Solutions &
+Development. They are also into Data Processing and Conversion, Web
+Technologies etc. They have clients like Bharat Petroleum Corporation
+Limited (BPCL), Govt. Engg. Colleges, JobsPreview.Com etc. 
+
+Duration: June 2004 to July 2005
+
+PROJECT TITLE: ADVAANCE RETAILER (Shop and wholesaler’s Inventory
+Management system)
+
+PROJECT DESCRIPTION:
+
+	The project involved the stock and inventory management of retail shops
+as well as Wholesalers. Handling the daily purchase and sales entries
+along with the accounting details of the daily transactions. The
+software is based on VB.NET as a front-end and SQL 7.0 as a backend. My
+role in this project was to develop a certain aspects of the project and
+to handle the support team for guidance.
+
+Developed in VB.NET as Front End and SQL SERVER as Back End  
+
+     
+
+PROJECT AT B.E. 
+
+A project on “Magnetic Resonance Imaging “was done in B.E.  Which
+Dealt with MRI scan images.
+
+SEMINAR AT B.E. 
+
+A seminar on “M-Commerce”.
+
+PROJECT AT D.C.E
+
+A project on “Keyboard Swapping “was done in Diploma which dealt
+with using two keyboards simultaneously on the same PC.
+
+Hobbies
+
+Watching Movies, Listening Music.
+
+Personal Information
+
+Full Name 		: Chandrakant H. Koli
+
+Date of Birth       		: 16th Oct 1978
+
+Marital Status       	: Married
+
+Permanent Address	:  2/1, Gajanan Colony CHS, Near Shivaji Colony,
+Jarimari Nagar, Kolsewadi, Kalyan (E) 
+
+Pin                                      : 421306.                      
+                                                                     
+
+Mobile no.                          : 9892648131
+
+Phone no.                          : 0251-2331779
+
+Email                                  : chandrakant_koli@yahoo.co.in	
+
+Languages Known     	: English, Hindi & Marathi 
+
+If given a chance I promise to be a responsible and earnest person,
+putting my best of efforts in everything I do. The information provided
+above is true to the best of my knowledge and belief.
+
+Date 		: 
+
+Place	               :  
+
+                                                                        
+                                          
+
+                                                                        
+                                     CHANDRAKANT H. KOLI
+

@@ -1,0 +1,229 @@
+Asesh Kumar Maity
+
+Email  : aseshmaity@hotmail.com
+
+             asesh_maity@rediffmail.com
+
+Mobile : +91-9892809269
+
+
+
+	
+
+Work Experience:
+
+2.5  years of experience in the Web oriented Microsoft .NET technology.
+
+Present Employer: 
+
+Presently I am working with Tata Interactive System, Mumbai as a
+Software Engineer.I am working in this company since July 2006 to till
+date.
+
+Previous Employer: 
+
+I worked for  Byzan Systems Pvt. Ltd. Mumbai as Software Developer. I
+worked in this comapny from - Oct 2005 to June 2006.
+
+I worked for  ABM Knowledgeware Ltd. Mumbai as Associate Developer. I
+worked in this comapny from - Dec 2004 to Sept 2005.
+
+Technical Skills: 
+
+Programming Languages	 : C#,VB.Net.
+
+Web Technologies   	 : ASP. Net 1.1/2.0 using C#, HTML.
+
+Scripting Languages         : VB Script, Java Script.
+
+Database 			 : MicroSoft SQL Server 2000.
+
+EAI Tools 			 : Knowledge on Microsoft Biztalk Server 2004.
+
+Qualification:
+
+Master of computer Application. (M.C.A) from North Maharastra University
+(N.M.U), 
+
+     Institute of Management and research, Jalgaon, Maharastra (M.S).
+
+B.Sc. (Phys,Math,Elect.) from Dr.B.A Marathwada University
+Aurangabad,Maharastra (M.S).
+
+	
+
+Project Exposure : 
+
+I Knowledge Syncronicity : -  
+
+Company    			: Tata Interactive Systems. Mumbai
+
+Frontend     		          : ASP.NET 2.0 using C# & Javascript.
+
+Database         		: Sql Server 2000.	
+
+Role                                     : Involved in the project from
+the development stage. Apart from coding 
+
+					   Database  handling like stored procedure,cursors are done. 	
+
+	
+
+Details                               : IKS is an online education
+portal in which engineering students can,read,view and purchase the
+CAD,CAM courses.My role in this project is to create the E-Commerce
+module. It contains online purchase of Course,Assessments and Physical
+merchandise for individual and team users.
+
+Duration  	             	: From Jan 2007 to April 2007.
+
+Bank Of Montreal : -  
+
+Company    			: Tata Interactive Systems. Mumbai
+
+Frontend     		          : ASP.NET 2.0 using C# & Javascript.
+
+Database         		: Sql Server 2000.	
+
+Team Size			: Six.
+
+Role                                     : Involved in the project from
+the prototype stage. Functional Specification Document for certain
+modules was done. The use cases, method defining and defining Stored
+Procedures was done for certain modules.After the prototype stage during
+the actual production of certain modules were independently handled. 
+
+Details                                    :  This Product is developed
+for Bank of Montreal, Canada, which is a E-Learning Product. This
+includes a Learning Infrastructure [LI] and Authoring Tool [AT]. With
+the help of this tool the bank employees will undergo training for
+different subjects. Using the LI, the admin creates login for the users.
+The admin will create the courses using the AT. The Learner can take the
+courses using the LI.The courses are of three types. Dhtml, Flash &
+Jaws. The jaws version of the course is 508 compliant.
+
+Duration  	           	: From July 2006 Jan 2007.
+
+Motor Claims Systems : -  
+
+Company 			:  Byzan Systems Pvt Ltd. Mumbai.	
+
+Front End			:  ASP.net Using C#.
+
+Database 			:  MicroSoft SQLServer 2000.
+
+Operating System		:  Windows 2000 professional.
+
+Team Size			:  Three.
+
+Role				:  Coding UI,Class.
+
+Details                              :  This is a web application of
+Claims of Motor Vehicles undergone    by ICICI Lombard at 4 locations in
+India.This system explores how ICICI Lombard processes the Claims of
+motor vehicles.The processes starts according to the users and according
+to their jobs they updates the claims and forwarded to the next
+corresponding Users.
+
+Duration 			: Oct 2005 to May 2006
+
+ABMAQUA : -  
+
+Company 			:  ABM Knowledgeware Ltd. Mumbai.
+
+Front End			:  ASP.net Using C#.
+
+Database 			:  MicroSoft SQLServer 2000.
+
+Operating System		:  Windows 2000 professional.
+
+Team Size			:  Eight.
+
+Role				:  Coding UI,Class.
+
+Details                               :  It is about Computerization of
+Water Will department of MCGM at 31 locations.System caters to typical
+needs of utility like Granting of new Connection, Meter Reading For
+Monthly /Quarterly cycle, Disconnections of meter, Meter Cut Off, Meter
+Restoration Information, Generation of water bill, Amendment of billing
+Information, Cancellation bills, Disputes & Settlements of bills,
+Generation Of Supplementary bill, Deposit collection, Receipts.
+
+Duration 			: May 2005 to Sept 2005
+
+Crown Prince Private Management : -  
+
+          
+
+Company 			:  ABM Knowledgeware Ltd. Mumbai.
+
+Front End			:  ASP.net Using VB.
+
+Database 			:  MicroSoft SQLServer 2000.
+
+Operating System		:  Windows 2000 professional.
+
+Team Size			:  Eight.
+
+Role				:  Designer,Programmer.
+
+Details                                                Details          
+                     : This project is a mini ERP system developed for
+company named Management of Presidential Affairs that manages the
+properties of Prince of Abu Dhabi. It includes various modules like
+Inventory, Stores, Purchase, HR, Payroll, Accounts, Project and
+Documents. It includes Control level security that implemented in each
+page.For reporting Crystal Reports are used as reporting tool.
+
+Duration 			:  Dec 2004 to May 2005
+
+Training Project Exposure : 
+
+Company 			: Techsoft Nirvana (India) Pvt. Ltd
+
+Front End			: ASP. Net using C#.
+
+Database 			: Microsoft SQL Server 2000.
+
+Operating System		: Windows XP.
+
+Team Size			: Four.
+
+Role				: Designing and Programming.
+
+Project Details	          : This is a web based application of Staffing
+Power.This site provides temporary Employees and Helps the people
+according to their needs. This site was done under the leadership of
+Mr.Balbhim Dhere, Proj.Leader Of TechSoft Nirvana (I) Pvt.Ltd. Pune,
+Maharashtra.
+
+Duration 			:  Dec 2003 to April 2004
+
+Personnel Information:-		
+
+Date of Birth 		: 2nd July, 1977
+
+Martial Status 		: Single.
+
+Languages Known 		: Hindi, English,Bengali.
+
+Passport Details                : Applied for.
+
+Address		           : 202A Surendra Appartment,
+
+Hira Nagar.
+
+Mulund (West)
+
+Mumbai -80
+
+Place   : Mumbai 
+
+Date    :
+
+Asesh Kumar Maity
+
+ PAGE   2 
+
+ PAGE   1 
+

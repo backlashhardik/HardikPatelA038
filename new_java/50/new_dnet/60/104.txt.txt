@@ -1,0 +1,287 @@
+Prashant Nair
+
+                                                                        
+             Mobile: 9323544023
+
+	
+
+E-Mail:   HYPERLINK "mailto:negi_shalaka@hotmail.com" 
+pnair126@yahoo.com 
+
+EXPERIENCE SUMMARY
+
+3.3+  years experience in the .NET Technology
+
+Developed UI screen using ASP.NET
+
+Developed the Business Objects 
+
+Created Stored Procedures in SQL Server 2000.
+
+Integration Testing and Integrations of the various Modules
+
+Created and Executed unit test cases.
+
+Education	B.E. (Electronics) from Mumbai University  - 2003
+
+
+
+
+
+	Organizations worked	Countrywide Financials Corporation Ltd.
+
+Ness Technologies (India) Ltd.
+
+Stream TracMail(India) Ltd
+
+
+
+	Skills & Expertise	Core Skills:  .NET, ASP.NET, C#.NET,SQL SERVER
+
+
+
+Software Experience 
+
+
+
+Operating Systems                      	Windows 9X ,Windows 2K, Windows
+XP, Windows 2003
+
+Reporting tools
+
+	Crystal Reports 10
+
+Packages
+
+	Database Management Systems
+
+	SQL SERVER 2000, SQL SERVER 2005
+
+Languages known	C#, VB.NET, C++,C, Pascal
+
+
+
+GUI	ASP.NET 2.0 
+
+
+
+Training
+
+	ASP.NET  1.1, C#
+
+Macromedia FLEX 
+
+Communication Skills & Business Etiquette
+
+
+
+	Role Played Currently	Software Engineer
+
+
+
+
+
+	
+
+PROJECT DETAILS
+
+Organization: Countrywide Financials Corporation India Ltd. (Mumbai,
+India) 
+
+June 2007 –Present	Global Quotation System (Prudential / Barclays –
+UK)	Software Engineer
+
+
+
+Product Description
+
+GQS is Global Quotation System, developed to submit online mortgage
+application as per the FSA of UK Government. Application takes user
+inputs and at the end of the application, generates a PDF file with data
+populated by user. Application also does hand shake with other
+application GOS (Global Originating System).
+
+Software Environment
+
+ASP.Net 1.1, C#.Net, SQL 2000, HTML, Java Script, Source AnyWhere
+
+Roles & Responsibilities
+
+Code Review
+
+Developing software in ASP.NET 2005
+
+Study of requirement, discuss it with the Business Analysts and
+designing the pages accordingly.
+
+Responsible for development and major enhancements.
+
+April 2007 –May 2007	Mortgage Sales Tool (Barclays – UK)	Software
+Engineer
+
+
+
+Product Description
+
+MST is a web application being used by Barclays to generate PDF
+documents which later on used by Barclays to update another system named
+GOS (Global Originating System). MST uses multiple web services to
+decide and generate required PDF document as an output
+
+Software Environment
+
+ASP.Net 2.0, C#.Net, SQL 2000, HTML, Java Script, Source AnyWhere
+
+Roles & Responsibilities
+
+Code Review
+
+Developing software in ASP.NET 2005
+
+Study of requirement, discuss it with the Business Analysts and
+designing the pages accordingly.
+
+Interacting with the client for implementation
+
+Organization: Ness Technologies (India) Ltd. (Mumbai, India) 
+
+June 2006 –March 2007	Ness Information Management System (NIMS)
+Software Engineer
+
+
+
+Product Description
+
+Nims aim to provide automation of resource management in the Ness Global
+Services. It will help Sales, Resource, Finance, Lca (Labor Condition
+Approval), Immigration and HR department to track requirements,
+proposals, and candidate's details. It will automate the whole process
+of recruitment in the company from the point a new requirement is raised
+till the candidate starts working at clients place. It will also help to
+update salary, billing and vendor rate changes during the course of
+project execution. It will provide features to take care of project
+termination or extensions of candidates on their respective projects.
+Nims will provide each user with reports to track the performance of
+candidates, resource and sales team. It will helpful to track the
+history of candidates and requirements.
+
+Software Environment
+
+ASP.Net 2.0, C#.Net, SQL 2000, HTML, Java Script, VSS
+
+Roles & Responsibilities
+
+Code Review
+
+Developing software in ASP.NET 2005
+
+Creating tables and Stored procedures
+
+Study of requirement, discuss it with the Business Analysts and
+designing the pages accordingly.
+
+Interacting with the client for implementation
+
+December 2004 –May 2006	Long & Foster Companies Limited [VI, USA]-
+Relocation Department(Pegasus)	Software Engineer
+
+
+
+Product Description
+
+The project of Long & Foster Corporate Relocation provides relocation
+management services to companies and corporations. The Corporate
+Relocation organization specializes in policy consultation and design,
+services development and relocation program management. Long & Foster is
+the leading one-stop, total homeownership company in our five-state,
+Mid-Atlantic region with 200 Sales Offices and 10000 Sales Agents.
+Currently the system followed at L&F is as follows: The agent fills a
+Case sheet form and submits it to the sales office. The sales office
+then couriers these forms to Headquarters in Fairfax. These case sheet
+forms are then sorted, processed and manually entered into a system
+called ACE for commission processing. Only after the information is
+entered into ACE system, it is available to other services departments.
+Above process takes a significant time and L&F looses the opportunity to
+sell its other services to potential customers involved in the case. An
+online case sheet system is required which will allow agents to record
+information about cases and customer as soon as it is available in to a
+system that can be used by other departments to offer their services to
+potential customers pro-actively.
+
+Software Environment
+
+. NET 1.1 (ASP.NET 1.1, C#), SQL Server 2000, Windows 2000
+
+Roles & Responsibilities
+
+Developed the screen for the various modules
+
+Developed the Business Objects for the developed modules as well as for
+other modules
+
+Responsible for creating the store procedures required in the assigned
+module using SQL Server 2000
+
+Bug fixing for various modules
+
+Worked on the Change Requests for the existing modules
+
+Writing of Program Specifications
+
+Integration Testing and Integrations of the Modules
+
+July 2004 – November 2004	Long & Foster Companies Limited [VI, USA] -
+Case Sheet Online (CSOL)	Software Engineer
+
+
+
+Product Description
+
+The CSOL will allow L&F to have a central control on all the activities
+taking place during allocation of commission to agents and brokers. The
+Case Sheet On-Line CSOL application allows agents to complete an L&F
+case sheet on line.  The system provides integration with other
+application of L&F. The application provides various security levels
+within the organization and the same can be granted to other levels. The
+managers can approve the case sheet electronically. CSOL is also
+integrated with other applications taking in care the rules various
+business rules present in them. The CSOL also takes care about the
+object level access within the application.
+
+Software Environment
+
+. NET 1.1b(ASP.NET 1.1, C#), SQL Server 2000, Windows 2000, Microsoft
+HTML Help Files, NUnit 2.2, Ncover
+
+Roles & Responsibilities
+
+Listed down the test cases for the entire module
+
+Writing the NUnit Stubs for testing every module
+
+Used the NCover tool to generate the code coverage Report
+
+Created the HTML Help Files for the Project Using tool Microsoft HTML
+Help Files.
+
+Developed various modules for the project
+
+Responsible for creating the store procedures required in the assigned
+module using SQL Server 2000
+
+Writing of Program Specification
+
+Integration Testing and Integrations of the Modules
+
+PERSONAL DETAILS
+
+Address: 102 Orchid Palace, Marol Military Road, Andheri East, Mumbai
+400059
+
+Residence No.: 022-28508490
+
+Date of Birth: June 12, 1980
+
+Prashant Nair                                       PAGE  1  of  
+NUMPAGES  5 
+

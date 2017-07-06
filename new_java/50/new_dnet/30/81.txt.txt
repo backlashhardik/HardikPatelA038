@@ -1,0 +1,198 @@
+CURRICULUM VITAE
+
+SRINIVAS.K
+
+43, 9/B Ganesh Darshan,
+
+PMGP Colony,							E-mail: sreenukvr@yahoo.com
+
+Mumbai.						          Mobile: 09920286082
+
+    		                            	                                     
+                                                    
+
+Career Objective: To pursue highly challenging career in the computer
+science field where I can apply my technical knowledge, acquire new
+skills and contribute effectively to grow with the organization.
+
+Professional Profile:
+
+Having 3 Years of Experience in Software Development.
+
+Involved in Coding, Testing and Maintenance phases of software
+development life cycle.
+
+Involved in Object-oriented, client-server applications development
+using 
+
+C#, ASP.Net, VB.Net, ADO.Net, SQL Server 2000.
+
+Knowledge on VSS Environment.
+
+Involved in Manual Testing 
+
+Educational Qualifications:
+
+B.E (CSE) – with 62.1 % from VTU, Karnataka June 2003.
+
+Intermediate (MPC)  - with 81.1% from IPE, Hyderabad June 1999
+
+SSC with 85.5% from SSC Board Hyderabad
+
+Technical Exposure:
+
+MS Technologies 			: ASP.NET, VB.NET, ADO.NET, C#, Crystal Reports
+
+Internet Technologies	: HTML, Macromedia, Java Script.
+
+Databases		   		: SQL-Server and MS-Access.
+
+Experience:
+
+Working at PCS Technolgy, Mumbai as Software Developer From Oct 2005 To
+Till Date.
+
+Worked at HIRDHAV Software Pvt Ltd, Mumbai as Software Developer From
+Apr 2004 To Sep 2005.
+
+Projects:
+
+# Project Title: FMU Automation
+
+Customer : Indian Navy, Visakhapatnam.
+
+Environment : ASP.Net,  SQL Server 2000 
+
+Project Type : Development 
+
+Duration : Nov 2006 to Till Date
+
+Role : Coding, Designing WebPages & Implemented Testing.
+
+Description: This is an Application which maintains the database of
+Fleet Maintenance Unit (V). It has Modules like Admin Management, Mail
+Tracking, Production Planning, Budget Management and Logistics
+Management. It maintains the database of its Unit Employees & Provides
+reports to the User according to Selected Criteria.
+
+# Project Title: Sterlite Logistics
+
+Customer : Sterlite Industries (India) Ltd, Chennai.
+
+Environment : ASP.Net, VB.Net and SQL Server 2000 
+
+Project Type : Development 
+
+Duration : June 2006 to Till Date
+
+Role : Coding, Designing WebPages & Implemented Testing.
+
+Description: This is an Application which maintains the database of its
+Logistics Information like Orders Received, Orders Delivered, Trailors
+Entered & Trailor Processed out. It Provides facilities like Order
+Request from User and will be delivered on Deliver Date. It also
+maintains the database of its Company Employees & Security Officials and
+their Shift Bases and Provides reports to the User.
+
+# Project Title: Sandesh 
+
+Customer : Sandesh Newspaper, Gujarat.
+
+Environment : VB.Net, SQL Server 2000  & Crystal Reports 
+
+Project Type : Development 
+
+Duration : Dec 2005 to May 2006
+
+Role : Coding and Implemented Testing.
+
+Description:  Sandesh Publication is the second largest publication in
+Gujrat State in India. It Contains Modules like Newsprint, Circulation,
+Advertisement, Production and Admin Management. This Application
+maintain the database of all the Departments and Provides reports to the
+User.                       
+
+# Project Title: JFCS
+
+Customer : Jewish Family and Children’s Services.
+
+Environment: ASP.NET (C#),JavaScript & SQL Server 2000.
+
+Project Type : Development 
+
+Role : Coding,Designing WebPages & Implemented Testing.
+
+Description:  This website is developed for Jewish Family and
+Children’s Services.
+
+It maintains database of refugees, immigrants.
+
+Admin creates Staff giving username & password.
+
+He can set security levels on/off.	
+
+Admin & staff can add, edit, and delete information of refugees,
+immigrants.
+
+Staff can send mails & notifications.
+
+                                                       
+
+# Project Title:  Chanakiya Services
+
+Environment: ASP.NET, JavaScript & SQL Server 2000.
+
+Project Type : Development 
+
+Role : Coding, Designing WebPages & Implemented Testing.
+
+Description:  This website is developed with many resources like Job
+placement,
+
+Matrimonial, Horoscope, Online shopping, Health, Finance, Tours &
+Travels and 
+
+Computer Peripherals. User have an option to Chat.
+
+User has to register in Jobs & Matrimonial.
+
+# Project Title: Digital Dash
+
+Environment: VB.NET & Ms-Access
+
+Project Type : Development 
+
+Role : Coding & Implemented Testing.
+
+Description:  It is a Windows application project. This is a
+Multipurpose Component containing 
+
+File Browser, Memory Pad, Scientific Calculator, Audio Player, Video
+Player, Internet Browser.
+
+File Browser: When we click it, an Open File Dialog Box is opened
+containing many types of Application. We can open any type of
+Application using this.
+
+Memory Pad: Using this, User can Add Information to List Box, Edit
+Information From List Box, Delete Information From List Box, Find Option
+finds information from List Box & QWERTY Keyboard is provided in this
+application.
+
+Audio Player: This is an Audio Player component. It plays all types of
+files provided in Open File Dialog Filter. 
+
+Video Player: This is a Video Player component. It plays all types of
+files provided in Open File Dialog Filter. 
+
+Internet Browser: This is an Internet component having options like
+back, forward, stop, refresh, home, search etc., QWERTY Keyboard is
+provided in this application.
+
+I confirm that the information provided above is correct as per my
+knowledge.
+
+		
+
+							SRINIVAS.K                               
+

@@ -1,0 +1,193 @@
+RESUME
+
+Jayendra R . Wani						Address:-
+
+B.E.(Electrical Electronics And Power)			B1/C-508,Devadiga CHS,
+
+CDAC								Om Ngr, Andheri(East)         E-mail   HYPERLINK
+"mailto:jayendra_wani@yahoo.com"  jayendra_wani@yahoo.com 				Mumbai-99
+
+								Mob. 9821260252
+
+	
+
+Objective
+
+To pursue a rewarding career in software field and to associate with an
+organization, which progress dynamically, and gives me an opportunity to
+use my knowledge for the success of an organization.
+
+	Work Experience
+
+Total IT Work experience: 1.3 Year.
+
+May 2006 to Till Date    HRMantra Software Pvt. Ltd., Malad (west),
+Mumbai
+
+	Project 	       : Online Payroll and HR related software
+
+	Technology Used   : ASP.NET, VB.NET, SQL, Oracle
+
+	Software Constraints:
+
+	           Back-End   : MS-SQL, Oracle
+
+	           Front-End  : VB.NET
+
+                     Tools         : MS Visual Studio.Net 2000, SQL
+Enterprise Manager
+
+   	 Role                    : Coding, Database Design, Testing
+
+Project Description: Our Company provides the online ERP package like
+Payroll, HR, Leave and Attendance, Staffing. We tried to make this
+product a much more user-friendly than other available software. We
+provide package e.g. Payroll for an organization @ RS. 30/- per Employee
+per month.
+
+	I worked on Employee assets, Employee superannuation fund and employee
+appraisal part of this product.
+
+Sept 2005 to March 2006 Vishwayon Management and Software Pvt. Ltd.,
+Andheri           (East), Mumbai as a Software Developer (Trainee)     
+
+Project Details:
+
+Project		            : Mangalore Stores
+
+Client		            : Mangalore Stores, Mangalore 
+
+Technology Used	  : VB.NET, ASP.NET, MSSQL
+
+Software Constraints:
+
+	     Back-End    : MS-SQL
+
+	     Front-End   : VB.NET
+
+               Tools          : MS Visual Studio.Net 2000, SQL
+Enterprise Manager
+
+ Role                      : Coding, Database Design, Testing
+
+Project Description:
+
+This product provides the online shopping for customers. This product is
+developed targeting those people who do not have a time to go to market
+and purchase the things. Our solution gives the facility to these people
+of purchasing the desired things just by sitting on a chair and just
+filling some information required.
+
+For this project I had developed some windows forms that will be used by
+company for its internal use.
+
+April 2003 to March 2004    Electrovision Enterprises, Dombivili (East),
+Mumbai as an         Electrical Engineer
+
+Job Responsibilities: 
+
+Installation, Supervision of sites
+
+Purchasing of material
+
+To help in filling and submitting application for getting contract
+
+Academic Projects
+
+CDAC Project   “Online Stock Trading”
+
+The solution deals with ‘Online Stock Trading’. The project is
+planned for a bank, providing dematting service. This software provides
+all the features of Online trading like purchasing and selling of
+shares. It also gives information about various companies; there share
+prices and number of shares out, through numerical and graphical
+representation.
+
+Technology Used : C#, ASP.NET
+
+Duration             : 2 Weeks
+
+Team Size           : 5
+
+Role                   : Design and coding (database and components)
+
+Software Constraints
+
+     Back-end       : MS-SQL
+
+     Front-end      : VB.NET
+
+     Component    : C#
+
+Architecture        : Three tier – component based
+
+Tools                  : MS-Visual Studio 2003, SQL Enterprise Manager
+
+Hardware Requirements: IBM PC, RAM 512 MB and HDD 40 GB
+
+B.E. Project “Traffic Signal Controlling Using Microprocessor 8085”
+
+This solution facilitates to adjust the time and display the time
+according to traffic density. For this project we used Microprocessor
+8085 in mode 0 with interfacing IC 8255. We designed this project for
+our college Microprocessor Lab. We select this project to get the idea
+of Microprocessor’s application in real world.
+
+D.E.E. Project “Reverse Power Protection of Alternator Using Amplitude
+Comparator”
+
+Basically Alternator is used for supplying the power. This product
+protect the Alternator when it itself takes power rather than supplying.
+
+Software Knowledge
+
+Hardware Platform		: IBM PC P-IV 3GHz
+
+Operating System		: Windows 2000 Professional
+
+Programming Language	: C, C++, Java, C#, VB.NET
+
+RDBMS			: Oracle 9i, MS-SQL
+
+Web Technologies		: HTML, JavaScript and ASP.NET
+
+Web/Application Server	: IIS 5.0
+
+Tools				: SQL Enterprise Manager
+
+Application Software		: MS Visual Studio.Net 2000, MS Visual Studio .Net
+2003
+
+Educational Qualifications
+
+Aug 2005 Post Graduate Diploma in Advance Computing (CDAC) from MET,
+Bandra (west), Mumbai 
+
+July 2002 B.E. in Electrical Electronics and Power from P.E.S. College
+of Engineering under Dr.B.A.M.University with 65.6%
+
+June 1999 Diploma in Electrical Engineering from Govt. Polytechnic,
+Jalgaon under Maharashtra State Board Of Technical Education with 65.56%
+
+June 1996 H.S.C. from M.J.College, Jalgaon under Nashik Board with
+72.17%
+
+June 1994 S.S.C. from Jalgaon under Nashik Board with 80.14%
+
+ 
+
+	Achievements
+
+>Awarded for 100 out of 100 marks in Engineering Mathematics during
+Diploma First Year.
+
+>Participated in various sports events organized in college.
+
+	
+
+									 
+
+         Jayendra R. Wani
+
+                             
+

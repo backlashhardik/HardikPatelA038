@@ -1,0 +1,346 @@
+Sachin Belekar.
+
+Phone No: 9423388609				 		  HYPERLINK
+"mailto:sachin.belekar@gmail.com" sachin.belekar@gmail.com 
+
+                                                                        
+                                        belekar_sachin@yahoo.com
+
+ 
+
+Objective
+
+To become a part of result oriented and highly successful team involved
+in implementing innovative and new ideas in tune with quality standards
+and present day technologies.
+
+
+
+Professional Qualification	Year
+
+First class M.C.S. (Comp. Science.) From Pune University 	2004
+
+
+
+Career Profile
+
+Currently working with Relationware, Pune having around 3.6 years of
+experience in enterprise development with proficiency in C#.Net, SQL
+Server 2000, Oracle.
+
+
+
+Work Experience Details	Designation	Duration
+
+Relationware, Pune	Senior Software Engineer.	Oct2004 – till Date
+
+Microhard Unlimited Pune	Software Trainee.	Jan2004 - Oct2004
+
+
+
+Technical Skills
+
+Languages/Tools worked on	C#.Net, ADO.Net, PL/SQL, Visual Basic 6.0.
+
+RDBMS	SQL Server 2000,Oracle 9i, SQL Server 2005
+
+Web Server 	IIS
+
+Web Technology	HTML, XML, ASP.Net
+
+Methodology	UML
+
+OS	Windows 98/2000.
+
+
+
+Project Details 
+
+Employer: RelationWare
+
+Project #1
+
+Title			:	scanPRO.
+
+Duration		: 	12 Months.
+
+Environment	:	C#.Net, SQL Server 2005, Crystal Reports 8.5
+
+	Description:  
+
+	scanPRO is a software application that allows you to scan
+identification proofs, such as passports, identification (ID) cards, and
+driving licenses. It has a built-in logic with which you can identify
+invalid information that is encrypted in the documents. Reports
+generated based on the scanned information help you check the documents
+for their authenticity. You can export scanned information through file
+transfers (FTP) or emails. By using scanPRO, you can scan ID cards of
+citizens of the different countries and passports of all citizens.
+
+	Role:
+
+Involved in requirement gathering and analysis.
+
+Involved in database design. Report design and Coding of the project.
+
+Project #2
+
+Title			:	Asset Value Management(Survey Application) .
+
+Duration		: 	6 Months.
+
+Environment	:	C#.Net, ASP.Net, SQL Server 2000
+
+	Description:  
+
+	The Survey application comprises the creation of Surveys by a
+requestor, Release of Surveys to a select group of realtors on AVM’s
+website and fulfillment of the same by the recipients. A survey is
+composed of question bank and recipient list of realtors chosen by the
+requestor based on available criteria.
+
+	The application will allow the requestors to maintain multiple named
+question banks and recipient lists and associate those into a survey
+enabling re-use.
+
+	The application will also allow the requestors to build questions with
+allowable answers and specify how the answers be rendered to the
+recipient. Options could be rendered as radio buttons or a dropdown
+list; choices will be rendered as check boxes.
+
+	Role:
+
+Involved in requirement gathering and analysis.
+
+Involved in database design. Report design and Coding of the project.
+
+Project #3
+
+Title			:	Soham Engineering Foundation.
+
+Duration		: 	8 Months.
+
+Environment	:	C#.Net, SQL Server 2000, Crystal Reports 8.5
+
+	Description:  
+
+	A reputed construction company involved in various infrastructure
+development projects at various sites. The site engineer needs to
+calculate the various parameters like Foundation Bearing Pressure,
+Internal Stability, and Determination of Length from External Stability
+etc. for the construction site before starting actual construction. This
+is useful to prepare the exact estimation for construction site. The
+project involves these complex calculations and maintains the various
+data in the database. Engineer can generate various reports as per the
+requirement.
+
+	Role:
+
+Involved in requirement gathering and analysis.
+
+Involved in database design. Report design and Coding of the project.
+
+Handled all the issues individually.
+
+Project #4
+
+Title		:	Ware House management System for CFS. 
+
+Duration		: 	14 Months.
+
+Environment	:	C#.Net, Crystal Report 8.5, SQL-Server 2000
+
+	Description:  Container Freight Station (CFS) contains the stock of
+cargo of various shipping companies. This stock is undergone for custom
+examination, carting, stuffing operations , De stuffing operations and
+movement of containers to the appropriate destination. This project is
+being developed to maintain inventory of the cargo, this includes
+billing account, inward/out word of the cargo, report generation etc.
+The project contains three major activities for CFS 1) Export 2) Import
+and 3) Bonded.
+
+The software maintains all activities like In gate, Container in,
+Carting, Stuffing,De stuffing , Back to town, Shifting of container,
+Issue order , Movement of container, automatic billing etc.
+
+Software records all the activities in the database and generates
+various reports as and when required.
+
+Role:
+
+Involved in requirement gathering and analysis and design.
+
+Involved in database design. Report design and Coding of the project.
+
+Involved in code review and testing.
+
+Involved in the deployment of the system at client location.
+
+Employer: Microhard Unlimited, Pune
+
+Project #5
+
+Title: - CFC (Citizen facility Center) 
+
+Duration :- 8 Month
+
+Team Size :	6.
+
+Environment:- VB, SQL Server 2000, Crystal Report 7  
+
+Description: 
+
+A government office issues different certificates on demand of citizens.
+  In traditional process these certificates are prepared manually thus
+it takes long time for issuing any certificate. To reduce time and to
+make process easy the automation of issuing various government
+certificates was  done. This system is installed in other districts as
+well as taluka places apart from Pune Collector office.
+
+Role: 	
+
+Involved in Coding and design for master data entry form.
+
+Involved in testing of various modules.
+
+Personal Profile:
+
+Date of Birth			: 18th Mar 1981
+
+Sex				: Male.	 
+
+Marital Status		: Single.	
+
+	
+
+.
+
+F
+
+ࠀF
+
+S
+
+T
+
+g
+
+h
+
+i
+
+j
+
+µ
+
+Ä
+
+Î
+
+ý
+
+ý
+
+ﴆ
+
+ﴆ
+
+	
+
+*
+
+=
+
+J
+
+N
+
+R
+
+f
+
+u
+
+w
+
+€
+
+Ž
+
+™
+
+ 
+
+¡
+
+¬
+
+µ
+
+	
+
+愀̤Ѐ	
+
+*
+
+=
+
+>
+
+ÿs
+
+ä
+
+Ѐ>
+
+J
+
+N
+
+O
+
+R
+
+c
+
+Ԁc
+
+d
+
+e
+
+f
+
+w
+
+Ž
+
+™
+
+¬
+
+Ä
+
+ÿ
+
+hï
+
+hï
+
+h
+
+jq
+
+ sachin.belekar@gmail.com  HYPERLINK "mailto:belekar_sachin@yahoo.com"  
+, belekar_sachin@yahoo.com
+
+Hobby				: Reading.
+
+Address			: 62AD, E-Wing, Gurudatt Sahawas,
+
+   Shaniwar Peth, Pune.	
+
+  	
+
+Sachin Belekar.
+

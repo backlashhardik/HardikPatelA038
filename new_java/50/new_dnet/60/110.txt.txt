@@ -1,0 +1,213 @@
+B- 201- Blossam Park,
+
+292 S.V. Road, 
+
+Opp. Farooqui High School, 
+
+Jogeshwari West- 102
+
+Mumbai 400 102
+
+Mohd. Imran
+
+Career Objective:
+
+To work in an organization where opportunities are provided to leverage
+my conceptual and analytical skills and to add value to the organization
+and to myself. My dream firm would be an organization, which gives me
+space to think creatively and an opportunity to deliver to my best. 
+
+Working Experience
+
+Total IT Experience 18 Months (.Net 2.0)
+
+Worked with Information Technology Synchronized As a Software Executive
+from 01-09-2005 to 09-09-2006 on (Vb.Net, ASP.net, MS Access and
+Oracle10g).
+
+Working with Cybersol Technologies As a Software Executive from
+01-11-2006 to till date on (Asp.net, MS Sql Server).
+
+Project Experience
+
+1.	Product Name	: OMI
+
+Technologies		: Asp.net & Ado.Net
+
+Database		: MS Sql Server 2000
+
+Client			: OMCI Marine Services.
+
+Team size		: 3
+
+Duration		: 6 Months
+
+OMI Corporation provides seaborne transportation services for crude oil
+and petroleum products in the international shipping markets. The
+Company is engaged in two aspects of vessel operation, technical
+operation, which involves maintaining, crewing and insuring the vessel,
+and commercial operation, which involves arranging the business of the
+vessel.
+
+Vessel Inspection Module
+
+Demurrage Module
+
+MOC (Management of Change) Module
+
+Rebill Module
+
+Responsibility
+
+Coding and designing modules as per the client requirement.
+
+2.	Product Name	:  Synchronized Printing
+
+Technology		:  Vb.Net & Ado.Net
+
+Database		:  Ms Access
+
+Team size		:  1
+
+Duration		:  1 month
+
+Responsibility:
+
+1.  Designing the database.
+
+2.	Coding of data recording module & Printing module.
+
+3.	Coding of drag and drop labels in print form at run time.
+
+	
+
+Synchronized Printing is basically a small application for bill
+Printing. It has a label drag and drop facility at run time.
+
+	
+
+3.	Product Name	:  K11 Fitness Managements 
+
+Technology		:  Vb.Net & Ado.Net
+
+Database		:  Oracle 10g
+
+Team size		:  3
+
+Duration		:  4 month
+
+K11 Fitness Managements is a Fitness management application. Which
+includes all process of Gym management. It reduces total paper work.
+Including allowing members gym through Bio-metric Machine.
+
+Responsibility:
+
+1.  Designing the database.
+
+2.	Coding of Data entry Module and Biometric System Module and reports.
+
+4.	Product Name	:  K11 Hr Management
+
+Technology		:  Vb.Net & Ado.Net
+
+Database		:  Oracle 10G
+
+Team size		:  3
+
+Duration		:  3 months
+
+K11 Hr Management is an Hr management Application. It automates the
+process Hr Management thus reducing the paper work involved. It deals
+with complete workflow of Hr Management. 
+
+Responsibility:
+
+1.  Designing the database.
+
+2.  Coding and Designing of entire application.
+
+5.	Product Name	:  It-sync Attendance Management
+
+Technology		:  Vb.Net & Ado.Net
+
+Database		:  Ms Access
+
+Team size		:  2
+
+Duration		:  1 month
+
+It-sync Attendance Management an application to track attendance. It
+tracks leave, attendance and all stuffs related to Attendance and leave.
+
+Responsibility:
+
+1.  Designing the database.
+
+2.  Coding and Designing of entire application.
+
+6.	Projects	:  It-sync lead tracker
+
+Technology	:  Vb.Net & Ado.Net
+
+Database	:  Ms Access
+
+Team size	:  3
+
+Duration	:  2 months
+
+It-Sync is basically divided into two parts. 1. Software Development. 2.
+Call centre for ICICI Personal loan. It-sync lead tracker is an
+application to track and generate the leads of personal loan.
+
+Responsibility:
+
+1.  Designing the database.
+
+2.  Coding and Designing of entire application.
+
+Educational Qualification:
+
+2000-01			M.A. with First Class from Aligarh Muslim University.
+
+Other Achievement:
+
+Microsoft Certified Professional for SQL Server 2000. 
+
+Microsoft Certified Professional for ASP.Net.
+
+Microsoft Certified Professional for XML Web Service & Component.
+
+Computer Skills:
+
+Dos, Windows 98, Windows XP, Windows 2000.
+
+Html, Dhtml, Front Page 2000.
+
+Visual Basic.Net, ADO.Net, ASP.Net, COM+, XML Web Services.
+
+Ms-SQL Server 2000, Ms-Access 2000, Oracle 10g.
+
+Personal Details:
+
+Nationality		:	Indian.
+
+Martial Status		:	Married.
+
+Language Known	:	Hindi, Urdu, Arabic, English and Gujrati.
+
+Religion		:	Islam.
+
+Birth Date		:	4th September 1978.
+
+Gender		:	Male
+
+Hobbies		:	Reading Books, Cricket.
+
+Tel. No.		:	(M) 9820058820, 9892755099
+
+E-mail			:	mail2mohdimran@yahoo.co.in
+
+Date:
+
+							    (Mohd Imran)
+

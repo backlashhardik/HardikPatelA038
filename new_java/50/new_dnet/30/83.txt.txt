@@ -1,0 +1,171 @@
+Curriculum Vitae
+
+Mr. Abhijit Mhatre
+
+A-4, Om Shree Gokul, Near McDonalds, S. V. Road, Borivli (w),
+Mumbai-400092.
+
+Mob. No.: 9892452519              		Email: mhatre_abhijit@rediffmail.com
+
+Objective: 
+
+Searching for a position in an organization that offer’s development
+and growth possibilities.
+
+Work Experience:
+
+Organization: Patni Computer System
+
+Duration: 10 Month’s. 
+
+Designation: Asp.net, C#, SQL 2000.
+
+Reporting To: Project Leader. 
+
+Organization: Logistix Information Technology
+
+Duration: 8 Month’s. 
+
+Designation: Asp.net, VB.net, SQL 2000.
+
+Reporting To: Project Manager. 
+
+Organization: U-To Solutions (India) Pvt. Ltd.
+
+Duration: 10 Month’s. 
+
+Designation: Asp.net, C# Developer.
+
+Reporting To: Project Manager. 
+
+Roles and Responsibilities:
+
+Developing Applications in Asp.net with VB.net. 
+
+Developing Applications in C# and Asp.net. 
+
+Developing Store Procedure in SQL 2000
+
+Designing of Software with Html, Dhtml and JavaScript.
+
+                                           
+
+Educational Qualification:   
+
+Degree	Board / University	Year	Percentage (%)
+
+BE Instrumentation	Mumbai University	June 2004	63.35
+
+HSC	Maharashtra Board	March 1999	55.35
+
+SSC	Maharashtra Board	March 1997	71.06
+
+
+
+Technical Skills:
+
+Software Skills
+
+	Programming Languages	ASP.NET,VB.net ,C#
+
+Web Technologies	HTML, DHTML, CSS, JavaScript
+
+Databases	SQL 2000, MS-Access
+
+Application Server	IIS 5.1
+
+Operation Systems	Windows 98 / 2000 / XP
+
+Projects with PCS:
+
+Project Name: Project Information System
+
+Team Size: 		5
+
+Role: 			Development and Designing.
+
+Software: 		ASP.Net C#, SQL Server 2000.
+
+Description: 	This project is a web based Solution to know Project
+Status of a company. The project includes day to day status of projects
+which are going in the company. It also includes all the difficulty and
+problems in any department of any phase which could be seen to all the
+member of particular project.
+
+	All the member of particular project can add there comments, solutions
+and tips for problems and future aspects of the projects. Even new task
+and its status on graphical matrix can been known.
+
+			
+
+Project Name: PCS Fleet Management System.
+
+Team Size: 		5
+
+Role: 			Development and Designing.
+
+Software: 		ASP.Net C#, SQL Server 2000.
+
+Description: 		This project is a web vehicle Tracking System.
+
+			Which include Real time Tracking Screen and Analysis Reports.
+
+There is GPRS unit which emits message on event based or on particular
+time event .The message include latitude ,longitude ,temperature of the
+product ,all door status, ignition  status ,fuel count and various
+sensor information of particular vehicle on which the unit is placed
+.Depending on this information we can set alerts And even we can inform
+the owner about the status of there vehicle and its content .We also
+store the information  depend upon the data  we customise the reports .
+
+Projects with Logistix:
+
+Project Name: Gas Project
+
+Team Size: 		4
+
+Role: 			Development and Designing.
+
+Software: 		ASP.Net VB.Net, SQL Server 2000.
+
+Description: 		This project is a web based ERP developed for GAS Project
+
+
+Which include Marketing, Finance, H.R, Inventory module. Gas Project is
+actually Petrol Pumps Setup Company .So in the marketing Module include
+the Cost and Facility and Security offer by the company Different type
+of setups It also includes the rates offer by the competitors And also
+have comparison option. 
+
+Finance module Include the bills, payments and Cost and Loans Option 
+Available with company.
+
+Hr Module include employee Schedule, Employee Attendance ,Employee
+information  Details.
+
+Inventory module keeps track of materials in the ware house with proper
+version and Stock maintenance 
+
+Project Name: N.S.B.S
+
+Team Size: 		4
+
+Role: 			Development and Designing.
+
+Software: 		ASP.Net, SQL Server 2000.
+
+Description: 	This project is a web based application developed for OTIS
+for Generating Service Bill for the company.
+
+Personal Details:
+
+Date of Birth	10th September 1981
+
+Hobbies & Interest	Music.
+
+Languages Know	English, Marathi, Hindi
+
+Nationality	Indian
+
+
+

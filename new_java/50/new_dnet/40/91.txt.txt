@@ -1,0 +1,266 @@
+Last Modified: Jul 11, 2007 
+
+Manisha Nilesh Savairam
+
+Raj Palace, Sector 2, Plot 16, Kopar Khairane,mumbai -401202
+
+Telephone: (Res.) 91+217+2653523 /(Mobile) 9819019913
+
+Email: manisha.shendge@gmail.com
+
+Date of Birth: 20/12/1981
+
+Cost to Company: 1.90 lacs
+
+Software engineer (VB, SQL,ASP.Net)
+
+Key Skills: VB, Core JAVA ,ASP.Net , SQL 2000
+
+Total Years of Experience: 3 Year(s) 0 Month(s)      
+
+Current Industry: IT-Software/Software Services
+
+Current Functional Area: IT Software - Client Server
+
+ 
+
+Current Location: Navi Mumbai
+
+Location Preference: Anywhere in India
+
+Education
+
+ B.Tech/B.E.  (Electronics/Telecomunication)   from Mumbai University in
+2004.
+
+Summary of Skills and Experience
+
+MANISHA NILESH SAVAIRAM
+
+Flat Number-402, Raj Palace,Sector 2,plot 16, Kopar Khairane, District:
+THANE
+
+Mobile Number  09819019913, E-Mail: manisha.shendge@gmail.com
+
+OBJECTIVE
+
+To avail the opportunity in the prevailing condition of the organization
+that will give the best direction to my efforts.
+
+EXPERIENCE : Software Programmer, Jet Air Private limited on project:I -
+Master creation for Moon System     Duration  4 Month     Team Size  3
+
+ Description: JetAir Pvt. Ltd (JAL) is a GSA, Its database has a master
+tables.                    Data in these tables is entered through the
+web application.          This Web based Application was developed to
+manage the agents data                   Efficiently using ASP.NET as
+Front End and SQL-2000 as backend.Software and Platform                 
+       Front End: ASP.NET      Back end: SQL-2000
+
+II TDSPACK applications       Duration  6 Month       Team Size  4 
+
+Description: Tax deduction certificates of the airline
+
+Experience
+
+May 2005 -  March 2007  at JET AIR PVT.LTD.
+
+Job Profile: Software Programmer working on two software projects with
+using VB 6.0, ASP.Net,Sql-2000
+
+July 2004 -  May 2005  at MIAECT PVT LTD
+
+Job Profile: Worked as a Software engineer and worked on site creation
+and Educational CD creation project.
+
+ 
+
+IT Skills
+
+Skill Name	Proficiency	Last Used	Years of Experience
+
+Asp.Net 2.0	proficient	2007	2 Year(s) 0 Month(s)
+
+vb 6.0	proficient	2007	2 Year(s) 8 Month(s)
+
+sql 2000	proficient	2007	2 Year(s) 8 Month(s)
+
+
+
+IT Projects
+
+As Programmer at For Jet Air Pvt. Ltd. from  January 2007  - April 2007 
+
+Project Name: Master creation for Moon System
+
+Team Size: 4
+
+Location: mumbai
+
+Profile: JetAir Pvt. Ltd (JAL) is a GSA, Its database has a master
+tables.                    Data in these tables is entered through the
+web application.          This Web based Application was developed to
+manage the agents data                   Efficiently using ASP.NET as
+Front End and SQL-2000 as backend.
+
+Role: Team Member.Understanding user requirements.Desining web
+forms.writing procedures.creating interfaces.
+
+As Programmer at For Jet Air Pvt. Ltd. from  September 2006  - January
+2007 
+
+Project Name: BSP Hot File Data upload
+
+Team Size: 3
+
+Location: mumbai
+
+Profile: Airline data is having ticketing information. It is in the IATA
+format.                   This data is to be uploaded in the database
+using this application.                   After making correction in
+this data.                   It is again converted into IATA format
+through this application
+
+Role: Team Member.Desining web forms.Creating procedures using sql-2000
+as backend.
+
+As Programmer at Jet Air Pvt Ltd from  May 2005  - September 2006 
+
+Project Name: TDSPAC applications
+
+Team Size: 3
+
+Location: Mumbai
+
+Profile: Description: Tax deduction certificates of the airline to the
+government are passed  through                      TDSPAC where  the
+data has to be  access  from database using SQL-2000 as                 
+  Backend And Visual Basic 6.0 as a front end.         Using Seagate
+Crystal Report Developer kit generating reports based on users          
+Requirements.  Contribution: Understanding the business and requirements
+of user, designing the            Application , creating the
+architecture and development.Softwares :  VB 6.0, SQL 2000, Crystal
+Reports
+
+Role: Tax deduction certificates of the airline to the government are
+passed  through   TDSPAC where  the data has to be  access  from
+database using SQL-2000 as Backend And Visual Basic 6.0 as a front end.
+
+As Programmer at MIAECT PVT LTD from  July 2004  - May 2005 
+
+Project Name: site creation for hotels 4u site and educational CD
+creation
+
+Team Size: 5
+
+Location: Mumbai
+
+Profile:         Description: The Software firm was working on creating
+Educational CDs for SSC/HSC. We                    Are working on the
+same as a VB programmer.Contribution: Coding and designing the
+Application, creating the architecture.Softwares worked on :  VB 6.0
+,SQL 2000,crystal report
+
+Role: Coding and designing applications,creating architecture
+
+Text Resume
+
+MANISHA VASANT SHENDGE
+
+Flat Number-203, Sony Building, Vishal Nagar, Ambadi Road, Vasai Road
+(W), District: THANE
+
+Mobile Number  09819019913, E-Mail: manisha.shendge@gmail.com
+
+OBJECTIVE
+
+To avail the opportunity in the prevailing condition of the organization
+that will give the best direction to my efforts.
+
+EXPERIENCE : Software Programmer, Jet Air Private limited on project:
+
+I - Master creation for Moon System     Duration  4 Month     Team Size 
+3
+
+ Description: JetAir Pvt. Ltd (JAL) is a GSA, Its database has a master
+tables.                    Data in these tables is entered through the
+web application.          This Web based Application was developed to
+manage the agents data                   Efficiently using ASP.NET as
+Front End and SQL-2000 as backend.Software and Platform                 
+       Front End: ASP.NET      Back end: SQL-2000
+
+II TDSPACK applications       Duration  6 Month       Team Size  4 
+
+Description: Tax deduction certificates of the airline to the government
+are passed  through                      TDSPAC where the data has to be
+access from database using SQL-2000 as                    Backend And
+Visual Basic 6.0 as a front end.         Using Seagate Crystal Report
+Developer kit generating reports based on users           Requirements. 
+Contribution: Understanding the business and requirements of user,
+designing the            Application , creating the architecture and
+development.Softwares:  VB 6.0, SQL 2000, Crystal Reports
+
+I - BSP Hot File Data upload      Duration  4 Month     Team Size  3
+
+ Description: Airline data is having ticketing information. It is in the
+IATA format.                   This data is to be uploaded in the
+database using this application.                   After making
+correction in this data.                   It is again converted into
+IATA format through this application. Software and Platform             
+           Front End: Asp 2.0      Back end: SQL-2000
+
+ 
+
+II  Miacet Pvt Ltd , On Project of educational CDs       July 2004 Till
+May 2005
+
+       Description: The Software firm was working on creating
+Educational CDs for SSC/HSC. We                    Are working on the
+same as a VB programmer.Contribution: Coding and designing the
+Application, creating the architecture.Softwares worked on:  VB 6.0, SQL
+2000,crystal report
+
+Technical Qualifications
+
+Bachelor of engineering (Electronics)
+
+InstituteRizvi College of Engineering, Bandra (Affiliated to Mumbai
+University)
+
+Year of PassingMay 2004
+
+Score53% 
+
+HSC (Science)
+
+InstituteVidhyavardhini College, Vasai (Affiliated to Mumbai University)
+
+Year of PassingMay 1999
+
+Score61.50% (First Class)
+
+SKILL SET
+
+Visual Basic 6.0. ASP.NETSQL 2000Crystal Report        
+
+PROJECTS
+
+B.E. Programmable Relay Controller
+
+Combining the relay controllers with the Atmel microcontrollers 89C51,
+this series can be programmed and a serial connection is set up to the
+pc.Sprinklers have been attached to eight onboard relays.The idea is to
+make the system compact and user friendly. The project was an immensely
+rich learning experience because what we saw and experienced was more
+than any textbook could have taught us.
+
+PERSONAL DETAILS
+
+Date Of Birth20-12-1981
+
+NationalityIndian
+
+LanguagesEnglish, Hindi, Marathi speak and write
+
+HobbiesDrawing and Reading
+

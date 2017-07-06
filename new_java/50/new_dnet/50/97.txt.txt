@@ -1,0 +1,321 @@
+Curriculum vitae
+
+Ms. RENUKA S.PANDHARE 
+
+Block No ‘H’ Lokmanya Pan Bazar Association 
+
+Chunabhatti Sion Mumbai – 24 
+
+Mob.: +91-9867054617 
+
+E-Mail: renuka2906@gmail.com 
+
+PROFESSIONAL OBJECTIVE 
+
+Intend to build a career with leading corporate of hi-tech environment
+with committed & dedicated people, which will help me to explore myself
+fully and realize my potential. Willing to work as a key player in
+challenging & creative environment. 
+
+WORK EXPERIENCE 
+
+Total work experience   2.1 years 
+
+Worked in Aryan Infotech Company as Software Programmer from 1st July
+2005 to 30th June 2006. 
+
+Currently working in Neutron Infotech Pvt. Ltd as a Software Programmer
+from 1st July 2006 to Till Date. 
+
+Responsibilities Handle: 
+
+As a Developer 
+
+• Development using ASP.Net, asp.net, SQL Server 2005, 
+
+• Assuring a proper technical documentation of project and getting
+approved by   clients
+
+• Developing test screens for clients and getting approved the same
+
+• Timely and accurate execution of all regular transactions. 
+
+• Assisting team leader in designing logic and work flow
+
+• Accurate reporting to client about the progress of development
+
+• Meetings with client about UAT approval 
+
+SKILL SET 
+
+Education and Courses 	B.E.(Electronics and Design Technology) 
+
+Total Experience in IT 	2.1 Years 
+
+GUI 	32 bit windows API, DOS 
+
+Environment 	Visual Studio.net, Visual Studio 
+
+Languages 	ASP.NET, VB.NET,JAVASCRIPT, C#, C, C++ 
+
+Data Base 	MS SQL Server, Oracle9i 
+
+Web Server 	IIS 
+
+Other Skill / Tools 	MS Office 
+
+
+
+EDUCATIONAL PROFILE 
+
+CDAC from Mumbai MET’s IIT – July 2005 
+
+Oracle Certification (Introduction to oracle9i) - December 2005 
+
+B.E (Electronics Design Technology) Nagpur University – 63.35%. -
+August 2004 
+
+Diploma (E&TC) (Nagpur) - 80.77% - August 2000 
+
+SSC (MH Board) - 78.87% - March 1998 
+
+ 
+
+PROJECTS SUMMARY 
+
+ 
+
+Project 5: C.R.M.
+
+ 
+
+Project profile:
+
+The present company has its in-house Customer care team, which caters to
+the Telecommunication customers of Neutron Electronic Systems Pvt. Ltd.
+The major challenges faced for developing this software were to make a
+same replica screen wise and with same kind of user interface which
+FoxPro for Dos offered in its existing CRM uses by the organization.
+This software has been split into two modules that are Master and Job.
+Master transactions are for adding details to the master of the CRM
+related to customer database, Equipment installed at the client
+premises. Job module plays the role of offering ticket numbers,
+assigning those generated tickets to particular engineers, and getting
+report for the same from engineers after the call is attended. This
+module even has a section where the total transaction details of the
+engineer related to his conveyance and time consumed for that particular
+job. This ticket is often kept open unless the engineer reports back to
+the customer support executive for completion of that job. Those
+conveyance details entered for that engineer are again used by accounts
+to generate weekly vouchers to be paid to the engineers. The job
+transaction screen has total details of the equipment installed at that
+particular clients premise, Contact person at that client’s office.
+Fault reported by with date and time of the fault reported. This details
+are used for printing reports which are used by the department heads to
+check the number of queries generated in that day or pervious days and
+compare it against the call closure to plan stragies how to reduce the
+number of open tickets and why a specific customer keep generating
+complaints if the complaint rate for a specific customer is above given
+average numbers. This Package not only gives a total Service module for
+even allows the company to decide how to plan and reduce customer
+complaints by providing proper solutions.
+
+ 	
+
+Platform 	: 	Windows XP Professional 
+
+Front End Skills 	: 	ASP.Net, VB.Net, HTML 
+
+Scripting language 	: 	JavaScript 
+
+Back End Skills 	: 	SQL server 2005 
+
+Application Server 	: 	Windows 2003 / IIS 6.0 
+
+
+
+Duration: 5 months 
+
+Team : 3 Members 
+
+Status : Currently working. 
+
+Role: Involved in the designing, Coding and Testing of the Software,
+also in module planning. 
+
+Project 4 :- Board Room Solution: 
+
+Project Profile: 
+
+This is especially made for online bookings where clients call up and
+inquire about the products and prices. They may inquire about the
+renewal of contract or termination of contract. For online bookings the
+salesperson need to quote best prices taken from various vendors adding
+profit of company getting authorized from higher level. All this is done
+in no time due to integration of above mentioned modules. The flow is
+salesperson will quote the price it goes for modification to higher
+level comes back with either modification or same price and send to
+customer the final price with details of stock and unit price, delivery
+time and other details. To achieve this all department i.e. sales,
+finance and store needs to be integrated for fast and accurate response
+to customer 
+
+Platform 	: 	Windows XP
+
+Front End Skills 	: 	ASP.Net, VB.Net, HTML 
+
+Scripting language 	: 	JavaScript 
+
+Back End Skills 	: 	SQL server 2005 
+
+Application Server 	: 	Windows 2003 / IIS 6.0 
+
+
+
+Duration: 4 months 
+
+Team : 2 Members 
+
+Status : Completed 
+
+Role: Involved in the designing, Coding and Testing of the Software,
+also in module planning. 
+
+Project 3 :- Timeout Magzine
+
+Project Profile: 
+
+This project is developed for maintaining the weekly magazine “Time
+out Mumbai”. It publish monthly both on hard copy and online. Its have
+complex data structure for marinating news area-vise, different sports
+etc. The site maintains all the information about dance, arts, books,
+music, movie etc. We developed front end of this application in ASP and
+backend in ASP.NET. 
+
+Platform 	: 	Windows 2000 Professional 
+
+Front End Skills 	: 	ASP.Net, VB.Net, HTML,ASP 
+
+Scripting language 	: 	JavaScript 
+
+Back End Skills 	: 	SQL server 2000 
+
+Application Server 	: 	Windows 2003 / IIS 6.0 
+
+
+
+Duration: 4 months 
+
+Team : 2 Members 
+
+Status : Completed 
+
+Role: Involved in the designing, Coding and Testing of the Software,
+also in module planning. 
+
+Project 2 :- Moneyrama loan and finance 
+
+Project Profile: 
+
+This Project involves all the monetary transactions foe various clients.
+It has various modules like customers, master module, loan module,
+payment module. Various loan allotted to clients, their debits and
+payment receipts are monitored. It also has a report module which gives
+the overall summary of the flow of money bidirectional. 
+
+Platform 	: 	Windows 2000 Professional 
+
+Front End Skills 	: 	ASP.Net, VB.Net, HTML 
+
+Scripting language 	: 	JavaScript 
+
+Back End Skills 	: 	SQL server 2000 
+
+Application Server 	: 	Windows 2003 / IIS 6.0 
+
+
+
+Duration: 4 months 
+
+Team : 3 Members 
+
+Status : Completed 
+
+Role: Involved in the designing, Coding. 
+
+Project 1:- Project Management System (Midriff Net Solutions Mumbai) 
+
+Project Profile: 
+
+This system is specially developed for Project Management as well as for
+easy communication, about the project between the Software Developer
+Company and client specially who are out of city. Through this system
+company administrator as well as client can add their employees, can
+manage their working timings, and can specify their role into the
+project, menu permission, holidays etc. Along with this company can put
+every document online like User Requirement Specification, Software
+Requirement Specification, Milestones, Project Modules etc. to which
+client is able to give approval. Through this system Meetings can also
+be fixed between company and client. 
+
+Platform 	: 	Windows 2000 Professional 
+
+Front End Skills 	: 	ASP.Net, VB.Net, HTML 
+
+Scripting language 	: 	JavaScript 
+
+Back End Skills 	: 	SQL server 2000 
+
+Application Server 	: 	Windows 2003 / IIS 6.0 
+
+
+
+Duration: 4 months 
+
+Team : 4 Members 
+
+Status : Completed 
+
+Role: Involved in the designing, Coding. 
+
+PERSONAL DETAIL 
+
+Name : Renuka Sharadchandra Pandhare 
+
+Father’s name : Sharadchandra Nilkantha Pandhare 
+
+Permanent Address : Flat no 102,Nilayam Apartment 
+
+Jalvihar Colony 
+
+Ring Road T-Point, 
+
+Nagpur-440016 (M.S) 
+
+Tel.: +91-0712-2223027. 
+
+Mob.: +91-9867054617 
+
+E-Mail :   HYPERLINK "mailto:renuka2906@gmail.com"  renuka2906@gmail.com
+ 
+
+Present Address : Block No ‘H’ Lokmanya Pan Bazar Association 
+
+Chunabhatti Sion Mumbai – 24 
+
+Sex : Female 
+
+Date of Birth : 29th JUNE, 1982. 
+
+Languages Known : English, Hindi and Marathi 
+
+(To Read, Write, Speak) 
+
+Phone : 0712 – 2223027. Mob No-09867054617
+
+Passport NO :F5979688 
+
+RENUKA S.PANDHARE 
+
+ 
+

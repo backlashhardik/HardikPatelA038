@@ -1,0 +1,156 @@
+         		
+
+							          		Tel: 09867097874
+
+S.K.Moinuddin.             	                                            
+             Mail Id:syedmoin82@gmail.com
+
+         
+
+Objective
+
+Seeking a challenging career as Software professional that encourages
+continuous learning & creative exposures to new ideas which stimulates
+professional & personal growth.
+
+Summary of Experience
+
+Having 2 years of work experience in C#.Net, ASP.Net, ADO.Net and SQL
+Server 2000.
+
+Actively involved in the Software development, implementation and
+maintenance of application. 
+
+Knowledge in developing applications using .Net Framework.
+
+Experienced in Object oriented programming with knowledge of building
+multi-tier architecture based distributed applications.
+
+Design & Development of web applications using C#, ASP.NET, HTML and SQL
+Server 2000.
+
+Strong at ADO.NET Programming.
+
+Highly self-motivated and goal-oriented professional.
+
+Work Experience
+
+Working as a Software Engineer in SYNTEL Limited, Mumbai from November
+2006 to till date.
+
+Worked as a Programmer in SMART SOFT (A division of Specific Infotech
+Pvt, Ltd), Hyderabad from June 2005 to November 2006.
+
+Educational Qualification
+
+Bachelor’s Degree in Electronics & Communication Engineering from JNT
+University.   
+
+Technical Proficiency
+
+Operating Systems	: Windows 98, XP, 2000 Server
+
+Languages		: C#, VB.Net
+
+Front-end Tools	: Microsoft Visual Studio .Net
+
+RDBMS		: SQL Server 2000
+
+Internet Technologies	: HTML, XML, ASP.Net
+
+Professional Summary: -
+
+Project 1:
+
+Project Name 	Patron Information System
+
+Client	Moody Investors Service 
+
+Technologies	C#, ASP.Net, ADO.Net, SQLSERVER 2000.
+
+
+
+Project Description: The main objective of this project is to maintain
+clean data of customer’s world wide from different systems. This
+intranet application also provides the facilities of Mail Merge, Email
+Blasting, Template Creation, Segmentation, Email Status Reports and
+Import /Export Customer’s Lists of the customers from or to different
+system along with the Cleansing Activities of the customer’s database
+to the users based on their roles.
+
+Responsibilities:
+
+Design and Development of the Web forms using ASP.NET, C#.
+
+Developed user controls as per user requirements.
+
+Used SQL Server in implementing the database with help of ADO.NET.
+
+Involved in Developing Windows Services for Auto load module.
+
+Project 2:
+
+Project Name 	Smart Soft India.
+
+Client	Specific Infotech Pvt,Ltd.
+
+Technologies	Asp.Net with C#.Net, ADO.Net, SQLSERVER 2000.
+
+
+
+Project Description: This project comprises of two modules one is Client
+Module and the other is Administration Module. The Clients module is to
+cover all the Clients proceedings for each and every client individually
+where in Client Login and Password is provided for logging into the
+Module. And the Administration module maintained for administration and
+office purpose only, for making timely updates to the website and
+keeping track of their various client visits. This is an ongoing
+application with regular updates. 
+
+Responsibilities:
+
+Involved in developing the Login mechanism for the portal
+
+Designed forms using ASP.NET and C#
+
+Used SQL Server in implementing the database with help of ADO.NET.
+
+Carry out tasks that are assigned as a part of the project's scope of
+work, and meeting all expectations of the person assigning the task
+
+Project 3:
+
+Project Name 	Indu Projects Info Manager
+
+Client	Indu Projects Limited
+
+Technologies	 ASP.Net, JavaScript, ADO.Net, SQLSERVER 7.0.
+
+
+
+Project Description: This project comprises of three modules Members,
+Registration and Admin. Members Module is activated for every member
+individually after he registers with the company in the open
+registration form. This module again comprises of Login, New
+Registrations, Accounts Info, and reports on Genealogy and Network
+Report in a graphical manner. And the other module Admin comprises of
+monitoring and maintaining the internal details, updating site
+information and generating each member reports regarding the business
+according to the requirements.
+
+Responsibilities:
+
+Design and Development of the Web forms using ASP.NET, C#.
+
+Developed user controls as per user requirements.
+
+Used SQL Server in implementing the database with help of ADO.NET.
+
+.
+
+Personal Details:
+
+Fathers Name:    S.Ghouse Mohiddin.
+
+Date Of Birth:     20-07-1983
+

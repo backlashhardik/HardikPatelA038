@@ -1,0 +1,351 @@
+									
+
+SHWETA SAWANT
+
+Phone No - 9820841350
+
+E-Mail – svetlana20in@yahoo.co.in
+
+Key Skills – Visual Basic 6, SQL 2000, Oracle9i, Crystal Reports9.
+
+Domain – Banking.
+
+Work Experience – 3.5 Years.
+
+Mumbai Resident
+
+OBJECTIVE
+
+To Constantly seek knowledge and climb the ladder of success with
+combination of smartness and hard work. Looking forward to build a
+career in the field of Information Technology & Finance by infusing
+Professional Skills & Experiences to render Maximum Value & Growth to my
+Organization & Designation for meeting personal Goals.
+
+EDUCATIONAL QUALIFICATION
+
+	
+
+Diploma in Software Programming [GNIIT] from NIIT, Thane.
+
+B.A. Degree in Economics (Special), K. G. Joshi College Of Arts & N. G.
+Bedekar College of Commerce, Thane, Year 2002.
+
+HSC, K. G. Joshi College Of Arts & N. G. Bedekar College of Commerce,
+Thane, Year 1999.
+
+SSC, S.E.S High School, Panchpakadi, Thane-Year 1996.
+
+COMPUTER LITERACY
+
+Completed Diploma In Software Programming [GNIIT] From NIIT, Thane.
+
+Curriculum Being:
+
+MS-Office
+
+Visual C++
+
+LAN Concepts and Internet
+
+Networking
+
+Visual Basic 6.0
+
+SQL 2000
+
+VB.Net
+
+ASP.Net
+
+C#. Net
+
+EFFICIENCY
+
+Worked in Banking and Shipping Domain Only.
+
+Well versed with Visual Basic 6.0 as Core Technology.
+
+Well versed with Databases like MS SQL 2000, Oracle 9i, MS-Access. 
+
+Well versed with VB. Net.
+
+Well versed with C#. Net.
+
+Well versed with Crystal Reports.
+
+Well versed True DB Grid Functionality
+
+Well versed with Excel Programming and Excel Macros.
+
+Well versed with MS-Access Programming.
+
+MS-OFFICE (Excel) and Internet Surfing.
+
+Well versed with Operating System like MS-DOS, Windows95, Windows 98 &
+Windows 2000.
+
+Communication Skills.
+
+Domain knowledge – Finance (Mutual Fund, Risk)
+
+WORK EXPERIENCE
+
+CURRENT EMPLOYER 
+
+Infomatics Services Private Limited, Colaba, Mumbai
+
+INFOMATICS as a GROUP has been providing information technology related
+services to the clients in the banking, corporate, shipping and
+technology sectors. Infomatics specialize in software consultancy and
+development, outsourced processing, and software. For Further Details
+visit www.infomaticsind.com
+
+Designation: - Software Engineer.
+
+Department – Software Division.
+
+Date Of Joining: - 24th March 2004.
+
+Worked on Following Projects
+
+Product Name - MFund 
+
+Client - Standard Chartered Bank – Mutual Funds 
+
+Role – Development
+
+Duration – 8 months
+
+Job – Designing, Coding, Debugging, And Testing.
+
+No	Technology Used	Purpose
+
+1	JSP	User Interface.
+
+2	Java	Business Logic.
+
+3	VB Components	Business Logic and Report Generation
+
+4	ADODB	Database Connection
+
+5	Crystal Reports	Reports Designing
+
+6	Oracle	Maintaining Data
+
+7	Acrobat Reader	Report Output
+
+8	MS Excel	Report Output
+
+9	Tomcat Server	Compiling and Execution of JSP/Java code
+
+
+
+Worked with a team of 10 Members to develop MFund, a web-based
+application that is a complete suite for Mutual Funds for Client –
+Standard Chartered Bank – Mutual Funds.
+
+Responsible for 
+
+Applying business logic to generate banking reports using Visual Basic
+Components and Crystal Reports for designing.  Some of the crucial
+reports being, Broker wise Reports, Compliance Reports, Cash Management
+Reports, Transaction Reports, daily NAV and Contract Reports.
+
+Product Name - SAMS – (Shipping Agency Management System) 
+
+Client – Goodrich India and Goodrich Dubai.
+
+Role – Support and Development.
+
+Duration – 4 Months
+
+Job – Designing, Coding, Debugging, And Testing.
+
+No	Technology Used	Purpose
+
+1	Visual Basic 6.0	Programming Tool
+
+2	MS SQL 2000	Database
+
+3	ADODB	Database Connection
+
+4	Crystal Reports	Reports Designing
+
+7	MS Excel	Report Output
+
+8	Tomcat Server	Compiling and Execution of JSP/Java code
+
+
+
+Product Name – IRIS
+
+Client – Maersk India
+
+Role – Support
+
+Duration – 2 Months
+
+Job – Designing, Coding, Debugging, And Testing.
+
+No	Technology Used	Purpose
+
+1	C#.Net	Programming Tool
+
+2	MS SQL 2000	Database
+
+3	ADODB	Database Connection
+
+4	Crystal Reports	Reports Designing
+
+5	MS Excel	Report Output
+
+
+
+Client – Standard Chartered Bank – Global Markets – Risk
+
+Role - Development/Support
+
+Duration – 14 Months
+
+Job - Designing, Coding, Debugging, Testing and Deploying.
+
+No	Technology Used	Purpose
+
+1	Visual Basic	Programming Tool
+
+2	MS Access	Database
+
+3	DAO and ADODB	Database Connection
+
+4	Crystal Reports	Reports Designing
+
+5	MS Excel	Report Output
+
+6	Monarch	Data trapping/retrieving tool
+
+7	True DB Grid	Data Modification
+
+
+
+Responsible for 
+
+Handling queries individually.
+
+Catering with the needs of client in Global Markets (Risk). 
+
+Developing new applications, which can upload the downloaded data files
+from the ERP systems of the bank and process them generating reports in
+the desired format using Visual Basic as programming tool, Ms Access as
+backend/database, Crystal Reports for Outputs, Ms Excel for processing
+data, retrieving data, generating report in Excel Format and Monarch for
+Data trapping.
+
+Troubleshooting with the existing applications of the bank.
+
+Generating Macros to save clients time in repetitive work.
+
+Documentation of the applications.
+
+Previous Employer
+
+Philips India Ltd
+
+Worked as a Trainee Engineer for 1 Year.
+
+Start Date: -26th Jan 2003 
+
+End Date: -27th Jan 2004.
+
+Responsible for 
+
+Handling MIS functions in the corporate department in JD Edwards.
+
+Develop small day-to-day usable applications and macros in Visual Basic
+and Ms-Excel, SQL server as Backend.
+
+Worked on Following Projects
+
+Product Name – Security System
+
+Role – Support/Development
+
+Duration – 6 Months
+
+Job – Designing, Coding, Debugging, And Testing.
+
+No	Technology Used	Purpose
+
+1	Visual Basic 6.0	Programming Tool
+
+2	MS SQL 2000	Database
+
+3	ADODB	Database Connection
+
+
+
+Product Name – Medical Reimbursement System
+
+Role – Support/Development
+
+Duration – 6 Months
+
+Job – Designing, Coding, Debugging, And Testing.
+
+No	Technology Used	Purpose
+
+1	Visual Basic 6.0	Programming Tool
+
+2	MS SQL 2000	Database
+
+3	ADODB	Database
+Conne瑣潩ݮഇ഍഍഍഍䔍员䅒啃剒䍉䱕剁䄠呃噉呉䕉൓
+圍牯敫⁤潦⁲浉慰瑣䤠普牯慭楴湯倠楲慶整䰠摴‬畍畬
+摮映牯䈠獵湩獥⁳牐浯瑯潩⹮圍牯敫⁤潦⁲䵃ⱓ吠慨敮
+映牯䈠獵湩獥⁳牰浯瑯潩⹮഍倍剅体䅎呌䅒呉൓
+
+	A hard working & an extremely fast learner with a thirst for
+knowledge.
+
+	Efficient, well organized & can work well in a team as well as
+individually. 
+
+	Target oriented & ambitious to succeed in life in short span of
+time.
+
+PERSONAL DETAILS
+
+Gender: Female
+
+Date of Birth: 13th April 1981
+
+Nationality: Indian
+
+Marital Status: Single	
+
+Languages Known: English, Hindi, Marathi, French.
+
+Address						
+
+A/16 Truna Pushpa,
+
+ Luis Wadi,
+
+ Thane (W)-400604,
+
+Maharashtra,
+
+India.
+
+E-Mail Address
+
+svetlana20in@rediffmail.com	
+
+  HYPERLINK "mailto:svetlana20in@yahoo.co.in"  svetlana20in@yahoo.co.in 
+
+Phone No
+
+Residence - 022-25802957
+
+Cell No - 919820841350
+

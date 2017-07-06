@@ -1,0 +1,277 @@
+                           
+
+CURRICULUM VITAE
+
+Mandar Chandrakant Jambotkar                                    
+
+F – 71, Behind Shopping Center,
+
+Gandhinagar,
+
+Nasik.
+
+E-mail:   HYPERLINK "mailto:mandarcjambotkar@gmail.com" 
+mandarcjambotkar@gmail.com 	      Mobile : 9850039070
+
+Professional Objective :
+
+To learn, innovate and excel in a challenging work culture & pool in my
+efforts in the organizational growth.
+
+ Skill Set :
+
+Language:	    		 C 
+
+Operating System:	 Windows
+
+Database: 	    		 SQL Server 2000
+
+Tools :			 VB .NET, 
+
+				 Replication over the Internet using SQL Server.
+
+				 XML, Web Services, Remoting, 
+
+ Client-Server Technology, Compact Framework,
+
+				 Devices Programming i.e. WIN CE programming
+
+ (Pocket PC / PPT / Vehicle Mount Computers)
+
+ Programming for Bar-coding Technology using ZPL
+
+(ZPL : Zebra Programming Language)
+
+Professional Qualification :
+
+B.E Computers from University of Pune. 
+
+Diploma in Computer Technology from Board of Technical Education,
+Mumbai.
+
+Work Experience :
+
+Was selected for Presentation / Demo of the Software at our 
+
+esteemed client based in THE NETHERLANDS and thus also have the
+experience of Requirement Gathering and Requirement Analysis at client
+side.
+
+Was Again selected for development And Deployment of On-Site project for
+our client based in THE NETHERLANDS.
+
+I have also successfully deployed an ambitious project developed a year
+long at two locations based in Maharashtra in last Two consecutive
+years.
+
+ 
+
+Have done extensive research on SQL Server Replication Over the Internet
+and also Implemented it successfully.
+
+Have worked as system analyst for an SCM system for implementing
+Bar-coding technology as an integral part of the system.
+
+Have also successfully integrated ZPL (Zebra Programming Language) with
+.NET.
+
+My current platform of choice for development is  .NET. I have
+developed applications in VB .NET for Pocket PC and Vehicle Mount
+Computers as well.
+
+The Pocket PC application is designed for Replication as fundamental
+medium of Data Transfer.
+
+While the Vehicle Mount Computer Application is designed for Web
+Services as fundamental medium of Data Transfer.
+
+Six months Free-Lancing experience.
+
+Working with AgroFoyer Solutions Pvt Ltd since June 2005.
+
+Major Projects/Domains 
+
+OverVIEW : 
+
+		We have developed solutions for the supply chain industry with special
+focus on the produce supply chain. Our solutions range from simple Farm
+Management systems to much more complex Business Management Systems
+including Trade and Warehouse management for produce sector. While our
+softwares are currently in use in India and THE NETHERLANDS.
+
+Project Name:	Business Management system (Exporter Module)
+
+CLIENT:	Cannot be disclosed.
+
+OS:	 Windows
+
+TOOLs used:	 VB.Net, SQL Server 2000, SQL Server Replication
+
+
+
+Project Description
+
+This is one of the module of the whole SCM system. This module is
+designed for an Exporter. Exporter purchases goods from the growers and
+exports it to the abroad nations. This module Not only helps in handling
+operations, But also Finance part is taken care off.
+
+This project was deployed in Three units of the same exporter
+respectively at Sangli, Nasik and Satara.
+
+These three units use to communicate with each other via REPLICATION.
+
+The module comprises of communication with the wireless devices as well
+as barcode printers printing the desired templates via POCKET PC’s.
+
+Zebra barcode printers were used as an accessory with the module. Thus
+Zebra Prog. language was successfully integrated with .NET
+
+    Responsibilities Undertaken :
+
+Did requirement gathering and analysis for an technical aspect of this
+module.
+
+Did research on SQL Server Replication and Successfully Implemented it
+over the Internet.
+
+Did Research and Analysis of the Bar-coding Technology.
+
+Learned and Integrated ZPL (Zebra Programming language) with .NET. A
+unique Barcode printing language used in applications supporting Barcode
+Technology.
+
+Design of the fundamentals Protocols for SCM using Barcode to be the
+core of the entire system.
+
+Did programming in VB .NET for desktop application as well as for POCKET
+PC.
+
+A separate module was designed and developed for Devices which used
+Replication as fundamental medium of data transfer.
+
+Did deployment of the same at client side and also provided support for
+the same.
+
+Project Name:	Business Management system (Importer Module)
+
+CLIENT:	Cannot be disclosed.
+
+OS:	 Windows
+
+TOOLs used:	 VB.Net, SQL Server 2000,  WebServices, Remoting.
+
+
+
+Project Description
+
+This is one of the module of the whole SCM system. This module is
+designed for an Importer. Importer receives the goods from an exporter.
+
+He again exports to some other importers based either in Same country Or
+in different nations. He also sells the goods to whole-sellers and
+retailers.
+
+This system comprises of warehouse management module as well as Business
+module for managing Trade and Finance.
+
+The warehouse management system is designed for Pocket PC devices as
+well as Vehicle Mount Computers.
+
+While the desktop module helps in managing Complete business.
+
+    Responsibilities Undertaken :
+
+Did Requirement gathering and Requirement Analysis at client side (THE
+NETHERLANDS).
+
+Have done extensive Work on designing of the application based for
+Devices (Pocket PC and Vehicle Mount Computers).
+
+Did development of the same using Webservices and VB .NET.
+
+Did deployment of the application at client side.
+
+Currently providing Support for this application.
+
+Educational Projects (B.E. Project) :  
+
+Won Second Prize in Inter-Collegiate Competion.
+
+Project Name:	Hand Gesture Recognition System
+
+CLIENT:	 For academic purpose.
+
+OS:	 Windows
+
+TOOLs used:	 VB 6.0 
+
+
+
+Project Description
+
+The project name it self signifies the purpose. 
+
+A L.E.D was fixed on a finger and a gesture was made infront of Web-Cam.
+
+Then based on the kind of gesture the J.C.B machine (toy) use to move in
+the respective direction.
+
+Thus, it was a project comprising of a nominal PCB board used for
+integrating the hardware with the software designed.
+
+This concept has several applications in which it can be implemented
+such as office automation. 
+
+It can be helpfull for security applications as well. 
+
+    Responsibilities Undertaken :
+
+Did requirement gathering, development and presentation.
+
+Represented college at Bharti Vidyapeeth and CSI.
+
+Extra Curricular Activities  :
+
+Was Cultural Secretary of the college in Final Year Engineering.
+
+Was Treasurer in ACES (Association of Computer Engg. Students)
+
+Have won several awards for college in cultural programs.
+
+Academics :
+
+                  
+
+EDUCATION	UNIVERSITY	YEAR	CLASS OBTAINED
+
+SSC	St.Xavier’s High School, Nasik	1996	First Class
+
+Diploma In  Comp. Technology	Board Of Technical Education, Mumbai	2000
+First Class
+
+      B.E.Computer	University of Pune.	2004	Higher Second Class (59 %)
+
+    
+
+Personal Information :
+
+Marital Status		:           	Single
+
+Nationality                  	:              	Indian
+
+Languages Known        	:		English, Hindi, Marathi.
+
+Date of Birth               	:		1st March 1981.
+
+				
+
+I hereby declare that all the information mentioned above is true to the
+best of my knowledge.  
+
+								
+
+			          	   Mandar Chandrakant Jambotkar.
+
+			
+

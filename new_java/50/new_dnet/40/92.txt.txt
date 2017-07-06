@@ -1,0 +1,334 @@
+Curriculum Vitae
+
+ANUJA A. VAZE
+
+E-Mail:   HYPERLINK "mailto:shashikant.nikam@gmail.com" 
+anu_vaze@yahoo.co.in 							Mobile:09322143032
+
+					
+
+Objective:
+
+To obtain a software developer position that allows me to learn new
+technologies while utilizing my experience developing web-based and
+window-based applications as well as my knowledge of ASP.Net, Vb.Net.
+
+Skills:
+
+Database		:	Microsoft’s SQL Server 2000,Oracle 9i
+
+Language		:	VB.NET, ASP. Net, VC#. Net
+
+Operating System	:	Windows 2000/XP
+
+Technologies	           :	Atlas
+
+Educational Background:
+
+
+
+Name of Examination	Board / University	Year of Passing	Percentage of
+Marks	Class Obtained
+
+
+
+BE	Mumbai University	May 2004	62.92 %	First Class
+
+
+
+HSC
+
+	Mumbai Board	February 2000	75.83 %	First Class
+
+
+
+SSC	Mumbai Board	March 1998	86.93 %	Distinction
+
+
+
+Professional Experience:
+
+1. Current Employer	           : 	J. B. and Brothers	
+
+Company URL		: 	  HYPERLINK "http://www.jbbrothers"  www.jbbrothers .com
+
+Tenure			: 	From Feb 2006 to Till Date
+
+Designation 		: 	Software Developer
+
+Summary of Projects done at J. B. and Brothers
+
+Pop Up Control
+
+     Environment: Vb.Net, SQL Server
+
+      Description:
+
+This is user control for pop up related data. It is provided with
+various features.
+
+Property Page
+
+Environment: Vb.Net, SQL Server
+
+Description:
+
+This is the user control used to display various diamond properties
+depending on user and his requirements.
+
+Query Builder
+
+Environment: Vb.Net, SQL Server
+
+Role: This was the very small-scale module. It requires a particular
+query to be executed in thread showing the process of query execution.	
+
+Complaint Management
+
+Environment: asp.net using vb.net, Crystal report 10i, SQL Server
+
+Description: 
+
+This is a project where user can enter its complaints regarding any
+hardware part or software. Here users are divided into clients,
+departmentAdmin and admin 
+
+ACO (Advanced Confirm Order)
+
+Environment: ASP.Net using vb.net, SQL Server
+
+	
+
+Description:
+
+1. This is the module where customer can order his requirements in
+advance. 
+
+2. Marketing people can filter packets by specifying filter condition.
+
+3. Display packets, which are matching with customers order.
+
+4. Generate a crystal report for ACO Matching packets
+
+Repricing
+
+Environment: vb.net, SQL Server, Crystal Report 10i
+
+Description:
+
+This is the Project used for doing repricing of packets. It includes
+calculation of final price along with discounts. 
+
+Scheduler Application:
+
+Environment: ASP.Net using vb.net, SQL Server, Vb.net
+
+Description:
+
+1. This scheduler application will run the specific tasks at regular
+interval. And generate the output in required format. Once the schedule
+run, mail is sent to admin with output as a attachment. Scheduled task
+can be a query, application or report. If it’s a report then it gets
+exported in user specified format.
+
+2. A web-based interface is made for saving, editing, deleting or
+updating schedules
+
+Report Tree
+
+Environment: Vb.Net, SQL Server, Crystal Report 10i
+
+Role:
+
+1. Display Reports and sub reports in treeview according to selected
+module name populated in combo box.
+
+2. Table name, filer string, field names are populated according to
+selected node
+
+3. User can enter export option, print option.
+
+4. He can add, Edit, Delete new report, sub report, table name, field
+name
+
+Export Delivery
+
+Environment: Vb.Net, SQL Server, ASP.Net using vb.net, Crystal Report
+10i
+
+Role:
+
+Save delivered packets using windows application.
+
+Generate report
+
+Display delivered packets using web application for buyers.
+
+Inventory 
+
+Environment: ASP.Net using vb.net, SQL Server
+
+Role:
+
+Making various forms for Goods In and Goods Out.
+
+Display Inventory Details
+
+Display Daily/Monthly/Yearly/Weekly/Custom Opening Stock, Closing Stock
+
+2. Previous Employer      	: 	GKS Infomedia Services India Pvt Ltd	
+
+Company URL		: 	  HYPERLINK "http://www.rosewebcreations.com/" 
+http://www.rosewebcreations.com ,  HYPERLINK
+"http://www.gksinfomedia.com"  www.gksinfomedia.com 
+
+Tenure			: 	From Feb 2005 to Feb 2006
+
+Designation 		: 	Software Developer
+
+Summary of Projects done at GKS Infomedia Services India Pvt Ltd
+
+Positiv
+
+Client:  KLW Enterprises, Germany
+
+Technologies: VB.NET 2005, SQL Server 2005, Crystal Report 9i
+
+Description: KLW is one of the authorized Microsoft distributors in
+Germany. It has the various partners in Germany who works for them. It
+maintains all the records of Products, Packages, and Invoices etc. It is
+the administrator of this positiv 
+
+software. Our software maintains all the records of Products, Labors,
+and Packages etc. It can create Reminder, create packages for Golden,
+Silver, Regular users. It can compare products, can create reports, can
+create various offers, and can create various Invoices.
+
+Role: 
+
+Analyzing and understanding client requirements.
+
+Designing and coding various forms.
+
+Creating various Reports.
+
+Having Interaction with client
+
+Duration: 5 months
+
+Team Size: 2 
+
+Tradejoint 
+
+Client: In-house Project
+
+Technologies: ASP.NET 2005, SQL Server
+
+Url:   HYPERLINK "http://www.tradejoint.com/" 
+http://www.tradejoint.com/ 
+
+Description: Trade Joint, is a trade platform who will carry SME's to
+internet and enable SME's who wants to increase their exports to use the
+technology effectively. It is providing the necessary services to move
+the establishments into the web, with its unlimited marketing ideas and
+experience
+
+Role:
+
+Analyzing and understanding In-house requirements.
+
+Developing and coding various forms.
+
+Uploading web site. 
+
+Duration: 4 months
+
+C-Interactive Music System 
+
+Client: C-Interactive, UK
+
+Url:   HYPERLINK "http://www.cinteractive.co.uk/" 
+http://www.cinteractive.co.uk/ 
+
+Technologies: VB.net 2005
+
+Description: C-Interactive are an audio and visual marketing
+communications     
+
+Company. It delivers an On Hold Player. We have created this On-Hold
+plus Scheduler plus Music player. 
+
+Duration: 2 Month
+
+             Team Size: 3
+
+Holidaysinindia4u (Admin Section)
+
+Client: TAILORMADE JOURNEYS LTD	
+
+Technologies: asp.net using vb.net, SQL Server
+
+Url:   HYPERLINK "http://www.holidaysinindia4u.com/" 
+http://www.holidaysinindia4u.com/ 
+
+Role:  I was involved in complete development of admin section,
+statistics etc
+
+Duration: 2 Month
+
+Team Size: 3
+
+3. Previous Employer     : M/s NDS Infoserv branch of M/s Anurag
+Electronics (Gujarat) Pvt. Ltd., Mumbai
+
+   Company URL              :http://www.ndsinfo.com
+
+   Tenure 	:From August 2004 to Feb 2005
+
+   Work Profile               :
+
+Develop VB.net forms for data collection
+
+Create structured information/ populate data
+
+Carry out quality checks as per the Quality-Plan
+
+Rectify the defects/ errors if any and avoid recurrence
+
+Study and analyze client’s QC Reports
+
+Feedback report and suggestions to Management for continual improvement
+
+Starve to achieve zero-defect and exceed customer’s satisfaction
+
+Personal Details:
+
+Name:  	Miss Anuja Arvind Vaze
+
+Address:	B/6, Gurudatta Towers, Pandurang wadi, Manpada Road, Dombivli
+(E) PinCode: 421201
+
+Telephone:	Residence:0251-2423265     Mobile: 9322143032
+
+Date of birth:	6th March 1983
+
+Email:	  HYPERLINK "mailto:anu_vaze@yahoo.co.in"  anu_vaze@yahoo.co.in ,
+  HYPERLINK "mailto:anuja.vaze@gmail.com"  anuja.vaze@gmail.com 
+
+Languages Known:	English, Hindi, Marathi
+
+Achievements:	Achieved 1st rank in Mathematics in SSC-1998 in regional
+area of Mumbai Devisional Board.
+
+
+
+I undersigned, acknowledge that the information mentioned above is
+authentic and true to the best of my knowledge.
+
+(A.N.Vaze)	
+
+ PAGE   
+
+	                                                                       
+                   Page   PAGE  2  of   NUMPAGES  3 	
+

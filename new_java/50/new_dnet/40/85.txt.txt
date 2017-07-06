@@ -1,0 +1,282 @@
+RESUME
+
+Vishal Keshav Tillu
+
+C/o Suhas Pitkar,
+
+9, 2nd Flr, Mauli,
+
+Nr. Mhatarpada Municipal School,
+
+Amboli,
+
+Andheri - (West),
+
+Mumbai.
+
+E-mail: vishal_tillu@yahoo.co.in
+
+	  Vishal_tillu@hotmail.com
+
+Phone: 9970152191
+
+						    	
+
+Objective:
+
+
+
+To achieve higher standards in efficiency and excellence by exercising
+the best skills to attain the vision of the organizations, both
+individually and as a team player.
+
+
+
+
+
+Experience Summary:
+
+
+
+Presently working in Rolta India Limited (SEI CMM Level 5 Company),
+Mumbai as Executive
+
+21 Months of work experience in RFID system Development with emphasis on
+ 
+
+Software Development in VB, VB.NET, SQL Server 2000
+
+Integration of RFID hardware with Software Application
+
+Documentation as per CMMi standards.
+
+Experience in RFID product Evaluation
+
+Knowledge of HF, UHF, Passive & Active RFID technology
+
+
+
+
+
+Computer Skills:
+
+Languages	VB6.0, VB.NET
+
+Operating System	Windows 98/NT/2000/XP
+
+Database   	MS Access, SQL Server 2000
+
+Bug Tracking Tool	Rational Clear Quest
+
+Others	MS Office, Visual Source Safe, Microsoft Visio, Crystal Reports
+
+
+
+Educational Qualification:
+
+Degree	College	University/Board	Year	Grade/ Class
+
+B.E. (Electronics & Telecom. Engg.)	Rajendra Mane College of Engg&Tech,
+Devrukh, Ratnagiri	Mumbai University	2004	58.89%
+
+H.S.C.	J.S.M. College, Alibag	Mumbai	2000	81.83 %
+
+S.S.C.	K.E.S. V.G. Ranade High school, Thal	Mumbai	1998	82.80 %
+
+
+
+Trainings:
+
+Attended CMMI training given by BSI.
+
+
+
+Project History:
+
+Company Name: - Presently Working with Rolta India Limited, Mumbai (SEI
+CMM Level 5 Company) since Dec 2004
+
+Project Name	RFID based Passenger Tracking System
+
+Duration	Sep 2006 – Ongoing
+
+Client	Rolta India Ltd, (Internal) as Proof of Concept
+
+Responsibility	Designing RFID based Passenger Tracking System
+
+RFID Product Selection & Evaluation
+
+Preparation of SRS
+
+Integrating RFID hardware with Passenger Tracking Software
+
+
+
+Environment	VB.NET, Windows XP
+
+Database	Oracle 9i
+
+Synopsis	The Project in general, is to track the movement of persons
+moving from one place to another in Rolta campus 
+
+
+
+Project Name	RFID based Vehicle Management System
+
+Duration	Jan 2006 – Aug 2006
+
+Client	Rolta India Ltd, (Internal), Mumbai.
+
+
+
+Responsibility	Software Development
+
+Preparation of Test Cases
+
+Environment	VB6.0, Crystal Reports, Windows XP/2K/NT
+
+Database	SQL Server 2000
+
+Synopsis	The Project is to automate the recording the In/ Out Movement 
+
+of Vehicles entering Rolta Technology Park premises with the 
+
+Help of RFID Technology and to keep the track of Maintenance 
+
+History of the Vehicles with the help of RFID.
+
+
+
+
+
+Project Name	Biometric based Access Control System
+
+Duration	Nov 2005 – Dec 2005
+
+Client	Reserve Bank of India, Mumbai.
+
+
+
+Responsibility	Preparation of SRS
+
+Co-ordination with the Vendor
+
+Implementation of Physical Access Control System at the Site
+
+Preparation of Test Cases
+
+Environment	VB6.0, Windows XP/2K/NT
+
+Database	SQL Server 2000
+
+Synopsis	The Project is to restrict the access to server rooms of RBI to
+
+Authorized employees of RBI, with the help of 
+
+Biometric + smart card based authentication of employee.
+
+
+
+
+
+Project Name	RFID based Inventory Management System
+
+Duration	Aug 2005 – Oct 2006
+
+Client	Rolta India Ltd, (Internal), Mumbai
+
+Responsibility	Software Development
+
+Integrating RFID hardware with Inventory Management Software
+
+Preparation of Test Cases
+
+Environment	VB6.0, Win XP
+
+Database	SQL Server 2000
+
+Synopsis	The Project in general, is to automate the Inventory Auditing
+of 
+
+Computers owned by Rolta India Ltd. with the help of RFID 
+
+Technology.
+
+
+
+
+
+Project Name	RFID based Library Management System
+
+Duration	Dec 2004 – July 2005
+
+Client	Rolta India Ltd, (Internal) for Intellectual Property Repository,
+Mumbai
+
+Responsibility	Designing RFID based Library Management System
+
+RFID Product Selection & Evaluation
+
+Preparation of SRS
+
+Database Design
+
+Software Development
+
+Integrating RFID hardware with Library Management Software
+
+Preparation of Test Cases
+
+Environment	VB6.0, Windows XP
+
+Database	SQL Server 2000
+
+Synopsis	The Project in general, is to automate the Management of the
+
+Intellectual Property Repository of Rolta consisting of Books/ CDs
+
+with the help of RFID technology
+
+
+
+Personal Profile:
+
+Name	Tillu Vishal Keshav
+
+Date of Birth	28/12/1982
+
+Father’s name	Tillu Vishal Keshav
+
+Sex	Male
+
+Marital Status	Single
+
+Languages Known	English, Hindi, Marathi
+
+Nationality	Indian
+
+Permanent Address	S/o Tillu Keshav Gopal
+
+A&P - Thal (Agar),
+
+Tal – Alibag,
+
+Dist – Raigad,
+
+Maharashtra.
+
+Pin - 402207
+
+Hobbies	Listening Classical music
+
+
+
+Declaration:
+
+           I hereby declare that the information furnished above is true
+to the best of my knowledge.
+
+Place: Mumbai	
+
+           							(Vishal Keshav Tillu)
+

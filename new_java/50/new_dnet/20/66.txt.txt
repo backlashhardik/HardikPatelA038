@@ -1,0 +1,198 @@
+SKILLS SUMMARY
+
+My Career objective is to become IT professional, techno savvy
+professional,
+
+With my following qualifications & programming knowledge.
+
+EDUCATION & TRAINING
+
+Bachelor of Engineering (52%) in Electronics from PUNE University,
+MAHARASHTRA.
+
+Diploma in electronics I Div. (70%) from M.S.B.T.E.
+
+X, I Div. (63% marks) from MUMBAI. Board.
+
+Exposure to SAP R/3-ABAP/4 ver 4.6c.
+
+                 
+
+PROGRAMMING SKILL SETS
+
+C.
+
+C++.
+
+VC ++ 6.0, GDI+, MFC,WinApi.
+
+PROJECT DETAILS.
+
+ 
+
+  Client:  Department Of Space Science, PUNE University.
+
+  Team Size: 3.      				                                               
+                         
+
+  Duration:  12 months (final year project).
+
+Development of Software in VC++ for Recognition of Cryospheric Weather
+Systems from Satellite Imagery Using Image processing techniques. The
+Image Processing Techniques used was Histogram Plotting, Spatial
+Filtering, Edge Detection, Segmentation, Thresholding and ARMA.
+
+ 
+
+CURRENT EXPIERIENCE
+
+PXLSoft Pvt. Ltd. (  HYPERLINK "http://www.pxlsoft.com" 
+http://www.pxlsoft.com ) 
+
+ Software Engineer (1st Feb 2005 - currently working)
+
+The company is India’s market leader in image processing software. The
+company was formed in 2004 (a spin off from its parent specialized in
+video technologies) with the idea of development and sales of software
+products in the field of imaging. The company has a tremendous response
+for the product they developed for the digital photo album industry.  
+“Dg Foto Art” is flagship software requiring no third party tools or
+any artistic skills for creating exclusive album pages within minutes.
+
+PROJECT DETAILS.
+
+ 
+
+ Team Size: 13      				                                                
+                        
+
+ Duration:  10 months 
+
+ Role: Software Developer
+
+Development of Software in VC++, DG FOTO ART GOLD, it was an image
+Editing software used to edit image, to enhance image property.
+Basically used for Album creation. 
+
+Developed an Image Editing Module, PXL Editor. The Software was able to
+perform various color correction operation such as Auto-level,
+Auto-Contrast, Auto-Color, Histogram Correction, Curve-Correction,
+Color-Balance, Hue Saturation & Intensity Correction along with features
+like Navigation &   Zoom-in Zoom-out.
+
+                                                                        
+                                                                        
+       
+
+Histogram color correction:-
+
+Histogram color correction gives the user a chance to actually inspect
+the range of colors used in the image and correct them accordingly. The
+feature of Auto-levels and Auto-contrast was also developed in this
+module. GIMP was the open source imaging application which was studied
+in-order to implement the feature.
+
+Tool to restore damaged images:-
+
+This tool was developed to enable restore damaged photographs. The tool
+was designed and implemented using C++, GDI+.
+
+Research:-
+
+Image Processing algorithms like histogram color correction.
+
+Open Source Image Processing: GIMP tool.
+
+Programming Environment:-
+
+ Microsoft Visual Studio .Net2003(MSVC 7.1),  MFC, Win32 API.
+
+ADDITIONAL SKILLS SETS
+
+SAP Skills	         :    ABAP/4 Programming Language
+
+Operating Systems           :   Win 95/98
+
+SAP Version		         :   4.6C
+
+SAP EXPOSURE
+
+ABAP/4 Development Workbench	
+
+Reports (Classical & Interactive)
+
+Dialog programming (Screen Painter & Menu Painter)
+
+SAP Script (Form Painter)
+
+Modularization (Function Group & Function Modules)
+
+Logical Database	
+
+BDC (Data Transfer)
+
+Overview of ALE, BAPI, IDOC, EDI, RFC Technologies
+
+Overview of SD Function Module.
+
+Project Details
+
+Worked As A trainee in USIPL, Andheri.
+
+(June 2004 to Jan 2005)                                                 
+ 
+
+Created reports in SD module such as Sales Order Report, which covers
+all organization levels, delivery status, invoice status and shipping
+Details. The data was extracted from VBAP, VBPA, VBAK, VBFA, KNA1, LIPS,
+KONV, etc tables. 
+
+Created an interactive report for displaying a subsequent list of the
+line items for the selected PO. Displaying the following information for
+each PO line item such as quantity ordered, quantity received, net
+value, Line item description.
+
+Designed developed and implemented real time and Batch Interface
+Programs using ABAP/4 (Call Transaction and BDC). Performed modification
+and enhancement as per to satisfy business requirements. 
+
+                                          PERSONAL INFORMATION
+
+DATE OF BIRTH 		: 12-11-1980
+
+			
+
+PERMANENT ADDRESS	:  A block 344/688,
+
+                                                  Near Government
+Certified School,
+
+                                                  Kurla Camp,
+
+                                                  Ulhasnagar-421004.
+
+                                                  Dist: - Thane,
+
+                                                  Mumbai.
+
+                    
+
+E-MAIL                                   :    HYPERLINK
+"mailto:bhushan.nallewar@gmail.com"  bhushan.nallewar@gmail.com 
+
+                                                  bhushankn@gmail.com
+
+      CONTACT                              : (0251)-2535448.
+
+      
+
+      MOBILE                                 :  9820026707.
+
+  
+
+   
+
+	-   PAGE  1  -
+
+Name :BHUSHAN K NALLEWAR
+

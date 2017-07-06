@@ -1,0 +1,233 @@
+CHIRAG HADVANI
+
+109/7 JAWAHAR NAGAR,
+
+GOREGOAN (W),
+
+MUMBAI-62
+
+  HYPERLINK "chiraghadvani@yahoo.co.in"  chiraghadvani@yahoo.co.in 
+
+CONTACT NO:-+91-9820701959
+
+B.E. INFORMATION TECHNOLOGY – 2 YEAR 4 MONTHS EXPERIENCE 
+
+OBJECTIVE: -
+
+	Seeking a Position to Utilize My Skills and Abilities in Information
+Technology Industry That Offers Professional Growth While Being
+Resourceful, Innovative and Flexible
+
+KEY SKILLS: -
+
+MICROSOFT.NET TECHNOLOGIES LIKE ASP.NET, C#, VB.NET, SQL SEVER 2000 AND
+CRYSTAL REPORTS.
+
+EDUCATION QUALIFICATION: -
+
+1. B.E. Information Technology with 59% Aggregate from VVP ENGG.
+College, Saurashtra University, Rajkot (Gujarat)
+
+2. Passed HSC (science stream 10+2) From Gujarat Board Securing 83% 
+
+3. Passed SSC (10th STD.) From Gujarat Board Securing 67% 
+
+CURRENT EMPLOYER: -
+
+Interactive Multimedia Technology Pvt. Ltd. (NASSCOM MEMBER, ISO CMM
+LEVEL IN UNDER PROCESS) – BANDRA (E), MUMBAI (  HYPERLINK
+"http://WWW.IMTINDIA.COM"  WWW.IMTINDIA.COM )
+
+COMPANY PROFILE: Founded In 1999, IMT Provides End-To-End It And
+Business Process Services That Include Consulting, Systems Integration
+And The Management Of Business And It Functions As Well As Industry
+Specific Solutions. IMT Provides An All Encompassing Offering That
+Includes The Planning, Design, Development, Implementation And
+Management Of Highly Effective It Environments.
+
+ROLE:  Software Engineer (ERP Team)
+
+RESPONSIBILITEIS:
+
+Development As A Part Of ERP Team
+
+Coding, Testing And Client Support
+
+PROFESIONAL EXPERIENCE: - TOTAL EXPERIENCE 2.4 YEARS	
+
+SUPERTECH INFOWARE (  HYPERLINK "http://WWW.SUPERTECHINFOWARE.COM" 
+WWW.SUPERTECHINFOWARE.COM )
+
+ROLE:  Software Developer (.Net Technology)
+
+RESPONSIBILITEIS:
+
+Development Of Web Application Using .Net Technologies
+
+Scheduled Maintenance And Updating Of Company And Client Websites
+
+TECHNICAL SKILLS: -
+
+PROGRMMING                     : 	C#.Net 
+
+WEB                                     :	Asp.Net, Vb.Net, Asp, Html,
+JavaScript
+
+DATABASE                           :	Ms SQL Server 2000, Ms Access, ADO
+.NET
+
+SERVER                                :	IIS
+
+GUI DEVELOPMENT TOOLS : Visual Studio.Net
+
+OTHER PACKAGE                 :	Crystal Report
+
+PROFOUND KNOWLEDGE   : XML, XSL, Web services, AJAX etc. . . .
+
+EXPERIENCE SUMMARY:- 
+
+Over 2.4 Years of Experience in Programming, Database Design, System
+Specifications, Business Process Modeling Usability Testing,
+Documentation and Training. 
+
+Exposure to varied technology environment e.g. Real Time System,
+Client/Server Technologies, Internet Technologies(Microsoft)
+
+Excellent Understanding Of Software Development Methodologies
+
+IT PROJECTS:-
+
+ERP SOFTWARE FOR A CONSTRUCTION FIRM (E-BUILD)
+
+TECHNOLOGY: Asp.Net (C#), SQL Server, Crystal Report, Html Report
+
+TEAM: 10
+
+CLIENT: HDIL
+
+SUMMARY: ERP Software Being Developed To Meet The Needs Of The
+Construction Industry. This Is We Based Software Which Includes
+Different Modules Like Architecture, Engineering, Purchase, Sales,
+Legal, Accounting And Payroll. The Software As A Whole Will Address
+Various Transactions Involved In The Construction Industry Like Booking
+Of Flat, Purchase Of Materials/Goods At The Building Site, Payroll
+System To Keep A Track Of All The Employees Etc.
+
+MAXIMUS DMS (DOCUMENT MANAGEMENT SYSTEM)
+
+TECHNOLOGY: Asp.Net (VB.Net), SQL Server, Crystal Report
+
+TEAM: 3
+
+CLIENT: PANJAB & MAHARASHTRA BANK, MUMBAI
+
+SUMMARY: MAXIMUS Document Imaging and Management Platform Delivers High
+Volume Information Capture, Retrieval and Distribution across the
+Enterprise. MAXIMUS Reduces Or Eliminated Misfiling; Time Spent
+Searching For Documents And Costly Paper Reproduction And Distribution
+Methods That Impede Information Access Within And Among Departmental.
+MAXIMUS Is A Flexible Document Management Platform That Adapts To Meet
+Diverse Multi Departmental Needs And Allows Users To Maintain
+Established, Preferred Procedures. Also Provide Daily Report ,
+
+Mailing Facality, Customer Loan Recovery Status
+
+COMSAT (CUSTOMER RELATIONSHIP MANAGEMNET)
+
+TECHNOLOGY: Asp.Net (VB.Net), SQL Server, Crystal Report
+
+TEAM: 1
+
+CLIENT: Comsat System, UK
+
+SUMMARY: Comsat System is like a Customer Relationship Management. CRM
+Collect the Customer Information. Client can register their Problem on
+Call, a System engineer goes client place and solve that. The System
+maintains time and billing information.
+
+ERP SOFTWARE FOR A JEWELLER FIRM
+
+TECHNOLOGY: Asp.Net (C#), SQL Server, Crystal Report, Html Report
+
+TEAM: 4
+
+CLIENT: ITALINDI (INDIA) PVT. LTD
+
+SUMMARY: Web Bases ERP Application for Jewellers Trading with Integrated
+Shopping Cart Feature and Business Collaboration Tools Including Mail
+Application Programming Interface. This System Is linked To the Italian
+Principals and Manufacturers and Customers in a Real Time Environment
+Where Entities Can Trade Using the Web Application. We Have Also
+Developed Their Website.
+
+HOARDING MANAGEMENT SYSTEM
+
+TECHNOLOGY: Asp.Net (C#), SQL Server, Crystal Report, Html Report
+
+TEAM: 2
+
+CLIENT: ADVERTISEMENT COMPANY, MUMBAI
+
+SUMMARY: HOARDING MANAGEMENT SYSTEM is a Web Bases Application for
+Hoarding Maintain with Customer Inforamation, and User Can Find Proper
+Location where is the x Customers Hoarding And Starting Time and Ending
+Time user can see Hoarding Picture also Provide Hoarding Photo Gallary,
+Search Panel also in this Application, User Can Search any Hoarding, Any
+Location, Time Period Search, Customer Name Search, User Can Search
+Price Wise Search   
+
+PROJECT MANAGEMENT SYSTEM
+
+TECHNOLOGY: Asp.Net (C#), SQL Server, Crystal Report, Html Report
+
+TEAM: 1
+
+CLEINT: Digital Soft Solution ,USA 
+
+SUMMARY: Project Management System is a Web Based Application, User
+Collect employee Information, User can 
+
+See how many project is going on and how many employee working in
+particular one project, user can see project status, daily reports, User
+can transfer employee one project to another project, Admin Give to
+designation wise rights to handle this project, also provide discuss
+form is suppose any employee have any query for one project, he/she
+enter his/her problem in discuss form. And all employee see discuss form
+
+
+PERSONAL DETAILS: -
+
+	BIRTH DATE			: 16/03/1983
+
+	GENDER			: Male
+
+MARITAL STATUS		: Married
+
+	CASTE				: Hindu/Patel
+
+	LANGUAGE KNOWN		: English, Hindi, Gujarati
+
+	PASSPORT DETAIL		: Passport No. F4449718 , 
+
+  Place Of Issue. - Ahmedabad, 
+
+  Date Of Expire. - June 24, 2013
+
+The information furnished above is true and to the best of my knowledge
+and belief.
+
+                                                                        
+                                     (Chirag B.Hadvani)
+
+	
+
+		
+
+							
+
+CHIRAG HADVANI			Curriculum Vitae
+
+CHIRAG HADVANI                                                          
+                                                                        
+                                     PAGE  3 
+

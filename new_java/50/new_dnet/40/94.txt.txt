@@ -1,0 +1,522 @@
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Manjiri Patil
+
+ 400 709, India. 
+
+Mumbai 
+
+Email:   HYPERLINK "mailto:patilmanjiri23@gmail.com" \o
+"mailto:patilmanjiri23@gmail.com"  patilmanjiri23@gmail.com 
+
+Phone: 91-22-2327806
+
+Mobile: 91-9892788252
+
+Current Location: Mumbai
+
+ 
+
+ 
+
+
+
+Date of Birth  23 Jul 1980
+
+Gender  Female
+
+Nationality  India 
+
+ 
+
+ 
+
+
+
+Work experience
+
+2 years 3 months
+
+Skills
+
+ASP.NET,VB.NET & SQL SERVER
+
+Industry
+
+IT/ Computers - Software
+
+Category
+
+Software, Hardware, EDP,Retail Chains
+
+Roles
+
+Software Engineer/ Programmer
+
+Current Employer
+
+Eresource Infotech (P) Ltd
+
+Current Annual Salary
+
+1.20 lacs per annum
+
+Highest Degree Held
+
+B.E/B.Tech Electronics/Telecommunications Shivaji University
+
+Preferred Job Location
+
+Bangalore,Mumbai,Pune
+
+ 
+
+ 
+
+
+
+Skill Name
+
+Last Used
+
+Skill Level
+
+Experience
+
+ASP.NET
+
+Mar 2007
+
+Intermediate
+
+27 months
+
+SQL Server
+
+Mar 2007
+
+Intermediate
+
+15 months
+
+ 
+
+ 
+
+
+
+IT/ Computers - Software
+
+ 
+
+ 
+
+
+
+
+
+RESUME 
+
+PERSONAL DETAILS 
+
+Name : Manjiri Raghunath Patil 
+
+Address for Communication : Flat No. 506, Orchid CHS, 
+
+Plot No. 56, Sector 15 
+
+Near D'mart, 
+
+Koparkhairane 
+
+Mumbai - 400 709, India. 
+
+Permanent Address : Plot No. 05 Devendra Housing Society 
+
+Shyamraonagar, 
+
+Sangli - 416 416 
+
+Contact Telephone No. : (0233) 2327806 
+
++919892788252(Mobile) 
+
+E-mail id :   HYPERLINK "mailto:patilmanjiri23@gmail.com" \o
+"mailto:patilmanjiri23@gmail.com"  patilmanjiri23@gmail.com  
+
+Date of Birth : 23-07-1980 
+
+Sex : Female 
+
+Marital Status : Single 
+
+Total Experience : 2.3 Years 
+
+OBJECTIVE 
+
+To build upon present skills and to seek a position that provides
+opportunities to keep abreast with the latest trends and developments in
+the field of Information Technology. 
+
+EDUCATIONAL QUALIFICATIONS 
+
+  BE (ELECTRONICS)- [2000-2002] from Textile Institute Of Engineering
+- Ichalkarnji, Shivaji University, -M.S, India with 62.00% 
+
+  Diploma (correspondence) [1999] from Maharashtra State Board Of
+Technical, India with 68.68% 
+
+  Scored 65.48 % in the Higher secondary 
+
+  Scored 91.85 % in Matriculation Exam (10th) 
+
+TECHNICAL SKILLS 
+
+Platforms : Windows 2003 Server, Windows Nt/2000 
+
+Languages : Vb6.0,Vb.Net And C++ 
+
+Environment : Asp.Net,Ado.Net,Crystal report 
+
+RDBMS : SQL Server 2000, MS-Access 
+
+Web Server : Microsoft IIS 
+
+Tools : Visual Stdio.Net 2003 
+
+Client Side Scripting : HTML, JavaScript & VBScript. 
+
+Awareness : Asp, Html, Windows Sharepoint Services 
+
+Reports : Crystal report 
+
+LANGUAGE PROFICIENCY 
+
+Languages Read Write Speak 
+
+English : Good Good
+Goodഠ敇浲湡㨠䜠潯⁤潇摯䴠摯牥瑡⁥䠍湩楤㨠䜠潯⁤
+潇摯䜠潯⁤䔍偘剅䕉䍎⁅
+
+  Worked as Software Developer in Eresource Infotech (P) Ltd., Mumbai
+from February 2007 to till date. 
+
+  Worked as a Software Engineer in Vertex Info Services (P).Ltd From
+October 2004 to January 2007 
+
+  Worked as a Faculty in Swift Technology (P) Ltd. From October 2003
+to September 2004 
+
+PROJECTS PROFILE 
+
+Project Name : Sleek (Retail Management System) 
+
+Role : Team Member 
+
+Duration : Feb' 2007 - Till Date 
+
+Team Size : 6 
+
+Environment : Asp.Net, Sqlserver2000-Sp4 
+
+Sleek is Retail Management System for Modular kitchen appliances. It is
+ERP (Enterprise Resource Planning). It consists of four sections
+Accessories, Appliances, Carcass and Shutters with different modules as
+Master entry, Buyers, Client servicing, Dispatch, Purchase, Sales, and
+reports. The software have provision to generate Enquiry, Quotation,
+Order, Packing list, Purchase order, Invoice. Packing list is only
+applicable for Accessories and appliances. Bill deletion and recovery
+facility is also provided. The application has also provision to
+generate periodic reports such as product in invoice, LR pending, Group
+wise product details, Sales Analysis Report etc. 
+
+The activities involved were: 
+
+  Understanding the requirements Functionally and Technically 
+
+  Coding and Testing (Unit and Integration) the application 
+
+  Making Data Structure, Writing Stored Procedure,Cursors ,User
+Defined Functions 
+
+Project Name : Development of Interactive System for Mobile Customers 
+
+Role : Team Member 
+
+Duration : Nov' 2006 - Jan 2007 
+
+Team Size : 3 
+
+Environment : Asp.Net, Sqlserver2000-Sp4, Tapi Software 
+
+Mobile Customer Data Management System intends to extract information
+from 3 sections: mobile section, through a computer section in LAN &
+remotely on telephone through IVRS system. 
+
+The Database so created that has fields highlighting the available
+facilities and critical information like Security Deposit. The
+activities involved were: 
+
+  Understanding the requirements Functionally and Technically 
+
+  Coding and Testing (Unit and Integration) the application 
+
+Project Name : Developed Online Factoring Reports 
+
+Role : Team Member 
+
+Duration : July'06 - Octo'06 
+
+Team Size : 3 
+
+Environment : Asp.Net, Sqlserver2000-Sp4 
+
+Online Factoring Reports is about Parsing files. System breaks prn files
+and creates separate aspx files for clients. Input files contain reports
+of clients. One input file contains same type of reports for multiple
+clients. 
+
+This software breaking files into pieces in such a way that one output
+file contains reports of one client and save that reports in
+corresponding folders of clients. So when we want to display report of
+particular client, it would display. There is Admin,Factor,Broker and
+client. Admin has rights to see reports of factor, broker and client.
+Similar way factor has rights to see the reports. Report log file has
+created to see the status of the report. If invalid user has trying to
+access to see the reports
+then愠捣獥⁳敤楮摥瀠条⁥潷汵⁤楤灳慬⹹ഠ桔⁥捡楴
+楶楴獥椠癮汯敶⁤敷敲›
+
+  Understanding the requirements Functionally and Technically 
+
+  Coding and Testing (Unit and Integration) the application 
+
+  Making Data Structure, Writing Stored Procedure,Cursors ,User
+Defined Functions 
+
+Project Name : Developed Invoice Parser 
+
+Role : Team Member 
+
+Duration : March'06 - May'06 
+
+Team Size : 3 
+
+Environment : Asp.Net, Sqlserver2000-Sp4 
+
+This software has provision to parse rpt files and breaks input rpt file
+into separate invoices. System also creates meta file that can be used
+to import the document in share point list using dockit.In rpt file We
+first find out Universal character, From that we were breaking the file
+Section above the Universal character was stored in One Html File and
+remaining data is stored in meta file 
+
+K
+
+L
+
+M
+
+	
+
+#
+
+2
+
+C
+
+J
+
+K
+
+L
+
+M
+
+N
+
+O
+
+œ
+
+ž
+
+Ÿ
+
+ 
+
+¡
+
+µ
+
+¶
+
+·
+
+,M
+
+N
+
+ 
+
+¡
+
+ 
+
+d
+
+e
+
+f
+
+g
+
+h
+
+i
+
+j
+
+k
+
+¸
+
+¹
+
+º
+
+»
+
+¼
+
+½
+
+¾
+
+¿
+
+Î
+
+Ï
+
+ß
+
+à
+
+á
+
+ç
+
+è
+
+h
+
+i
+
+j
+
+¼
+
+¼
+
+½
+
+¾
+
+¿
+
+Ï
+
+à
+
+à
+
+á
+
+è
+
+Activities involved were 
+
+  Understanding the Application Functionally and Technically 
+
+  Coding and Testing 
+
+Project Name : Developed Freight Dynamic 
+
+Role : Team Member 
+
+Duration : Nov'05 - Feb'06 
+
+Team Size : 2 
+
+Environment : Asp.Net Sqlserver2000-Sp4 
+
+Freight Dynamic is Courier system. This project utilizes for sending the
+courier from source to destination location. Administrator takes care of
+sending courier, deciding commission agent. Charges of package are
+decided by giving courier's length, width & height. 
+
+Activities involved were 
+
+  Understanding the Application Functionally and Technically 
+
+  Coding and Testing 
+
+Project Name : Developed Swift Technology Site. 
+
+Role : Team Member 
+
+Duration : June'05 - Octo'05 
+
+Team Size : 3 
+
+Environment : Asp.Net, sqlserver2000-sp4 
+
+This is online study solution. This software has provision to handle all
+the transactions of GATE exam. This software has provision to handle
+updated Information about exam, Study material as per different trade,
+Practical analysis of experiment, Test papers on basis
+of洠牡獫‬捓牯⁥慣摲琠⁯湡污獹獩瀠潲牧獥ⱳ传汮湩
+⁥畱獥楴湯映牯浵‮䄍瑣癩瑩敩⁳湩潶癬摥眠牥⁥
+
+%  Understanding the Application Functionally and Technically 
+
+  Coding and Testing 
+
+Project Name : Hospital Management System 
+
+Role : Team Member 
+
+Duration : Octo'04 - May'05 
+
+Team Size : 3 
+
+Environment : Vb.Net, Sqlserver2000-Sp4 
+
+This software handles the transactions of the patient's all type of
+information that is carried out through different forms. Using this
+project we can make transactions in the forms related with patients
+e.g.Code Definitions Option,Transactions,Reports,Utility 
+
+DECLARATION 
+
+I hereby affirm that the above-furnished information is true to the best
+of my knowledge. I will be happy to provide any additional particulars
+that I may have inadvertently missed out. 
+
+(Manjiri R. Patil) 
+
+Mumbai
+
+
+
+
+

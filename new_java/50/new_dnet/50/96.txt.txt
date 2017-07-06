@@ -1,0 +1,527 @@
+ 
+
+	Contact Information
+
+ 
+
+ 
+
+Manish Ranipa
+
+Email:   HYPERLINK "mailto:ranipa_mm@rediffmail.com" 
+ranipa_mm@rediffmail.com 
+
+Phone: Not specified
+
+Mobile: 098336 81737
+
+Current Location: Mumbai
+
+ 
+
+	Personal Information 
+
+ 
+
+Date of Birth:   1 Sep 1983
+
+Gender:  Male
+
+Nationality:  India
+
+ 
+
+	Professional & Educational Details 
+
+ 
+
+Work Experience
+
+2 years 4 months
+
+Skills
+
+VB.Net/ASP.Net/Sql Sever 
+
+Industry
+
+IT/ Computers - Software
+
+Category
+
+Software, Hardware, EDP,Finance & Accounts
+
+Roles
+
+Software Engineer/ Programmer
+
+Current Employer
+
+Indiainfoline LTD 
+
+Current Annual Salary
+
+1.50 lacs per annum
+
+Previous Employer
+
+Core SoftTech 
+
+Work Authorization
+
+Need H1 Visa - Authorized to work in United Kingdom
+
+Highest Degree Held
+
+B.E/B.Tech, Computers, Saurashtra University
+
+Preferred Job Location
+
+Bangalore,Delhi,Mumbai,Pune
+
+ 
+
+	Skills Information 
+
+ 
+
+Skill Name
+
+Last Used
+
+Skill Level
+
+Experience
+
+VB.NET 
+
+Dec 2006
+
+Expert
+
+12 months
+
+ASP.NET 
+
+Dec 2006
+
+Expert
+
+16 months
+
+Visual Basic 
+
+Mar 2004
+
+Expert
+
+5 months
+
+SQL Server 
+
+Dec 2006
+
+Expert
+
+28 months
+
+ 
+
+	 Domain Knowledge
+
+ 
+
+ 
+
+	Banking/ Financial Services,IT/ Computers - Software
+
+ 
+
+
+
+	 Detailed Resume
+
+	
+
+Ranipa Manishkumar Mahadevbhai 2-A Durga Prashad Appt. 
+
+Abhinav Nagar-2 Main Road, 
+
+Opp. Civil Training Institute, 
+
+B/H National Park,Borivali(East)-Mumbai. 
+
+Contact No: +91 9833681737 
+
+E-Mail:   HYPERLINK "mailto:ranipa_mm@rediffmail.com" 
+ranipa_mm@rediffmail.com  
+
+ranipa_mm@yahoo.co.in 
+
+Software Engineer 
+
+Dynamic, results-oriented professional with 2 Yrs s of experience on
+.NET Resourceful
+te浡瀠慬敹⁲档牡捡整楲敺⁤祢椠湮癯瑡癩⁥桴畯桧⵴
+敬摡牥桳灩猠楰楲⹴ഠ佃䕒䌠䵏䕐䕔䍎䕉⁓
+
+  Application Design 
+
+  Good technical competancy in .Net producing quality products 
+
+  Good team player 
+
+  Team Leadership - handling small teams 
+
+  Always trying for Productivity and Process Improvement 
+
+  Got A ratings in all the projects executed so far 
+
+CAREER OBJECTIVES 
+
+To work in an organization that provides me an opportunity to work in a
+challenging, team oriented environment where I can apply my knowledge,
+creativity, innovation & logic and at the same time learn and enhance my
+skills 
+
+PROFESSIONAL QUALIFICATION 
+
+  B.E. Information Technology at Suarashtra Univercity -Gujarat with
+- 67.3% 
+
+SUMMARY OF EXPERIENCE 
+
+Core Softech 
+
+August 2004 -July 2006 
+
+2 Yr 
+
+India Infoline Ltd. 
+
+August 2006 - Working 
+
+Working 
+
+TECHNICAL EXPERTISE 
+
+Front End 
+
+ASP.NET, VB.NET 
+
+Database 
+
+SQL Server 2000, SQL Server 2005. 
+
+OS 
+
+Windows XP, Windows 2000 server 
+
+Reports 
+
+Crystal Reports 8 
+
+PROJECT SUMMARY 
+
+Project # 5 
+
+IWIN 
+
+Client 
+
+India Infoline Ltd. 
+
+Duration 
+
+Development Continue…. 
+
+Team Size 
+
+3 
+
+Platform 
+
+ASP.Net, SQL Server 2000 
+
+Responsibility 
+
+Development,Database Design, management and maintenance. 
+
+Project # 4 
+
+PAYROLL 
+
+Client 
+
+India Infoline Ltd. 
+
+Duration 
+
+Development Continue…. 
+
+Team Size 
+
+3 
+
+Platform 
+
+VB.Net, SQL Server 2005 
+
+Responsibility 
+
+Develop,Database management and maintenance. 
+
+Project # 3 
+
+Export Management System (EMS) 
+
+Client 
+
+Radiant Export House 
+
+Duration 
+
+Dec 2005 - June 2006(7 Months) 
+
+Team Size 
+
+2 
+
+Platform 
+
+ASP.Net, SQL SERVER, and Window 2000 Server 
+
+Functional Scope 
+
+Export Management System was developed to take care of complete
+automation of Export House. This application software is used to
+maintain complete details of all the transaction and processes done by
+the Export house. This software helps in decision making for any new
+purchase order and market survey as well as to develop new strategies. 
+
+Technical Scope 
+
+The Architectural Design follows the two-tier architecture, separating
+Data Layer and application layer. 
+
+Responsibility 
+
+Working as a team member, as well as involved in planning, coding,
+testing of application. 
+
+Project # 2 
+
+Madical Transcryption 
+
+Client 
+
+Supreme Distributed 
+
+Duration 
+
+May.2005 - Nov 2005 (8 Months) 
+
+Team Size 
+
+3 
+
+Platform 
+
+VB.net, SQL Server , Crystal Report 8.0 
+
+Functional Scope 
+
+The project was to build for pharmacitical company. its use for tracking
+of all bussiness transaction of company. It has 12-15 modules. Major
+modules are for madicine, production, raw Material purchasing,selling
+madicine,Billing,Stock Maintaining of Madicine,and accounting
+transaction l and other small modules. 
+
+Technical Scope 
+
+The Architectural Design follows the three-tier architecture, separating
+business layer, data layer and application layer. The project involves
+development of all the modules from scratch. 
+
+Responsibility 
+
+Working in planning,Design, coding, of application 
+
+Project # 1 
+
+Ceramic Accounting System 
+
+Client 
+
+Ceramic Industries 
+
+Duration 
+
+August 2004 - April. 2005 ( 9 Months) 
+
+Team Size 
+
+4 
+
+Platform 
+
+VB.Net, SQL Server 
+
+Functional Scope 
+
+̟⍪
+
+kd¢
+
+<
+
+|
+
+}
+
+
+
+€
+
+×
+
+Ø
+
+Ù
+
+Ú
+
+Û
+
+Ý
+
+	
+
+&~
+
+
+
+Û
+
+Ü
+
+Ý
+
+Y
+
+&
+
+'
+
+8
+
+K
+
+	
+
+&
+
+'
+
+7
+
+K
+
+L
+
+a
+
+v
+
+w
+
+ˆ
+
+˜
+
+™
+
+«
+
+à
+
+á
+
+ô
+
+(K
+
+L
+
+b
+
+v
+
+w
+
+w
+
+‰
+
+˜
+
+™
+
+¬
+
+à
+
+à
+
+á
+
+õ
+
+kd
+
+H
+
+H
+
+H
+
+H
+
+ning, order maintaining and All of accounting Transaction within full of
+detail. 
+
+Responsibility 
+
+Database Design, management 
+
+STRENGTH 
+
+  Strongly believe in time frame action as time is going to be the
+biggest threat to manager. 
+
+  Apart from my works I am also associated with cultural bodies, and
+therefore I have developed confidence in handling different kind of
+people. 
+
+PERSONAL DETAILS 
+
+Date of Birth 
+
+1st Sept 1983 
+
+Nationality 
+
+Indian 
+
+Sex 
+
+Male 
+
+Language Known 
+
+English, Hindi, Gujarati 
+
+
+
+	
+
