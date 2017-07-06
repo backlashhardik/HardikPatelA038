@@ -1,0 +1,335 @@
+Umesh Surywanshi						                HYPERLINK
+"mailto:umeshsur@rediffmail.com"  umeshsur@rediffmail.com 
+
+Mobile - 9923646202          
+
+Objective
+
+To pursue a challenging and satisfying career and to be a part of a
+progressive and growth oriented Organization that give me scope to
+enhance my knowledge and skills to cope up with the latest technological
+changes.
+
+Experience summary
+
+About 2.5 years Information Technology experience working on development
+projects in various Banking applications using Java/J2EE Technologies.
+
+Currently Working With HSBC Global Technology (HSBC Software Development
+India), Pune, India as Software Engineer (Java Developer).
+
+Educational Qualification
+
+Bachelor of Engineering in Electronics in May 2003.  
+
+Ramrao Adik Institute Of Technology. Mumbai University.
+
+HSC in Feb 1999.
+
+K. V. Pendharkar College. Mumbai Board.	
+
+SSC in Mar 1997.
+
+Swami Viveka Nand Vidya Mandir. Mumbai Board.
+
+IT EXPOSURE:
+
+Operating System 	:	WINDOWS 98/2000/XP/NT.
+
+
+
+Languages	:	Core Java/J2EE (Servlet’s, Portlet’s), JSP, JDBC, UML
+
+Mark ups	:	HTML, XML
+
+
+
+Application Servers
+
+	:	WebSphere 5.x/6.x
+
+
+
+Databases	:	ORACLE, SQL.
+
+Software’s Handled 	:	IBM Web Sphere Application Development 5.1.2,
+Rational Rose, MKS Integrity.
+
+
+
+TOTAL WORK EXPERIENCE:  28 months
+
+Company:   HSBC -Global Technology Center India – Pune 
+
+Project		 	:	Quickstep European Enhancements
+
+Client	            	:	HSBC-UK, Hungary, Slovakia, Ireland, Poland, Czech
+
+Languages	:	JAVA, J2EE, JSP, XML, XSLT
+
+Duration	 	:	9 months (July 06 to Mar 07)
+
+Role 		             	:	Onsite Developer and Coordinator.
+
+
+
+Project Details: -
+
+This project is used currently by five European countries Hungary,
+Slovakia, Ireland, Poland, and Czech. This project is developed in
+household bank in UK named HFC.This application is used to provide loan,
+store card and credit card for different customers. This project uses
+HFC’s (household bank in UK overtaken by HSBC) Quickstep framework.
+
+My Role: -
+
+I was involved in analyses of the requirements provided by business.
+Also I have submitted estimations for all the requirements. 
+
+I was involved in development of the requirements. While development I
+have conducted many video/conference calls with business. I also did
+coordination with AS400/backend team from UK & India. I have done
+coordination for other front-end teams in India.
+
+I was involved in end-to-end testing of front-end & AS400/backend also
+involved in system test support. I resolved bugs raised in quality
+center. I was involved in Build and deployment process of code using
+MKS.
+
+Finally after implementation I was involved in production support for
+final completion.
+
+Thus I have followed complete software life cycle for this project.
+
+I was also worked as an Onsite coordinator for this project as well as
+other quickstep projects in India, which involved different coordination
+activities and resolving issues for offshore Team by communicating with
+the analysts time to time.
+
+Project		 	:	Business Internet Banking (Priority Payments)
+
+Client	            	:	HSBC-UK
+
+Languages	:	JAVA, J2EE, JSP, XML.
+
+Duration	 	:	7 months (Dec 05 to Jun 06)
+
+Role 		             	:	Developer
+
+
+
+Project Details: -
+
+CHAPS:
+
+BIB includes functionality to create sterling to sterling payments for
+same day value processing through CHAPS.  These payments tend to be low
+volume, high value types of payments to third party beneficiaries.
+
+UK BIB is required to support the creation of CHAPS Payments.  The
+Electronic Delivery Priority Payments (EDPP) system supports the routing
+of CHAPS payments for HSBC Bank plc.  To provide a consistent solution,
+all CHAPS Payments created in BIB are routed through EDPP for
+processing. EDPP interfaces with the MPS system to process the payments.
+
+
+EDPP also supports the creation and maintenance of Beneficiary
+templates.
+
+The BIB CHAPS Payments service includes the following business functions
+assuming the access rights for the BIB User include the CHAPS Payments
+service:
+
+Creation of sterling-to-sterling CHAPS Payments for immediate payment.
+
+Creation of Payments to pre-defined Beneficiaries from the Beneficiary
+List 
+
+Verification of payment value against defined BIB Customer and User
+specific limits. 
+
+Verification of payment value against available funds.
+
+Creation of Beneficiary templates.
+
+Maintenance of Beneficiary templates
+
+Authorisation of CHAPS payments above creating user limits.
+
+SWIFT:
+
+BIB includes functionality to create international payments in any
+currency using the Society for Worldwide Interbank Financial
+Telecommunications (SWIFT) payment mechanism.  These payments will be
+for below bookable amounts in currencies permitted by Treasury payable
+to third party beneficiaries.
+
+BIB is required to support the creation of SWIFT Payments.  The
+Electronic Delivery Priority Payments (EDPP) system supports the routing
+of SWIFT payments for HSBC Bank plc.  To provide a consistent solution,
+all SWIFT Payments created in BIB are routed through EDPP for
+processing.  EDPP interfaces with the Midland Payments System (MPS) to
+process the payments.
+
+EDPP also supports the creation and maintenance of Beneficiary
+templates.
+
+The BIB SWIFT Payments service includes the following business
+functions:
+
+Creation of international payments in any currency permitted by Treasury
+via SWIFT for immediate payment.
+
+Creation of international payments to pre-defined Beneficiaries from the
+Beneficiary List 
+
+Verification of payment value against defined BIB Customer and User
+specific limits. 
+
+Verification of payment value against available funds.
+
+Creation of Beneficiary templates.
+
+Maintenance of Beneficiary templates
+
+Authorisation of SWIFT payments above creating user limits.
+
+My Role: -
+
+Involved in development of various modules like CHAPS Payment, SWIFT
+Payment.
+
+Prepared Unit test plans for these modules. Executed test cases.
+
+Analysis of client requirement.
+
+Analysis of design after gathering client requirements. 
+
+Involved in system test support by analyzing various defects and
+supported on site team whenever required.
+
+Participated in teleconferences and team meetings and provided timely
+inputs critical to the smooth progress of the project.
+
+.
+
+Project		 	:	Internet Invoice Finance 
+
+Client	            	:	HSBC UK
+
+Languages	:	JAVA, J2EE, JSP, XML.
+
+Duration	 	:	8 months (Apr 05 to Nov 05)
+
+Role 		             	:	Developer
+
+
+
+Project Details:
+
+The Internet Invoice Finance (IIF) on-line information system helps in
+successful operation of the Invoice finance facilities like View the
+Cash Available, Request Transfer of funds to your account, View the
+Payments received, Set up new customer, View Sales Ledger, Mailing
+facility, Download reports and etc. 
+
+ 
+
+My Role:-
+
+I was responsible to understand the use case, raise queries regarding
+the Use case Specs clarifications if required and create Unit Test
+Plans. I prepared class diagrams, sequence diagrams, collaboration
+diagrams using Rational Rose. I developed few modules, specific to the
+application. I was also involved in developing a dummy prototype model
+of the various functionalities in Java Script and HTML before actual
+live implementation of the module. I was also involved in Code reviews,
+preparing Unit Test plans and performing Unit testing. I was responsible
+for some extent in support during Integration and system testing.
+
+Company:   Sigma Tech India, Mumbai
+
+Project		 	:	Learning Management System
+
+Client	            	:	McGraw-Hill, USA
+
+Software	      	:	Java, Jsps, Apache Tomcat Server.
+
+Duration	 	:	5 months (Dec 04 to Mar 05)
+
+Role 		             	:	Development
+
+
+
+Project Details:
+
+A Learning Management System (or LMS) is a software package that enables
+the management and delivery of online content to learners. Most LMSs are
+web-based to facilitate "anytime, any place" access to learning content
+and administration. Typically an LMS allows for learner registration,
+delivery of learning activities, and learner assessment in an online
+environment. More comprehensive LMSs often include tools such as
+competency management, skills-gap analysis, succession planning,
+certifications, and resource allocation (venues, rooms, textbooks,
+instructors, etc.).
+
+My Role:
+
+Worked as a Software Programmer on the development of LMS (Learning
+Management System) for the Client McGraw - Hill based in USA. LMS is
+basically a huge educational online system. Software/Technology/Tools
+used were Apache Tomcat, Oracle 9i, JSP, Java, Servlets, J2EE, JDBC.
+
+Responsibilities included were - 
+
+(a) Detailed analysis of the requirements. 
+
+(b) Development of the application using Java / J2ee with Tomcat as the
+web server.
+
+(c) Testing for the same.
+
+PERSONAL DETAILS:
+
+Name	:	Umesh V Surywanshi
+
+Age	:	24 years
+
+Date of Birth	:	27-04-1982
+
+Sex	:	Male
+
+Martial Status	:	Unmarried
+
+Nationality	:	Indian
+
+Permanent Address
+
+	:	B/20, Bell CHS, Manpada Road, Anand Nagar, Dombivli (E) – 421201,
+Maharashtra, India.
+
+Contact Number	:	91-251-2454062 Cell: 9923646202
+
+Languages Known	:	English, Hindi and Marathi
+
+
+
+PASSPORT DETAILS:
+
+Passport Number	F6996926
+
+Issued Date	28/02/2006
+
+Expiry Date 	28/02/2016
+
+Status    	ECNR
+
+
+
+Declaration
+
+                  I hereby declare that the above written particulars
+are true to the best of my knowledge and belief.
+
+                            			 Umesh Surywanshi.
+

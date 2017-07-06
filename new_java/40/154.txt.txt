@@ -1,0 +1,256 @@
+CURRICULUM VITAE 
+
+             
+
+	                                                  	
+
+H.K.N.V. BALAJI,
+
+Contact Address: 264/4, Sri Santh Krupa Building, 
+
+                               Beside Bhairavee Hotel, Baner Road, 
+
+                               Baner, Pune-411045.                      
+                   	                                                    
+           
+
+Email   : balaji.hknv@gmail.com 
+
+Contact:  +91- 09922919430
+
+Professional Objective:
+
+A position as a Software Developer that will capitalize on acquired
+expertise and experience. Desire a position with career growth
+potential always keeping the Organization’s Goals as a priority.
+
+Experience profile:
+
+Having 1.9yrs of Experience in Software Development in Java, J2EE (JDBC,
+Servlets, JSP, JMS).
+
+Good knowledge in Core Java, SQL, PL/SQL.
+
+Quick adaptability to new technologies and zeal to improve technical
+skills.
+
+Career Summary:
+
+Presently working as a Software Engineer in Wipro Technologies from
+October 2006 to till date.
+
+Previously worked as an Application Engineer in RFID Division at
+Bartronics India Ltd, Hyderabad from March 2006 to October 2006.
+
+         Previously worked as a Programmer in NIC (National Informatics
+Centre) – Ministry of  
+
+         Information Technology, Hyderabad from April 2005 to March
+2006.
+
+Academic Qualifications:
+
+B.Tech (CSIT) from Jyothi Engineering College, JNTU (2001-2005) with
+64%.
+
+Intermediate from Tetrahedron Jr. College (1997-1999) with 64%.
+
+S.S.C from Kakatiya Vidya Niketan High School (1996-1997) with 75%.
+
+Technical Exposure:
+
+Operating Systems           :  Red Hat LINUX 9.0, Windows 9x/2000/XP.
+
+Languages                        :  Core Java, C.
+
+Databases                         :  Oracle9i.
+
+GUI                                  :  JFC/Swings, AWT.
+
+Servers                             :  Weblogic8.1, Tomcat5.0.
+
+Web Technologies           :  J2EE (JDBC, Servlets, JSP).
+
+J2EE Technologies          :  JMS.
+
+IDE Tools                        :  JCreator 3.50, NetBeans5.0.
+
+DB Languages                 :  SQL, PL/SQL.
+
+Process Automation Tool:  ANT1.6.5.
+
+MarkUp Languages         :  XML, HTML.
+
+Projects Profile:
+
+Title: Information Technology Governance (ITG)/ PPM.
+
+Client: HP- Mercury Interactive.
+
+Software: Java, Oracle.
+
+Description: IT governance is a structure of processes that govern,
+Business technology optimization refers to the strategies and processes
+involved in aligning IT with business goals to maximize IT’s business
+value. Mercury IT Governance Center is used to digitize and automate IT
+business processes from demand through production to enable customers to
+optimize and align IT strategy and execution.
+
+	Mercury Demand Management provides a single application and repository
+to capture demands made against IT organizations. Information is
+consolidated from multiple sources so users can view aggregate demand in
+real time and report against it.
+
+Role:	-Working on ITG/PPM- Demand Management Module.
+
+            -Finding bugs in the application and reporting them to a
+team of developers. 
+
+	-Reproducing the customer's issues at my end and submitting
+enhancements and 	defects accordingly. 
+
+	-Understanding the functioning of the tool and assist the customer in
+the best possible 	manner in resolving his issue at the earliest. 
+
+Title: Vehicle Tracking System Using RFID.
+
+Client: Bartronics India Ltd.
+
+Software Requirements: 
+
+OS                         : Windows XP.
+
+API                        : Java, JDBC, JSP, XML.
+
+Web Server           : Tomcat 5.0.
+
+GUI                       : JFC/Swings.
+
+Team Size             : 4.
+
+Role                      : Team member.
+
+Description: Vehicle Tracking System is developed to track the Vehicles
+present anywhere in the organization. The system tracks every vehicle
+from the time it enters the organization and also tracks outside it. The
+vehicle details are registered into the database. The Maintenance
+details of the vehicle are also maintained whenever it goes for a repair
+in or outside the organization. The depreciation of the vehicle and the
+meantime between failures (MTBF) are automatically calculated and
+generated as reports which helps the management make easy analysis. The
+authentication module finds the in and out time of the vehicle as well
+as ensures that the authorized vehicle is used in the organization. This
+module automatically identifies the employee/vehicle using RFID
+technology.  
+
+Title: APSU Messenger.
+
+Client: NIC (National Informatics centre).
+
+Software Requirements: 
+
+OS                         : Windows NT.
+
+API                        : Java, JMS, XML.
+
+Application Server: Weblogic 8.1.
+
+GUI                       : JFC/Swings.
+
+Team Size             : 2.
+
+Role                      : Team member.
+
+Description: The aim of the above project is to provide the Chatting
+facility with all the features to have support with the intranet and
+Internet communications. This software is designed to provide support
+for Instant Messaging using Java Messaging Service (JMS) that enables
+point -to - point messaging and Broadcasting of messages. In this system
+there will be Durable Subscribers and for them we have provided a
+provision to store the messages in Weblogic server as a File-Store, by
+which they can receive the messages even though they are not online at
+the time of publishing the message and they will receive them after they
+have logged in. And Moreover the Subscriber of the message can publish
+the messages to the concerned Publisher using the reply option which we
+have provided. In Point –to-Point messaging messages will be published
+to a specific Subscriber. 
+
+Title: HOSPITAL MONITORING SYSTEM.  
+
+Client: NIC (National Informatics centre).
+
+Software Requirements:  
+
+Languages        :  JAVA, Servlets, JSP, JDBC.  
+
+Server Platform:  Windows 2000.
+
+Database          :  Oracle 9i.
+
+Team Size        :  2. 
+
+Duration           : 2 months.
+
+              
+
+Description:  The aim of the above project is to provide the Instant
+Services to the patients by the hospital management without any
+bottlenecks. This project is on the latest relational database system
+technology. HMS system provides the benefits of streamlining of
+operations, enhanced administration and control, improved response, cost
+control. It provides easy access to critical information there by
+enabling the management to take better decisions on time. HMS is
+designed to be easy, fast and intuitive.
+
+Achievements:
+
+Diploma from Finland & Gold medal from Japan at an International level
+Art Exhibition.
+
+Certificate of Appreciation & Gold Medal from MARU Association, Japan.
+
+Gold medal from “PULLAIAH KALA NILAYAM” in All India painting
+competition.
+
+Extra Curricular Activities:
+
+Part of National Cadet Corps at school level and have attended NCC & NIC
+camps as a part of it.
+
+I have completed my TYPING LOWER Exam.
+
+Passport Details:
+
+Passport No.: E7806582
+
+Valid Up to  : 23-02-2014
+
+Personal Profile:
+
+Date of Birth               : 20-06-1982.
+
+Father’s Name            :  H. Subrahmanyam.
+
+Residence No.            :  91-(040)-23012778, 91-9989379078.
+
+Alternate Email-ID     :    HYPERLINK "mailto:balaji.hknv@gmail.com" 
+hknvbalaji@gmail.com , balaji.hknv@nowpos.com
+
+Willing to Relocate     : Yes
+
+Permanent Address     :  Flat. No: 501, Sai Kiran Apartments, Alind
+Colony, Gachibowli,  
+
+                                       Hyderabad, AP, INDIA.	           
+     
+
+.      
+
+		
+
+					                                          
+
+ H.K.N.V. BALAJI
+
+  PAGE  1 /4	
+

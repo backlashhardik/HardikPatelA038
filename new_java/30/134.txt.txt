@@ -1,0 +1,515 @@
+ 
+
+	Contact Information
+
+ 
+
+ 
+
+Vundekari Triveni
+
+Flat No:-402,Plot No:-30/31, 
+
+Sector-20, CBD Belapur, Navi Mumbai
+
+Email:   HYPERLINK "mailto:vtriveni84@yahoo.co.in" 
+vtriveni84@yahoo.co.in 
+
+Phone: Not specified
+
+Mobile: 91-9324441584
+
+Current Location: mumbai
+
+ 
+
+	Personal Information 
+
+ 
+
+Date of Birth:  16 Jul 1984
+
+Gender:  Female
+
+Nationality:  India
+
+ 
+
+	Professional & Educational Details 
+
+ 
+
+Work Experience
+
+2 years 2 months
+
+Skills
+
+CORE JAVA,J2EE,JSP,EJBs,SERVLETS 
+
+Industry
+
+IT/ Computers - Software
+
+Category
+
+Software, Hardware, EDP
+
+Roles
+
+Software Engineer/ Programmer
+
+Current Employer
+
+BAYSQUARE TECHNOLOGIES 
+
+Current Annual Salary
+
+1.80 lacs per annum
+
+Highest Degree Held
+
+B.E/B.Tech, Computers, Andhra University
+
+Preferred Job Location
+
+Anywhere
+
+ 
+
+	Skills Information 
+
+ 
+
+Skill Name
+
+Last Used
+
+Skill Level
+
+Experience
+
+EJB 
+
+Feb 2007
+
+Intermediate
+
+18 months
+
+J2EE 
+
+Feb 2007
+
+Beginner
+
+12 months
+
+JSP 
+
+Feb 2007
+
+Intermediate
+
+18 months
+
+servlets 
+
+Feb 2007
+
+Intermediate
+
+20 months
+
+oracel9i 
+
+Feb 2007
+
+Intermediate
+
+20 months
+
+ 
+
+	 Domain Knowledge
+
+ 
+
+ 
+
+	IT/ Computers - Software
+
+ 
+
+
+
+	 Detailed Resume
+
+	
+
+Curriculum Vitae 
+
+Triveni vundekari 
+
+Flat No:-402, 
+
+Plot No:-30/31, 
+
+Sector-20, CBD Belapur, E-Mail : vtriveni84@yahoo.co.in 
+
+Navi Mumbai , ` 
+
+Pin : 401107. Mobile No.: 91+09324441584. 
+
+OBJECTIVE : 
+
+To become a successful professional in the field of Information
+Technology and to work in an innovative and competitive world. 
+
+  TOTAL WORK EXPERIENCE: 
+
+  Working as Software Engineer at BAYSQUARE TECHNOLOGIES Pvt. Ltd.,
+Mumbai from Jan, 2005 to til date. 
+
+BaySquare Technologies is one of growing companies and provider of 
+
+software products to Telecom Domain, with over many reputed firms across
+the 
+
+globe 
+
+Industrial Exposure: 
+
+I worked at SUVERA TECHNOLOGIES (Vishkapatam) during summer vacation
+湡⁤潤敮愠瀠潲敪瑣琠瑩敬⁤斓敂瑳匠極整ₔ獵湩⁧㉊
+敥愠⁳桴⁥牦湯⁴湥⁤湡⁤牯捡敬㠠⁩獡琠敨戠捡⁫湥
+⁤
+
+    EDUCATION: 
+
+Degree 
+
+University/Board 
+
+Specialization 
+
+Month & 
+
+Year of 
+
+completion 
+
+Percentage 
+
+of marks 
+
+10th Class 
+
+SSC(Board of Secondary 
+
+Education, AP) 
+
+April 1999 
+
+68% 
+
+Intermediate 
+
+BIE(Board of Intermediate 
+
+Education , AP) 
+
+Maths , Physics 
+
+and Chemistry (M.P.C) 
+
+April 2001 
+
+67% 
+
+B.Tech 
+
+Andhra University , AP 
+
+Computer Science 
+
+April 2005 
+
+65% 
+
+SKILL PROFILE: 
+
+  Operating systems : Windows 2000 / NT, MS-DOS, Linux. 
+
+  JAVA Technologies/Packages : Java, JSP, Servlets, JDBC ,Swing, AWT.
+
+
+  RDBMS : Oracle. 
+
+  Web Technologies : HTML,XML,XSL, javascript. 
+
+  GUI :Visual Basic 6 
+
+  Other Technologies : C, C++. 
+
+PROJECT DETAILS: 
+
+Company : Baysquare Technologies(Mumbai) 
+
+CRS(Cable Rating System ) 
+
+Client 
+
+: Divinet Technologies 
+
+Position 
+
+: Developer 
+
+Team Size 
+
+: 3 
+
+Technologies 
+
+: EJB, XML, XSL, Java Servlet, JSP, Java Script. 
+
+Database 
+
+:Oracle 9ix,Mysql 
+
+Tools/Platforms Used 
+
+: WINDOWS 2000, jboss 3.2.4, 
+
+Tomcat 5.0.25. 
+
+Description: 
+
+Divinet Access Technology provides Cable service to the various
+operators .The operator in turn provide these services to various
+subscribers .CRS used to rate the session used by the subscriber of each
+operator thus providing the total usage by the each operator and their
+subscriber. These usage are shown in various Graphical reports to the
+top level Managers which help in deciding the various decision to be
+taken For eg To give discounts to that operators which is having maximum
+usage. 
+
+Responsibility: 
+
+* User Interface Designing and development. 
+
+Company : Baysquare Technologies(Mumbai) 
+
+WDRS (WiFi Data Rating System) 
+
+Client 
+
+: Verisign 
+
+Position 
+
+: Developer 
+
+Team Size 
+
+: 5 
+
+Technologies 
+
+: EJB, XML, XSL, Java Servlet, JSP, Java Script. 
+
+Database 
+
+:Oracle 9ix 
+
+Tools/Platforms Used 
+
+: Eclipse, WINDOWS 2000, jboss 3.2.4, Tomcat 5.0.25. 
+
+Description: 
+
+WiFi Data Rating System (WDRS), the billing system developed for
+Verisign Telecommunications Inc. It addresses the billing intricacies of
+Wireless internet access through HotSpots.
+Verisi湧栠牥⁥捡獴愠⁳⁡汣慥楲杮栠畯敳映牯椠獴挠楬
+湥獴‮桔⁥祳瑳浥栠獡愠爠瑡湩⁧潭畤敬眠楨档爠瑡獥
+琠敨爠睡甠慳敧搠瑡⁡牦浯䄠䅁猠牥敶獲‮湏散琠敨爠
+瑡湩⁧獩搠湯⁥桴⁥祳瑳浥⁳敧敮慲整⁳桴⁥敳瑴敬敭
+瑮愠摮椠癮楯散爠灥牯獴‮഍敒灳湯楳楢楬祴›
+
+  Making reports using EJB and JSP 
+
+  Making rating engine and rating application 
+
+College : GITAM (Vishkapatam) 
+
+ATM Banking 
+
+Position 
+
+: programmer 
+
+Team Size 
+
+: 4 
+
+Environment 
+
+: Jdk1.4, swing 
+
+Database 
+
+: Oracel 8 
+
+Tools/Platforms Used 
+
+���쯓놽놽놡鮡놡놽놽놽폋���������쯓퍶폋���������̟⍪
+
+kd¢
+
+-
+
+
+
+ 
+
+|
+
+{
+
+|
+
+}
+
+Œ
+
+™
+
+¡
+
+©
+
+´
+
+½
+
+¾
+
+¿
+
+Á
+
+Â
+
+À
+
+Á
+
+Y
+
+
+
+8
+
+9
+
+>
+
+]
+
+^
+
+n
+
+‡
+
+ˆ
+
+²
+
+³
+
+Æ
+
+ð
+
+ñ
+
+ 
+
+8
+
+9
+
+9
+
+?
+
+]
+
+^
+
+o
+
+‡
+
+‡
+
+ˆ
+
+ž
+
+²
+
+³
+
+³
+
+Ç
+
+ð
+
+ñ
+
+mcat 5.0.25 
+
+Description: 
+
+ATM Banking has evolved as a revolutionary tool in the banking sector to
+meet the fast processing of transaction. This project includes all the
+provisions like both any time money & any place money. The customer can
+access their account from any remote areas. The proposed system can be
+located in a public place, connected to a data system and related
+equipment and can be activated by a bank customer to obtain cash
+withdrawals and other banking services such as mini statememt, fast
+cash, current account, saving account,current
+balancecheking,transaction,user updates etc 
+
+Responsibility: 
+
+* User Interface Designing and development. 
+
+PERSONAL DETAILS 
+
+Name Triveni Vundekari 
+
+Sex Female 
+
+Date of Birth 16 th july 1984 
+
+Marital Status Single 
+
+Languages Known Telugu, English, Hindi. 
+
+I hereby declare that the information furnished above is true to the
+best of my knowledge. 
+
+Place: 
+
+Date: (Vandekari Triveni) 
+
+
+
+	
+

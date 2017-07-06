@@ -1,0 +1,175 @@
+Career Objective: Permanent position in the Information Technology
+field. Areas of interest include programming and development using
+technology J2SE and J2EE.
+
+	
+
+Career Synopsis
+
+Sun Certified Java Programmer with experience in working on a tool based
+on .NET Framework and recently involved in projects based on Java
+technology platform 1.4/ J2EE technology 1.4. I have Excellent
+analytical and interpersonal skills coupled with effective
+communication, negotiating skills and 2.4 years of professional
+experience in handling Clients, Managing a team and handling/allocating
+projects and all the internal processes/planning related to it.
+Capability to work with and provide leadership to the technical teams &
+business analyst teams.                            
+
+Additional Certifications:          
+
+Certificate	Score	Date
+
+Sun Certified Java Programmer – (Java 2 Platform 1.4)	91%	18th
+Feb’07
+
+
+
+I am currently preparing for SCWCD (Sun Certified Web Component
+Developer for J2EE 1.4)
+
+Work History: 
+
+Ugam Solutions Pvt. Ltd.	        Jan 2005 – Present
+
+	  HYPERLINK "http://www.ugamsolutions.com/About_Overview.html"  Ugam
+Solutions is a leading provider of Market Research, Analytics and Online
+Marketing Services and also IT enabled services to global organizations.
+With the right combination of strong domain expertise, highly skilled
+and motivated people, robust internal processes and systems, and a
+state-of-the-art computing and telecom infrastructure, Ugam Solutions
+ensure consistent, high quality service delivery to its clients.  
+
+	Designation: Programmer/Client Coordinator
+
+	 
+
+Responsibilities:
+
+Programming using a tool called Dimensions .NET which is based on .NET
+Framework. This powerful tool based on OOPS concept not only helps to
+collect data and run programs efficiently but also provides an adept
+graphical user interface using HTML, JavaScript, CSS and other web
+tools. Programming involves having benevolent user interface and user
+collecting data competently. Along with these skills I also co-ordinate
+for all the projects/non-projects assigned. My job responsibility also
+includes handling and managing a team of junior programmers who are
+working for two of our Clients. Providing them training regarding
+programming, testing and project/non-project related internal
+activities, which involve planning and allocation of projects.
+Updating/Creating/billing/closing of the projects the team has worked
+on. I have also been given opportunities to take a lead and call a
+meeting. 
+
+From past 8-9 months I have been into internal project called ERM. This
+tool helps to collect data from employees from day to day basic. The
+project involved technologies Java and J2EE. The ERM tool maintained all
+the projects in the database along with the time spent on it by every
+employee. Along with that it has helps managers and planners to maintain
+all the projects and project related information to be added, removed,
+updated or viewed. This tool has a very important factor as far as
+economy of our company is concerned since the revenue being generated is
+based upon the time being entered by employees. 
+
+Java Projects
+
+ERM – Employee/Project Management Tool
+
+Synopsis         ERM is our company’s internal robust tool developed
+for maintaining employees profile, project   
+
+details from all the clients and other information which needed by all
+employees. This tool is used by all the employees everyday to fill in
+the project details, manipulating them according to the changes and also
+bill them as well. This tool not only allows you to manipulate data and
+view it, we can view it in different formats like graphs, pie charts
+etc.. depending on user selection. Apart from that managers can use to
+view his team’s performance, each employee’s performance, how much
+he/she has been billing or working for a particular project, different
+levels/phases of project on which she has been working. 
+Planners/Mangers can manipulate/feed or view the data of any project if
+he is authorized to view/modify it. The data can be retrieved in
+different forms and files. This presentation of data can also be
+forwarded to the client so that they can understand the record of any
+project at our end. 
+
+Tools/Languages Used	Java,  J2EE, Microsoft SQL Server 2000.
+
+Split it – Application
+
+Synopsis	Split-it is a very easy to use console based application. It is
+very useful to split a large file so that you can send it across the
+network/mail it or just store it in a small sized storage disk like
+Floppy disk. The user has to give the path of the file with the filename
+and type the size (in bytes). File is divided into parts having size
+specified by the user. The user also has the option to merge the files
+into one as it was original using the same application. The user has an
+option to save the file in any extension he wants. 
+
+Tools/Languages Used	Java
+
+Achievements:
+
+     Designation	from Date	to Date
+
+1. Junior Programmer	31st Jan 2005	31st July 2005
+
+2. Programmer	1st August 2005	31st July 2006
+
+3. Programmer/Client
+
+    Coordinator	1st August 2006	till date   
+
+
+
+Technical Skills
+
+JAVA, Microsoft SQL 2000, JSP, Servlets, JavaScript, Struts, Visual
+Basic, C, C++, C#, ASP, HTML, CSS.
+
+Educational Qualifications
+
+BSc. (I.T.) - 	R.D. National College, Mumbai University (2004) 
+
+	
+
+Personal Details
+
+Name: Atul Ramesh Sawant
+
+Age: 23
+
+DOB: 8th March 1984
+
+Sex: Male
+
+Marital Status: Single
+
+Nationality: Indian
+
+Address: A-7/31, Nabard Nagar, Thakur Complex, Kandivli (east), Mumbai
+– 400101.
+
+Contact_No: +919833718322, 0228546872
+
+Languages Known: English, Hindi and Marathi.
+
+Declaration
+
+I hereby declare that the above written particulars are true to the best
+of my knowledge and belief.
+
+Atul R Sawant
+
+Atul Ramesh Sawant 
+
+(Mobile: 9833718322
+
+  Res: 28546872)
+
+A7/31, Thakur Complex,Nabard Nagar, Kandivli (East),Mumbai 400101.
+
+Email:   HYPERLINK "mailto:atulsawant84@gmail.com" 
+atulsawant84@gmail.com ,   HYPERLINK "mailto:atulsawant84@hotmail.com" 
+atulsawant84@hotmail.com 
+

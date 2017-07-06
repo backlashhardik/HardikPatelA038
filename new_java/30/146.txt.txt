@@ -1,0 +1,273 @@
+Allwyn P Panchwatikar
+
+Mobile: (0)-9423410771
+
+Email:   HYPERLINK
+"/cgi-bin/HoTMaiL?curmbox=F000000001&a=363459932db8808a5699f3313d24e135"
+ allwynplanet@yahoo.com 
+
+Objective: 
+
+To work in a creative and challenging environment using cutting edge
+technologies where I could constantly learn and deliver solutions to
+problems.
+
+Professional Summary:
+
+1.11 Year of development experience in Core Java, JSP, JDBC, Servlets,
+Java Beans, Java Script, HTML, WebLogic 8.1, TomCat 5.5 and Oracle 8i.
+
+Knowledge of entire Software Development Life Cycle.
+
+Good Domain Knowledge of Banking and Linkcell.
+
+Flexibility to work with new technologies.
+
+Ability to work in-group as well as independently with minimal
+supervision.
+
+Maintain a positive attitude in the face of changes in work assignments
+or conditions.
+
+Basic Exposure to EJB 2.0.
+
+Good knowledge of MVC Architecture Struts and Java design pattern.
+
+      
+
+Professional Experience:
+
+Virtual Galaxy Pvt Ltd, Nagpur
+
+Position Held						        				: Software Engineer
+
+Duration                  : 1 Dec 2005 - Till Date.
+
+Western Digital Technology (WDT), Nagpur
+
+Position Held						        				: Software Engineer
+
+Duration                  : 06 Jun 2005 - 25 Nov 2005.
+
+Academic Details:
+
+Graduation B.E Computer Engineering from Nagpur University with 60.05%
+(2001-2005).
+
+HSC from Maharashtra Board with 65.83% (1999-2001).
+
+SSC from Central Board of Secondary Education with 53.0% (1998-1999).
+
+Technical Skills: 
+
+Languages																																						: Core Java, J2EE 
+
+Server																																																																		
+	: WebLogic 6.1, 8.1, Tomcat 5.5, 5.0
+
+RDBMS																																																										: Oracle
+8i Pl/SQL
+
+Internet																																																						 					:
+HTML/DHTML, Java Script
+
+IDE           																																									: JBuilder 2.4.1,
+Eclipse 3.2, Dreamweaver MX 2004
+
+Frame Work															  								:										Struts and Design patterns
+
+PROJECT PROFILE 
+
+Organization: Virtual Galaxy Pvt. Ltd., Nagpur (  HYPERLINK
+"http://www.vgipl.com"  http://www.vgipl.com )
+
+Project #1: Web-based Linkcell Manager 
+
+                   Team Size               	: 4
+
+                   Platform                   	: Java 1.4, JDBC,
+Servlets, JSP , EJB  & Oracle 8i
+
+                   OS	: Windows 2000
+
+                   Server	: Weblogic 8.1
+
+                   Duration	: Feb 2007 – Till Date 
+
+
+
+Description:
+
+Web-based Linkcell manager is a robust fund collection and disbursement
+system. Its integrated solutions help banks to handle government
+business transactions, for various government fund schemes, such as
+taxes (CBDT, CBEC, SCSS), bonds, pension schemes and public provident
+fund. 
+
+Role:	
+
+Software Coding.
+
+Code Review and Maintenance.
+
+Deployment of J2EE applications in Weblogic 8.1 environment.
+
+Project #2: Core Banking System (CBS)
+
+                   Client  	: Vidharbha Premium Co-operative Society,
+Nagpur
+
+                   Team Size               	: 12
+
+                   Platform                   	: Java 1.4, JDBC,
+Servlets, JSP, EJB, XML & Oracle 8i
+
+                   OS	: Windows 2000
+
+                   Server	: Weblogic 8.1
+
+                   Duration	: Mar 2006  - Jan 2007
+
+
+
+Description: 
+
+CBS is a banking automation project. This project follows the bank frame
+architecture in such a fashion that the customers are able to offer
+his/her users maximum flexibility, availability and reliability. The
+competitive nature of our world today requires that we manage all
+aspects of the business. To provide clients with strategic solutions
+that offer competitive advantages resulting in quick paybacks,
+improvements in long-term costs and excellent customer services. This
+project also involves in online transaction from anywhere of its
+branches or other branches.
+
+																																																																								
+																																																																								
+																																					Presentation layer displays the
+requested information in HTML to end-users. Business logic is taken care
+by EJB.
+
+Role:	
+
+Software Coding.
+
+Code Review and Maintenance.
+
+Deployment of J2EE applications in WebLogic 8.1 environment.
+
+Project #3: Skill Viewer
+
+                   Client  	: Green City Consultancy, Nagpur
+
+                   Team Size 	: 4
+
+                   Platform                   	: Java 1.4, JDBC,
+Servlets, JSP & Oracle 8i
+
+                   OS	: Windows 2000
+
+                   Server	: Tomcat 5.5
+
+                   Duration	: 2 months 
+
+
+
+Description:
+
+Skill-viewer is designed for job Consultancy Company. It is totally
+web-based portal. It provides user the precise tools to create their
+clients in terms of job aspirants, and many search engines to short list
+the candidate in reference of client Company’s requirement. It has
+many reports, which take care of customer-required data.
+
+Role:	
+
+Software Coding.
+
+Code Review and Maintenance.
+
+Deployment of J2EE applications in Tomcat 5.5 environment.
+
+Organization: Western Digital Technology (WDT), Nagpur
+
+Project#1: Computer Based Tutorial & Examination System  (CBTES)
+
+                   Team Size               	: 6
+
+                   Platform                   	: Java 1.4, JDBC,
+Servlets, JSP & Oracle 8i 
+
+                   OS	: Windows
+
+                   Server	: Tomcat 5.0
+
+                   Duration	: 6 months (June 2005 To November 2005)
+
+
+
+Description: 
+
+The main objective of this project is Online Tutorial and Examination
+system. It has three modules as: -
+
+1. Tutorial Section:
+
+This section modules total based on tutorials of different trades of
+degree & master degree level.                       
+
+The student & guest can see, download & print tutorial and student can
+get modular wise or semester wise tutorial.
+
+Format of tutorial may be in HTML & PDF.
+
+Content search can be possible.
+
+Registration for student can be possible.
+
+2. Examination Section:
+
+This section module is online and consists of Demo test, Module-End test
+& Final test.
+
+Student & guest can use demo test.
+
+Student can use module-End test & Final test.
+
+In these section Question generation done by admin or faculty.
+
+Graph can be available to any three tests for student but Demo test for
+guest.
+
+Role:	
+
+Software Coding.
+
+Reference:   
+
+                 Nishant Murhekar :  Team Leader , 09822059101 ,  
+HYPERLINK "mailto:nishmur@rediffmail.com"  nishmur@rediffmail.com 
+
+                 Mangesh Dhore    :  Software Engineer, 09881512501,  
+HYPERLINK "mailto:man_softin007@yahoo.com"  man_softin007@yahoo.com 
+
+Personal Profile:
+
+Name                      : Allwyn P Panchwatikar	
+
+Mobile                     : 09423410771
+
+Date of Birth 	        													: 25 March 1984
+
+Nationality 	         																						: Indian
+
+Sex 		         																																									: Male
+
+Marital Status         				: Single
+
+Address 																																																																
+								: R-21 Ramniwas Reshimbag Nagpur 440009.
+
+Place : Nagpur	                                                         
+                              (Allwyn P Panchwatikar)
+

@@ -1,0 +1,259 @@
+SATYABRATA ROUTRAY
+
+aaesatyabrata@yahoo.co.in
+
+Cell: 9920253659
+
+experience summary:
+
+     
+
+2yrs of experience as a Software Developer with emphasis in development
+of web based and business based applications.
+
+Having Professional Experience in IT industry in development of various
+projects using       J2SE, J2EE (JSP 2.0, Servlet 2.4, JDBC 3.0, HTML,
+and JavaScript).
+
+Good understanding and experience with software development methodology.
+
+Excellent team player with problem solving and shooting capabilities.
+
+Good interpersonal skills and willing to take challenges in software
+fields.
+
+Positives attitudes towards learning new things and acquiring more
+knowledge. 
+
+Used IDEs like Eclipse IDE 3.1, IntelliJ 5.0, implemented MVC
+architecture and Design Patterns like Value Object, Data Access Object
+etc.
+
+Good knowledge in developing in Web Components and part of the
+Application Management
+
+          involved for deploying in servers like Tomcat 5.0, Web Logic
+8.1, and Web Sphere 5.0.
+
+work experience:
+
+Working as a Software Engineer with CEACON INFORMATICS, Bangalore.
+
+Now currently working in Crisil Limited, Mumbai
+
+                      aw   
+
+technical SKILLS:                                   	expertisee	
+awareness  
+
+Languages	Java(Core, Advance)	C++                                
+
+Operating System	Win2000, WinXP, Win9x              	LINUX
+
+Databases	Oracle9i	SQL Server
+
+Java/J2EE Technologies	JDBC 3.0,Servlets 2.4, JSP 2.0, 	EJB, RMI, JNDI,
+JTA, JMS
+
+Web Technology	HTML, JavaScript, XML
+
+	Application Servers p	BEA Weblogic 8.1,  IBM WebSpehere 5.0	Jboss 4.0
+
+Web Servers	Apache Tomcat 5.0
+
+	IDE-Java	Ecllipse 3.1,IntelliJ 5.0, EditPlus	JBuilder 2005, 
+
+Build Tool	ANT
+
+	Framework	Struts 1.1
+
+	MergeTool Tools	ARAXIS
+
+	LoggingTools
+
+Log4j
+
+Testing Tool
+
+JUnit
+
+
+
+                
+
+educational qualification:
+
+●   Bachelor of Engineering in Electronics & Telecommunication
+Engineering from Utkal
+
+     University Bhubaneswar ,Orissa, having 66% marks.
+
+Diploma in Electronics & Telecommunication Engineering from S.C.T.E &
+V.T Bhubaneswar ,Orissa, having 62% marks.
+
+Matriculation from B.S.E, Orissa having 74% marks. 
+
+PROJECT 1 :
+
+                           Title:	           UBI RAM
+
+	Environment:	Servlets2.4, JSP2.0, JDBC3.0, HTML, Oracle, Tomcat5.5
+
+Role:		Team Member
+
+Contribution:         Involved in Servlet & JSP coding 
+
+                         Team Size:		3
+
+                                    Duration:	          Continue
+
+ PROJECT DESCRIPTION:
+
+RAM is internal rating software designed to assist a Bank or financial
+institution address issues raised by the Internal Rating based approach
+of the New Basel Accord (Basel II) and is today the standard feature in
+most Banks / financial institutions in India such as Allahabad Bank,
+Canara Bank, Central Bank of India, Corporation Bank, HDFC Bank, ICICI
+Bank, IDBI Bank, Indian Overseas Bank, IndusInd Bank, SICOM, SIDBI, etc.
+The services include the regular transactions like deposits, withdrawls,
+balance enquiry, balance statements and so on.
+
+PROJECT 2 :
+
+                           Title:	           RAM I18n
+
+	Environment:	Servlets2.4, JSP2.0, JDBC3.0, HTML, Oracle, Tomcat4.0
+
+Role:		Team Member
+
+Contribution:         Import & Export Utility 
+
+                         Team Size:		3
+
+                                    Duration:	          Continue
+
+ PROJECT DESCRIPTION:
+
+Internationationalize the Risk Assesment Model is internal rating
+software designed to assist a Bank or financial institution address
+issues raised by the Internal Rating based approach of the New Basel
+Accord (Basel II) and is today the standard feature in most Banks /
+financial institutions in India.
+
+PROJECT 3 :
+
+                           Title:	           Automated Teller Machine
+(ATM)
+
+	Environment:	Servlets2.4, JSP2.0, JDBC3.0, EJB, HTML, Oracle,
+Weblogic8.1
+
+Role:		Team Member
+
+Contribution:         Involved in Servlet & JSP coding 
+
+                         Team Size:		6
+
+                                    Duration:	          Continue
+
+ PROJECT DESCRIPTION:
+
+The ATM Banking System is software designed to perform various banking
+services through the Automated Teller Machine. 
+
+The services include the regular transactions like deposits, withdrawls,
+balance enquiry, balance statements and so on.
+
+The software being developed is an application that is used to integrate
+and interface the operations both at the level of business area of the
+bank and also internal data standardization.
+
+RESPONSIBILITIES :
+
+Developed JSPs for Graphical User Interface.
+
+Usage of JDBC for database connection.
+
+Used Web logic 8.1 for deployment.
+
+PROJECT 4 :
+
+                           Title:	           Telecom Customer Service
+
+	Environment:	JSDK2.0, Servlets2.4, Jdbc, Oracle, Tomcat5.0, Java Bean
+
+                         Team Size:		6
+
+Role:		Team Member
+
+                         Contribution:          Involved in Servlet
+coding
+
+Duration:	          7 months.
+
+ PROJECT DESCRIPTION:
+
+To develop a telecom inventory maintenance system, to take care of
+customer concerns such as app enquiries and complaints.
+
+The current manual system is slow laborious and error prone to
+computerize the same for quicker efficient results and customer
+satisfaction.
+
+RESPONSIBILITIES :
+
+Coding and Developing server side programming using servlet.
+
+Used Tomcat 5.0 for deployment.
+
+PROJECT 5 :
+
+                           Title:	           Finance Corporation System
+
+	Environment:	JSP2.0, Servlets2.4,Jdbc, Oracle, Tomcat5.0, Java Bean
+
+                         Team Size:		6
+
+Role:		Team Member
+
+                         Contribution:          Involved in Servlet &
+JSP coding 
+
+Duration:	          6 months.
+
+ PROJECT DESCRIPTION:
+
+The main theme of this project is automation of present manual System
+which includes process such as 1.Administration 2.Accounting
+3.Recruiting 4.Maintenance and process that all activities through
+online.
+
+Here the main advantages of this System is to access this database
+globally for authorized users.
+
+RESPONSIBILITIES :
+
+Coding and Developing server side programming using servlet and JSP.
+
+Developed JSPs for Graphical User Interface.
+
+Used Tomcat 5.0 for deployment.
+
+  PERSONAL DETAILS:
+
+      Name:                       Satyabrata Routray
+
+      Date of Birth: 	        24th June 1983
+
+      Sex:                           Male
+
+      Marital Status:          Single
+
+      Languages Known:   English, Hindi and Oriya
+
+Place:  Mumbai                                                          
+   
+
+                                                                        
+               
+

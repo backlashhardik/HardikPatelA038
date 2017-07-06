@@ -1,0 +1,211 @@
+Azam Mubeen Mohsin
+
+Email: mmubeen.azam@gmail.com	
+
+Mobile: +91-9921196716
+
+Summary:
+
+Having 2+ years of experience in Designing and Development of       
+
+     Various Database Applications and Web based Applications.
+
+Extensive experience in Java, JDBC, Servlets, JSP, Struts Framework. 
+
+Strong exposure on ANT, JUnit, Log4J, DOM4J and Eclipse3.2.
+
+Working experience in JBoss 4.0, Tomcat5.5.
+
+Good knowledge in the Back-End tools Oracle 10g, MySql 5.0.
+
+Work Experience:
+
+Working as a Software Engineer for C2C Infotech, Bangalore from Feb 2005
+to till date.
+
+Education:
+
+1    M-Tech (Computer Engineering) from Pune University, Pune,
+Maharashtra
+
+     with 5.86 CGPA
+
+2   BE (Computer-Science & Engg.) from BAMU University, Aurangabad,
+
+     Maharashtra with 78.50%.
+
+Skill Set:
+
+Operating Systems		          : Windows NT/2000/XP.
+
+Languages			: Java. 
+
+Java Technologies			: J2EE (JDBC2.0, Servlets2.3, JSP).
+
+Web Technologies			: HTML, XML, Java Script.
+
+Frame Works			: Struts1.2, Liferay 4.1.2, JUnit, Log4J, DOM4J. 
+
+Databases			: Oracle10g, MySQL5.0.
+
+IDE’s			: MyEclipse, Eclipse3.2.
+
+Tools			: ANT, ANT-Contrib.
+
+Web/Applications Server      : Tomcat5.5, JBoss4.0.		   
+
+Project Profile:
+
+#1.Project 
+
+Title			:  Query Management System
+
+Client			:  Power Labs Ltd.
+
+Duration                	:  November ‘06 to April ’07
+
+Role			:  Software Engineer.
+
+Environments	:  Java5.0, JDBC2.0, XML, Struts, Tomcat5.5, MySql5.0.
+
+Project Description:
+
+		The project entitled Query Management System, which is handling the
+user’s queries or questions or doubts about the product or activities
+of organization, mPower Labs. This software is for handling the queries
+for mPower Labs. There are four categories in query type. They are
+iNikah, Banner, Scholarship, mPower.
+
+iNikah – Its is matrimonial website
+
+Banner – Global Banner Exchange (GBX), other company can register with
+this program to display their company logo.
+
+Scholarship – An online application for scholarship organization in
+easy, effective and justified distribution of scholars.
+
+mPower – This is leading Software Company, it handles real time
+project and conduct the project trainee programme for college student
+
+		
+
+Responsibilities:
+
+In Development of Screen Shots.
+
+In coding for JSP pages.
+
+In coding Form Beans and Action Classes in LifeRay.
+
+In Developing Build Environment.
+
+#2.Project 
+
+Title			:  Inventory Management System
+
+Client			:  Goldman Sachs & Co.
+
+Duration       	:  June ‘06 to till date
+
+Role			:  Software Engineer.
+
+Environments	:  Java5.0, JDBC2.0, Struts, Oracle10g, JBoss4.0.
+
+Project Description:
+
+                                Inventory Management System (IMS) is for
+automating inventory scaling and buffer management. Consisting of
+Gatekeeper (GK), Storekeeper (SK) and RequestReaising (RR) modules.
+Every raw, semi finished and finished comes to the gatekeeper, who is
+user of our application, enters the data and Storekeeper maintains the
+inventory for not falling bellow buffer level. Production head raises
+the request for inventory and Store Keeper process the same.
+
+Responsibilities:
+
+Involved in StoreKeeper module in all activities.
+
+In Development of Screen Shots.
+
+In coding for JSP pages.
+
+In coding Form Beans and Action Classes in Struts.
+
+In Developing Build Environment.
+
+In Database Connectivity through JDBC.
+
+Involving unit testing with JUnit.
+
+#3.Project 
+
+Title			:  Online Mortgage Automation
+
+Client			:  Isaq Fin Inc.
+
+Duration                 :  July ‘05 to Jan ’06.
+
+Role			:  Software Engineer.
+
+Environments	:  Core Java, JDBC, Servlets, JSP, Struts,	ANT		           
+       
+
+	   Oracle 8i, Tomcat.
+
+ 
+
+Project Description:
+
+			This project provides the online mortgage application for Internet
+users. The system may be used in various ways. An applicant can key in
+the amount of money they want to borrow and answer a few questions and
+the system tell them what their monthly repayments will be or the
+applicant can key in their income and answer few other questions and the
+system will tell them how much they can borrow or the applicant can know
+approval in principle, this consists of six screens, personal details,
+income details, employment details, property details, previous mortgage
+etc.
+
+Responsibilities:
+
+Involved in User registration, Mortgage Calculator and Mortgage
+Management.
+
+Written Action Classes/Form Beans as part of Struts Frame Works.
+
+Written DAO and VAO for user registration.
+
+Involving in Unit testing with JUnit.
+
+#4.Project 
+
+Title			:  Crisis Management
+
+Client			:  Ashok Leyland, Tamilnadu.
+
+Duration                 :  March ‘05 to June ’05.
+
+Role			:  Software Trainee.
+
+Environments	:  Core Java, JDBC, Servlets, JSP, Tomcat, 
+
+			   MySql.
+
+Project Description:
+
+               		Crisis management is software, which simulates the
+automation for security department. It checks the authorization of all
+the employees in the company. Issuing and collecting visitor’s passes.
+Collecting fines from the employees who are frequently forgetting their
+identity cards are main functions of this project. 
+
+Responsibilities:
+
+Involved in coding for visitors module.
+
+Involved in database designing for employee management module.
+
+Involved in setting build environment using ANT build tool.
+
+Involved in designing front-end screens.
+

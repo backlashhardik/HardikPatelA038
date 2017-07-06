@@ -1,0 +1,175 @@
+Vishal Pandharpurkar                                              Mobil
+No.:- 9822796796
+
+                                                                   
+Email Id. :- vishal_vp2@yahoo.co.in 
+
+Proffessional Summary                                                   
+                                                             
+
+2 years of IT experience in development and deployment of various
+Client/Server Applications.
+
+Strong Knowledge on Web Technologies.
+
+Good understanding on Core Java,Swings,JDBC,Servlets,Jsp,Oracle 8i and
+also using with various deployment wizards like Tomcat.
+
+Excellent Communication skills and inter-personal skills.
+
+Skill Set
+
+Operating System	:- Windows98/NT/2000/XP
+
+Web/App Server  	:- Tomcat
+
+Database		:- Oracle 8i
+
+Languages		:- JAVA
+
+Sun Technologies	:- Core Java,Swings,JDBC,Servlets,JSP
+
+Work Experience
+
+Work experience in Prism Infotech,Pune  as a Software Developer in Java
+from 15th June 2005 to Till Date. 
+
+Work experience in Esteem Solution Technology, Pune as a software
+developer in VB from December 2004 to March 2005.
+
+Educational
+
+Bachelors in Computer Science & Engineering, From MGM’S COE,Nanded,in
+2004.
+
+Projects Undertaken
+
+Project#1           :- Esparanza.com
+
+Environment         :- Java,Servlets,Jsp,JDBC
+
+Team Size             :- 6
+
+Role                      :- Developer
+
+Duration               :- November 2006 – Till Date
+
+Responsibility: -
+
+Developed the classes which contains the business logic
+
+Developed Servlets and Jsps
+
+Project Profile: -
+
+                     This project was developed in Servlet,JSP on front
+end and Oracle 8i is on back end side. The project was totally depends
+up on MVC architecture. This project contains the functionality of
+online Job in the consultancy. Now this project is comes for the
+maintainance. The project contains Job seekers and recruiters login. The
+project contains the role of search engine for job seeker as well as job
+employee to search the resume for correct candidate.
+
+Project#2           :- Human Resource Management System                 
+         
+
+Environment         :-Core Java,Swings,JDBC
+
+Team Size             :- 6
+
+Role                       :- Developer
+
+Duration               :- March 2006 – October 2006
+
+Responsibility: -
+
+As a team member
+
+Module wise requirements
+
+Doing the design, coding and Testing
+
+Project Profile: -
+
+                           This project is developed to overcome the
+problems faced by the Export firms regarding maintenance of database,
+employee information, financial transactions, payroll systems, training,
+recruitment, attendance record systems etc. This project can be widely
+used in any Export firm which contain different departments with various
+employees having different designations, salary profiles etc. Payroll
+System provides the information of the employee’s salary structure and
+tax deduction scheme. 
+
+                 The system is developed to facilitate general
+administration system to manage the various types of information of the
+employees and the process involved in an export firm. So that
+organization can access accurate information quickly and easily as and
+when required, hence improving its operational efficiency and
+effectiveness.
+
+Project#3		:- Shopping Mall
+
+Environment          :-Core Java,Swings,JDBC
+
+DataBase                :-Oracle 8i
+
+Team Size              :- 6
+
+Role                        :- Developer
+
+Duration                 :- July2005 - February 2006 
+
+RESPONSIBILITIES:- 
+
+Design of Inventory form, Supplier Details, Product Details.
+
+Coding by using Swing component.
+
+Connection with Database using JDBC
+
+Project Profile: -
+
+	The Project is totally depends upon Core Java, Swings and JDBC
+platform. This project contains the functionality of shopping mall like
+employee management, Supplier information, Billing Systems.
+
+Project#3:                -Deccan Education Society                     
+                    
+
+Environment               :-VB
+
+Team Size                    :- 6
+
+Role                             :-Trainee Engineer
+
+Duration                     :- July2005 - February 2006 
+
+DESCRIPTION:- 
+
+                      This project was developed in VB and Oracle 8i.The
+project contains total information system of Deccan Education Society. I
+have work in that company as a VB developer.
+
+Personal Details: -
+
+Date of Birth: - 2nd June 1981 
+
+Sex: - Male
+
+Nationality: - Indian 
+
+Languages Known: - English, Hindi, Marathi 
+
+Permanent Address: - C/O Pandharpurkar V.D.
+
+                                         Chankyapuri, Near Mane complex,
+
+				    Nagar Road, Beed-431122
+
+         Phone No.:- 02442-223730                                       
+                               
+
+                                                                        
+                                                                        
+                  
+

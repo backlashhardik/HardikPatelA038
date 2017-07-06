@@ -1,0 +1,313 @@
+APPLY FOR            - JAVA/.NET
+
+CURRENT CTC      - 1.8
+
+EXPECTED CTC    - 2.4
+
+JOINING PERIOD - 10 DAYS	OVER ALL EX  2.4
+
+JAVA                1.3
+
+.NET                 1.1
+
+PHP+PERL       0.9
+
+	09967278179
+
+  indurkarvishal@inbox.com
+
+ 
+
+Vishal Indurkar
+
+Career  objective
+
+Operating Systems  
+
+Primary Skills
+
+SeEVER
+
+Secondary Skills
+
+dbms Tool	
+
+Seeking an opening as a Software Programmer with an organization where I
+can continuously learn in the pursuit of achieving functional
+excellence. I should be able to use my existing skills to add value to
+the organization, thus getting maximum job satisfaction and optimum
+career growth.
+
+ Longhorn,Vista,Memphis, Millennium, OS/2 3.0, Cairo, Springboard
+
+Java,JSP,J2EE,SERVLET,JDBC,.Net,ASP.Net,ADO.Net,C#,SQl
+Express,Oracle,PHP
+
+Asterisk,SIP,Samba,Apache,Tomcat,JBoss,IIS
+
+Reporting Tool Crystal Report
+
+SQL server,MS Access,Foxpro 
+
+
+
+Experience
+
+   
+
+	Present I am with “Paramarsha consultancy” as software devolper.
+
+My Responsibilities and Contribution During My Experience
+
+Responsibilities:     Understanding the requirement before the Project
+acheive.                                                                
+        
+
+                                 Conceptualization of technical 
+requirements and with 
+
+                                 Future flexibility delivering with high
+Quality parameter   
+
+Projects on Java     : Involved totally with programming.   
+
+	
+
+1)Client         : Bill Frank Insurance Corporation, US
+
+Project    :  “Insurance Management”
+
+Designation:  Programmer
+
+Duration : 8 months
+
+Team size : 7
+
+Responsibility : 
+
+Developed JSP pages for Information Taking System.
+
+Servlet were used to request redirection.     
+
+Used JDBC efficiently for database transaction on Oracle8i. 
+
+Environment : Servlet, JSP, Java Bean , JDBC JavaScript, HTML,
+Oracle8i,Windows
+
+	
+
+2)Client         : e-Caliber Solutions, Canada
+
+Project    :   “Applicant Tracking”
+
+Designation:  Programmer
+
+Duration : 8 Months
+
+Team size : 7
+
+Responsibility : 
+
+Developed the presentation layer using JSP.
+
+Used JDBC efficiently for database transaction on Oracle8i.
+
+Environment : Servlet, JSP, Java Bean , JDBC JavaScript, HTML,
+Oracle8i,Windows
+
+                 
+
+Projects on .net     : Involved totally with programming.   
+
+1.)Company    : PULSE SALUTIONS        (Kolkata WB).
+
+Project           : Constructionjobs.com
+
+	
+
+Duration         : Feb 2007(2.1 Months)
+
+Designation    :  DBA and Programmer 
+
+Technology & Platform:  ASP.net and ORACLE8i
+
+2.)Company    : STIPPING STONE        (Kolkata WB).
+
+Project           : Intranet chat server
+
+	
+
+Duration         : Dec 2006(1.5 Months)
+
+Designation    :  Programmer
+
+Technology & Platform:  VB.net and Sql server
+
+3.)Company    :   S2S Solutions &  BizPro Solution                      
+         
+
+Project           : Applicant Tracking
+
+Duration         : May 2006 (2 Months) 
+
+Designation    :  Jr. Programmer
+
+Technology  & Platform: VB.net and SQL server.
+
+Projects on PHP     : Involved totally with programming.   
+
+1.)Company    : CounterPath       CANADA
+
+	
+
+Duration         : Feb 2006(6 Months)
+
+Designation    :  Jr. Programmer
+
+Technology & Platform:  PHP and SQL server
+
+Networking setups : Involved totally with setup. Did all setup and
+Troubleshooting for 
+
+                                  On site problems lively.   
+
+1.)Company    : S2S Solutions        (Navi Mumbai ).
+
+Duration     : Present And May 2006 – Dec 2006
+
+Designation   :   S/W programmer and N/W Enngineer.
+
+2.)Company    : STIPPING STONE        (Kolkata WB).
+
+Duration         : Feb 2007 (1  Month)
+
+Designation    : N/W Enngineer
+
+3.)Company    : ZIA GLOBAL SERVICES        (Hyderabad AP).
+
+Duration         : Jan 2007 (1  Month)
+
+Designation    : N/W Enngineer
+
+2.)Company       :  BizPro Solution (BPO)      (Banglore) .  
+
+Duration       : Apr 2006 (1 Month)
+
+Designation  :  N/W Enngineer
+
+3.)Company    : MIND SOURCE  (BPO)        (Nasik MH).
+
+Duration         : Mar 2006 (1  Month)
+
+Designation    : N/W Enngineer
+
+4.)Company    : ICAS (BPO)                      (Navi Mumbai MH).
+
+Duration         :  Feb 2006 (1 Month) 
+
+Designation    : N/W Enngineer
+
+5.)Company    : e-SERVE  SOLUTION (BPO) (Mumbai MH).
+
+Duration         :  Jan 2006 (1 Month) 
+
+Designation    : N/W Enngineer
+
+6.)Company    : MSPIL                                    (Narsingpur
+MP).
+
+Duration         : Nov 2005 (2 Months) 
+
+Designation    : IT Manager
+
+7.)Company    : INSIGNIAWORKZ                  (Jabalpur MP).
+
+Duration         : Jun 2005 (6 Months)
+
+Designation    :  Tech Support,IT Officer,Administrator
+
+8.)Company    : Concourse  International        (Nagpur MH).
+
+Duration         : Dec 2004(6 Months)
+
+Designation    :  Jr. Programmer
+
+Technology & Platform:  VB.net,ASP.net,Oracle,SQL server
+
+9.)Company    :   UNIQUE                                  (Balaghat MP).
+
+Duration         : May 2004 (6 Months) 
+
+Designation    :  Jr. Programmer
+
+Technology  & Platform: VB.net and SQL server.
+
+        
+
+
+
+Education	
+
+1. Masters in Computer Applications (MCA. - 66 % ):  From RGTU
+University Jabalpur. (2002-2005)
+
+2.  Bachelors in Science from  RDVV University MP in  (1999-2002)
+Balaghat MP.         
+
+3. HSC (56 %) from , MP Board in 1998 Balaghat (MP).
+
+4. SSC (70.8 %) from, MP Board in 1996 Balaghat (MP).
+
+
+
+Professional
+
+Involvement	Successfully completed DCA and PGDCA From MCVV University
+(1998-99) with 72% & 74% Balaghat (MP).
+
+CURRICULAR ACTIVITIES
+
+	1.  Active participant in various college activities including college
+festivals
+
+2.  Member of the sports and cultural committee
+
+3.  Member of IT Group of College
+
+4.  NCC ‘C’ Cerificate with CPL Rank
+
+5. Campus Selection for ‘Slashed Support’ Chennai
+
+6. State Level Chess Competion, Zonal Table Tennice
+
+
+
+Personal Details
+
+	
+
+Date Of Birth             : 19TH August 1979
+
+Marital Status         : Single
+
+Nationality              : Indian
+
+Languages Known  : English, Hindi, Marathi
+
+                                                                        
+              
+
+	
+
+Date:
+
+Place:  
+
+
+
+Vishal Indurkar
+
+
+
+ 
+

@@ -1,0 +1,120 @@
+ Ashish Disawal
+
+501, A Wing, Giriraj Darshan CHS,
+
+Sector 9, Plot No. 6, Koperkhairane,
+
+Navi Mumbai 400709
+
+Mob.  :  09323823893
+
+E-Mail:  ashish.disawal@gmail.com
+
+Summary
+
+More than 17 months experience as a faculty for RHCE and open
+sourcesolutions assistant. Currently working on security issues of
+Linksys54G wireless router with embedded linux and testing of a custom
+softwarebeing made for the router.
+
+Computer skills
+
+Languages
+
+Proficient in: Bash Shell Scripting, PHP.
+
+Intermediate knowledge: C, Java, Python and Perl.
+
+Currently learning: AJAX with PHP, SQL.
+
+Servers
+
+Advance configurations of: OpenLDAP, FreeRADIUS, PostgreSQL, OpenVPN,
+Squid proxy, Bind and Postfix.
+
+Familiar with: Apache, MySQL, Sendmail, Samba, OpenSSH, NFS, FTP, NIS
+and DHCP.
+
+Currently learning: Apache, PostgreSQL
+
+Software
+
+Advance configurations of: Squirrelmail, Chillispot.
+
+Remote Administration: Webmin, Joomla and Qmail-Toaster.
+
+Currently learning: OpenSSL.
+
+Distributions
+
+Worked on: RHEL 4, Suse 10.x, Cent OS 4.x, Debian 3.1, Ubuntu6.x,
+OpenWRT (Embedded Linux).
+
+Experience
+
+Faculty / Solutions Assistant
+
+Dec 2005 - July 2006
+
+Neosis, Vashi
+
+Besides regular students, also conducted a corporate trainings
+forReliance.
+
+Also conducted an advanced course on Bind, IP Tables, OpenLDAP,
+Antivirus and anti spam configuration for postfix and sendmail.
+
+Faculty / Solutions Assistant
+
+July 2006 - Oct 2006
+
+Freedom-One, Ghansoli
+
+Besides regular students, also conducted two corporate trainings forNew
+India Assurance and ONGC.
+
+Maintained a server hosting 13 domains – job included remote
+maintenanceand regular backup of Bind DNS server, Apache web server,
+Qmail mailserver, MySQL database server.
+
+Web based administration of a portal website: www.lugnm.orgusing Joomla
+content management system and Simple Machines Forum.
+
+Software Engineer
+
+Oct 2006 – Present
+
+Kalpesh Wireless, Fort
+
+Compilation and installation of OpenWRT Linux on Linksys 54G
+wirelessrouter.
+
+Creating a custom package for OpenWRT.
+
+Configuration of OpenWRT for a mesh network using OLSR dynamic
+routingprotocol.
+
+Wrote shell scripts, using BASH, AWK and SED, for the web-interfaceof
+the router so that the router can be configured remotely.
+
+Configured the router as a VPN client and RADIUS client using
+Chillispot.
+
+CERTIFICATION
+
+Red Hat Certified Engineer
+
+Oct 2005
+
+Certification No.: 804005954217347
+
+Education
+
+St. Paul’s Convent HS School
+
+March 2000
+
+Ujjain, Madhya Padesh
+
+12th (M.P. Board):      67%
+

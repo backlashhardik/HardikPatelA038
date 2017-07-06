@@ -1,0 +1,89 @@
+Kumar Saurabh Jain 
+
+Flat No.12 Dhane Building
+
+Karve Nagar, Pune-52
+
+Cell: 09423236899                                  
+
+Professional Summary
+
+Currently working as Software associate in Kanbay from Jan, 2006,
+presently I am a part of project Sales Engine – II where my role is of
+developer. Willing to work in the latest growing technology as J2EE/ Dot
+Net as I already have completed a course at NIIT, Pune for these
+technologies.
+
+Skills Profile
+
+Technical
+
+Operating System		Win XP
+
+Environment		PFC, J2EE
+
+Database		MS SQL server 2000, Sybase 
+
+Internet Tools		HTML, Java Beans, EJB
+
+Languages		C, C++, Core Java
+
+Other		UML, XML, VB.net
+
+
+
+Functional
+
+Management and Leadership Skills	Worked as a key player during project
+phase during collage days and NIIT.
+
+
+
+Professional Experience
+
+Sales Engine - II 	From 02/2006 till date 
+
+Developer
+
+	• 	Part of the core team of the the project (FR-SB)
+
+• 	The role of this core team is Solution Builder window redesign.
+
+• 	main purpose of this SB window redesign is to make the window more
+user friendly and easy to use so that its use can be increased udring
+loan process.
+
+Environment: We are using win XP as OS for this project, it is the part
+of Vision system. For this we are using PB 80 and PFC as programmming
+language and Sybase as database
+
+Summary of Projects
+
+Sales Engine - II	
+
+Developer
+
+The purpose of this project is to increase Sale’s usage of Solutions
+Builder and Sales Engine functionality.   Modifications to existing
+Sales Tool (Solutions Builder) will help branch operations easily
+identify and compare products/programs that are best fit to the customer
+
+Training and Seminars
+
+Vocational training in BSNL for 15 days (collage days)
+
+Various seminars on technical topics during collage period
+
+Education
+
+University/Board         	         Institute                        
+Degree/Course               Year
+
+RGPV Bhopal  	           GRKIST, Jabalpur (M.P.)       B.E. (Elex. &
+Comm.)          2004
+
+Professional Organizations
+
+Did a 4 month course at NIIT, Pune (ANIIT) for fields as C++, JAVA,
+J2EE, VB.Net, ASP.Net, MS SQL server 2000, UML, XML etc.
+

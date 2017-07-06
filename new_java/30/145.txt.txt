@@ -1,0 +1,174 @@
+Uday Chandra
+
+Experience Summary
+
+Uday has 2 years of experience in Information Technology. As part of his
+assignments, he has been involved in analysis, design, development and
+testing in the retail banking domain. He has worked on projects for
+clients such as Barclays (South Africa), Ta-Chong Bank (Taiwan), Aozora
+Bank(Japan) among others. He has worked for i-flex Solutions Limited in
+his career in Information Technology.
+
+Extensive experience in analysis, coding and testing. 
+
+Intensive technical experience in Java, EJB, Websphere Application
+Server, Oracle Application Server, TIBCO EMS, PL/SQl, Hiberante etc.
+
+Experience in utilities such as Websphere Application Developer 5.3,
+Oracle JDeveloper10.1.3, SQL Navigator (3.0-5.0), Eclipse 3.0.1, XML Spy
+etc.
+
+Education 
+
+Bachelor of Technology in Civil Engineering from Institute of Technology
+– Banaras Hindu University (ITBHU), India. DGPA – 7.53
+
+Sun Certified Programmer for the Java 2 Platform, Standard Edition 1.4.
+
+
+
+Technical Skills
+
+Java Skills	Core Java, EJB2.1, JNDI, JDBC, JMS, Multi-Threading
+
+Web Technologies	XML/XSD/XSL, SOAP/WSDL, Apache Axis
+
+Application Server	Websphere Application server 5.3, Oracle Application
+server 10.1.3,
+
+Oracle SOA Suite 10.1.3
+
+Database	SQL, PL/SQL
+
+Other technical skills	Hibernate(2.0, 3.0), WebSphere MQ(5.3),TIBCO
+EMS(4.4), Flexcube retail
+
+Third part open source tools	log4j, Ant
+
+Tools	Websphere Application Developer 5.3. SQL Navigator (3.0-5.0),
+Eclipse 3.0.1, XML Spy, JDeveloper 10.1.3.
+
+
+
+Personal Details
+
+Phone Number	+91-20-40056245	Mobile	+91-932-381-5307
+
+Email Id	  HYPERLINK "mailto:udayp.chandra@gmail.com" 
+udayp.chandra@gmail.com 
+
+Address	Flat No.11, Tulsi Vihar,  Gaikwad Nagar,
+
+Aundh, Pune- 411007
+
+
+
+Work Experience
+
+ProjectNeo.  
+
+Duration	April 2007—till Date.
+
+Technology	Web Services(SOAP, WSDL), XML/XSLT, Flexcube API, Oracle SOA
+Suite, JDeveloper
+
+Abstract	ProjectNeo is targeting next generation of retail and corporate
+banking. It will use oracle AIA framework. As part of the Oracle
+Application Integration Architecture, Oracle is delivering pre-built
+integrations across Oracle ERP, CRM and industry applications using a
+common object model and an open, Business Process Execution Language
+(BPEL) based platform.
+
+Role	Analyzed existing Flexcube API.
+
+Requirement study for the system.
+
+Creating work flow.
+
+
+
+Aozora Bank, Japan.  
+
+Duration	February 2007-- April 2007.
+
+Technology	EJB (Message Driven Beans), Oracle Application Server 10gR3,
+JDeveloper, TIBCO EMS.
+
+Abstract	Existing Flexcube Retail framework uses Websphere MQ as
+middleware for online, reports and batch transactions. The client Aozora
+Bank, Japan wanted to use TIBCO EMS as middleware, so changes were
+required in existing framework for various types of transactions. 
+
+Role	Analyzed existing middleware framework and changes needed thereof.
+
+Created Script to make queues and factories for TIBCO EMS.
+
+Changes done in various EJB (message driven beans) modules for the same.
+
+Unit testing done after deploying all the modules on Oracle Application
+server.
+
+Worked on the project single handedly.
+
+
+
+Development and implementation of GEFU++ (Generic external file utility)
+module for i-Flex Solutions Ltd.  
+
+Duration	February 2006-- January 2007.
+
+Technology	Core java, EJB, Hibernate, XML, WSDL, PL/SQL, WebSphere
+Application Developer, Webshpere Application Server.
+
+Abstract	Working on GEFU (Generic external file utility), which is used
+for interfacing with different systems. All legacy systems will give
+data in specific format which is provided by FCR-GEFU. After uploading
+the same in FCR, system will process the same file in ONLINE mode. GEFU
+has that facility to generate the report or extract in specified format
+for the given file.
+
+Role	Preparing design specification from requirement specification
+received from site.
+
+Analysis of and fixing production issues for TCB (Taiwan).
+
+Unit testing new changes from backend as well as front-end.
+
+Providing end-to-end delivery for new client implementation. Worked for
+Yes-Bank new client implementations simultaneously and single-handedly. 
+
+Bring process and functionality improvement by enhancing and/or
+modifying existing system.
+
+Providing Knowledge Transition to new joinees.
+
+
+
+FLEXCUBE Payment Module Development at Mumbai, India for I-Flex
+Solutions Ltd.  
+
+Duration	June 2005 to February 2006.
+
+Technology	Core java, XML, WSDL, PL/SQL, WebSphere Application
+Developer, Webshpere Application Server.
+
+Abstract	Payment module is used for inter bank transactions. It requires
+defining network for the banks, maintaining calendar across banks,
+defining various products, identifying various channels through which
+banks can receive messages. It involves intercepting bulk messages and
+does accounting operations. Allow funds transfer electronically using
+channels like SWIFT, BHATNET etc.
+
+Role	Analysis of and fixing production issues for Barclays (South
+Africa).
+
+Unit testing new changes from backend as well as front-end.
+
+Providing Knowledge Transition to other team members.
+
+
+
+	Page   PAGE  1  of   NUMPAGES  3 	Dated: May, 2007
+
+
+

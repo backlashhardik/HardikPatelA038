@@ -1,0 +1,249 @@
+Abhishek Kumar
+
+
+
+	Address:	Email: HYPERLINK "../abhishek.doc" abisekwins@yahoo.co.in 
+
+22, D-2 Hermesh Heritage	Ph: +91-9890661632
+
+Shastri Nagar, Pune
+
+	Maharashtra – India
+
+
+
+
+
+                         
+
+Profile
+
+Software Engineer having 25 months (2+ Yrs) of experience in information
+technology. Has been involved in software design and development of web
+based applications using PERL, Oracle, MySQL, and exposed to entire SDLC
+including requirement analysis, program design, implementation,
+debugging and testing.
+
+Technical Expertise
+
+Operating System	Linux, Unix, Sun Solaris, Windows (98, 2000, XP)
+
+Languages	CGI/PERL(mod_perl,Embed Perl), Exposure to Java, C, Shell
+Script
+
+Script
+
+Databases	Oracle, MySQL, SQL Server 2000
+
+Web Servers	Apache
+
+        
+
+Professional Experience
+
+Working as a Software Engineer in CYBAGE Software Pvt. Ltd. (An SEI-CMMI
+Level 5), Pune since Jan-06.
+
+Worked as Software Engineer in IndiaMart InterMesh Ltd. (ISO 9001:2000
+certified), Noida from Nov-04 to Jan-06.
+
+Project Details
+
+DREAM (Direct Response Email Application Manager)
+
+Client	Epsilon Interactive  (NY, US)
+
+Team Size	4
+
+Duration	Working on this since June-06
+
+Company	Cybage Software Pvt. Ltd.
+
+Environment	PERL, Oracle, MySQL, Shell Script, Apache, Linux, Sun
+Solaris
+
+
+
+Epsilon Interactive is the leading provider of strategic, ROI focused
+email marketing solutions and marketing automation technologies. Epsilon
+Interactive's Direct Response Email Application Manager (DREAM) platform
+serves as the heart of market-leading email marketing technology
+capabilities. Built with client’s diverse needs in mind, DREAM
+embodies Epsilon Interactive's ongoing commitment to engineer an
+easy-to-use, state-of-the-art email marketing technology platform, which
+enables relevant, contextual communications with customers and prospects
+and subsequently helps marketers maximize ROI.
+
+
+
+Roles and Responsibilities
+
+Analyzing the problem through direct interaction with client.
+
+Transforming need into design and then developing the application from
+design.
+
+Creating notification mailing scripts for the errors coming into log
+files.
+
+Providing support to clients for service requests. 
+
+Fixing the bugs including the examination of severity and priority.
+
+
+
+
+
+APS (Alabanza Professional Services)
+
+Client	Alabanza Web Hosting Solutions (Maryland, US)
+
+Team Size	3
+
+Duration	Jan 2006 to June 2006
+
+Company	Cybage Software Pvt. Ltd.
+
+Environment	PERL, Oracle, MySQL, Shell Script, Apache, Linux
+
+
+
+Alabanza is a leader in automated hosting solutions. This system has 2
+sections first one is DSM (Domain System Manager) and second one is CP
+(Control Panel). DSM is a secure, comprehensive and automated hosting
+management system. DSM will save your business valuable resources by
+automating all of the time-consuming tasks associated with running a
+hosting business. The Control Panel (CP) is a powerful, easy-to-use
+software that each of your hosting customers will use to manage their
+hosting account. Up to 60 applications can be utilized through the
+Control Panel. Customize the Control Panel’s look and feel by choosing
+a layout, editing its name, logo, colors, tool categories and icon
+graphics. 
+
+
+
+Roles and Responsibilities
+
+Analyzing the problem through direct interaction with client.
+
+Transforming need into design and then developing the application from
+design.
+
+Fixing the bugs including the examination of severity and priority using
+Bugzilla Tracking Tool.
+
+
+
+Trade-Zeal
+
+Client	IndiaMart InterMesh Ltd (Noida, India)
+
+Team Size	2
+
+Duration	Nov 2005 to Jan 2006
+
+Company	IndiaMart InterMesh Ltd
+
+Environment	PERL, MySQL, Linux
+
+
+
+IndiaMART.com is a B2B marketplace that assists buyers and sellers trade
+with each other at a reliable, common platform. India’s largest B2B
+marketplace, since 1996 and Recognized by CNBC & BBC for its
+contribution to Indian suppliers. 
+
+This new system is intended to provide information of Indian companies
+and is a step towards making IndiaMart global. By this system we are
+collecting information of companies from all over the world.
+
+Roles and Responsibilities
+
+Analyzing the pattern of details of different websites containing the
+directory of companies.
+
+Writing scripts for parsing the valuable information from the website
+and storing them into database using regular expression.
+
+
+
+BHP (Business Home Page)
+
+Client	IndiaMart InterMesh Ltd (Noida, India)
+
+Team Size	3
+
+Duration	April 2005 to Nov 2005
+
+Company	IndiaMart InterMesh Ltd
+
+Environment	CGI/PERL, mod_perl, Oracle, Apache, Linux
+
+
+
+This system provides online support to P-CAT system. Using this system
+small industry (which is the target user) can select their own choice of
+template, add corresponding data, choose URL and make it live without
+the any involvement of the system provider.
+
+Roles and Responsibilities
+
+Analyzing and designing the system by understanding the requirements of
+clients.
+
+Making the user friendly interface by which users can store their data,
+images into database.
+
+Compatibility Testing under IE, Mozilla and NetScape.
+
+
+
+P-CAT( Product Catalog)
+
+Client	IndiaMart InterMesh Ltd (Noida, India)
+
+Team Size	7
+
+Duration	Nov 2004 to March 2005
+
+Company	IndiaMart InterMesh Ltd
+
+Environment	CGI/PERL, mod_perl, Embed Perl, Oracle, Apache, Linux
+
+
+
+This system provides a way for automating the whole process of
+developing the dynamic templates. It provides a single platform on which
+customer (small industries) it self can add & remove their products and
+services and maintain their site dynamically. They can also track their
+deals and transactions by integrating it with the Payment Gateways.
+
+Roles and Responsibilities
+
+Analyzing the static websites.
+
+Creating templates for static websites making them dynamic by which they
+can take data and images from database.
+
+Compatibility Testing under IE, Mozilla and NetScape.
+
+
+
+Educational Qualification & Achievements
+
+ 
+
+B.Tech in Computer Science and Engineering with 71.60% marks from
+Krishna Institute of Engineering and Technology, Ghaziabad (affiliated
+to U.P Technical University, Lucknow). 
+
+Intermediate with 64.60% marks from Government Intermediate College,
+Allahabad (affiliated to U.P. Board, Allahabad).
+
+High School with 70.20% marks from Janta Shiksha Niketan Inter College,
+Dubari, Mau (U.P Board). 
+
+Obtained GATE Score of 95.97 Percentile.
+
+  
+

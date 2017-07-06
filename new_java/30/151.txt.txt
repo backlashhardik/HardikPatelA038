@@ -1,0 +1,253 @@
+CURRICULUM VITAE 
+
+Pravat Chandra Tarai
+
+Contact No:9867393350	     	
+
+pravat.ct@gmail.com
+
+Objective:
+
+	Experienced Software developer seeking a challenging position as Web
+Application Developer in Java/J2EE where expert technical skills,
+extensive knowledge of web applications, excellent interpersonal and
+analytical skills will be fully utilized and further developed, while
+being resourceful, innovative and flexible.   
+
+                  Professional Summary
+
+Having   2+ years of experience in web based J2EE development project.
+
+Experience in Core Java,Servlet,Jsp,Struts,JDBC,HTML and Java Script
+
+Basic Knowledge in Web Sphere Portal (IBM or JSR 168 Portlet).
+
+Experience in WebSphereApplicationServer6.0, Apache Tomcat 4.1
+
+Working knowledge in Struts.
+
+Exposure to RDBMS like Oracle 8i,Ms Access
+
+Solid Understanding of project Life Cyle Development Methodologies
+
+Well-organized, efficient, good team player, quick learner,
+self-motivated & with excellent logical and programming skills.
+
+Involving in different phases of software development of Modules.
+
+ Professional Experience:
+
+Presently working  in MM Software Solution Ltd as a Software Engineer
+from Dec,2004 to till date.  
+
+Professional Qualification:
+
+            Master in Computer Application (MCA) from Kalinga Institute
+of Industrial Technogy (KIIT)
+
+            (Deemed University) in 2004.
+
+Technical SkillS:
+
+		Web Technologies			:HTML,Java Script,Xml
+
+            Languages				:Core Java,C++
+
+J2EE Technologies	:Servlet2.3,JSP2.0,Struts1.1,Websphere portal(JSR 168
+or IBM Portlet), JDBC2.0
+
+Operating Systems			: Windows 9x / NT / 2000/ XP
+
+RDBMS					: Oracle 8i
+
+Web/App Server			:Websphere6.0,Tomcat 4.1
+
+Frameworks				:Apache Struts 1.1
+
+IDE Tools				:Eclipse 3.1 
+
+Projects exposure:
+
+Projects #1
+
+          Title			: Locker Processing System
+
+          Technologies				: Servlet2.3, JSP2.0, JDBC2.0, HTML & Struts
+1.1
+
+            App sever				: Web Sphere  6.0
+
+            Platform		: WIN 2000
+
+            Database				: Oracle 8i
+
+            Role					: Software Engineer
+
+Description					:The main aim of Locker processing system is to develop
+a web based application. It is an Intranet application, where it could
+be accessed within the organization. The employee of the organization
+can keep track of the customer details from the time when the locker is
+assigned to the customer, till the locker is surrendered. The detail are
+like locker number, locker size, locker cost, locker access activities,
+payment details, report generation etc.Locker processing system provides
+an inexpensive way to your locker management process and simplifies the
+accounting process.Locker processing system automates each
+process,beginning with the system setup to locker rental like fixing up
+the size,cost,number etc,then keeping track of all the activities of the
+customer with the locker like accessing,renewal,surrender,billing
+details etc.Management reports allow the branch and corporate managers
+to review the important aspects of locker service.This project is
+divided into 4 Modules.
+
+Responsibilities          : Involved in coding of  the JSP pages using
+Struts Framework.
+
+                                    : Used Servlets  for  request
+processing.
+
+			  : Writing codes for client side validation using JavaScript	
+
+Projects #2
+
+          Title			: e- Admission Process
+
+          Client					: Flagship Solutions (P) Ltd.(FSPL).
+
+          Technologies		: Servlet2.3, JSP2.0, JDBC2.0, HTML & Struts 1.1
+
+            App sever				: Web Sphere 6.0
+
+            Platform		: WIN 2000
+
+            Database				: Oracle 8i
+
+            Role					: Software Engineer
+
+Description     		: The e-Admission Process is dealing with providing a
+unique platform for both admission and the same time the placement of
+the students the targeted visitor to get a suitable job after their
+study the states most precious colleges. This project is starting from
+displaying the college information to the placement of the student. The
+student will first visit the website of the Flagship Solution. In this
+website the student will have to gone through the login and password to
+registered himself. Then the student will have to register him self in
+the particular college for his course. This project is now providing
+only the course named Post Graduate Diploma in Customer Service
+Management (PGDCSM). After getting the course from different college the
+student again have to register them in the placement shell as provided
+by the Flagship Solution. If a student is not able to get the campuses,
+then he will have to be in panel to get next opportunities until he is
+not got placed.  
+
+          Responsibilities          : Involved in coding of  the JSP
+pages using Struts Framework.
+
+                                               Used Servlets  for 
+request processing.
+
+				: Writing codes for client side validation using JavaScript
+
+Projects #3
+
+            Title			: Purchase Management System
+
+Technologies				:Servlet2.3, JSP2.0,JDBC2.0, HTML,Java Script
+
+            App sever				: Web Sphere 6.0
+
+            Platform				: WIN 2000
+
+            Database				: Oracle 8i
+
+             Role				: Software Engineer
+
+                         Description             		: This project is for
+automation of purchasing of National Aluminum Company Ltd. It is used
+for distributed processing of purchase that is taken place in NALCO,
+Anugul. The Company is using both consumable and spare parts in order to
+meet its requirement. Hence the company has to purchase those parts from
+outside parties. The purchase of parts starts from indenting of the
+particular parts by the respective group-in-charge. Then Notice Inviting
+tenders are published to attract the parties. The vendors are examined
+based on their credentials submitted. Then the respective user
+department examined the quality of the product .The selected vendors are
+given the purchase order. Store has the responsibility to collect the
+product from the vendor. Store can generate OSRD. According to the
+purchase order, no of reminders and OSRD the vendors are evaluated. This
+project is consisting of seven modules, of which I have been given two
+modules. The Indent generation and NIT generation. 
+
+Responsibilities : Involved in writing code for Server side programming
+using JDBC,
+
+                                  JSP and Servlets.Writing codes for
+client side validation using JavaScript.
+
+Project #4
+
+           Title                                                
+:e-Business Transaction
+
+           Technologies	                               	:java,jsp
+2.0,Servlet 2.3,html,JavaScript
+
+            Web sever                                      	:Tomcat 4.1
+
+            Platform                                         	: WIN 2000
+
+            Database                                        	: Oracle 8i
+
+             Role	                              	: Software Engineer
+
+ Description   :     It is an intranet based application system
+developed for the chinwaq,uk a       B-2-B business company operating
+through out uk.This system to be implemented in the company’s own
+intranet with windows 2000 environment.This system is intendedto
+maintain business transactions done through the company’s B-2-B
+portal.This system will maintain its transaction details for each order
+done on the e-commerce web portal.This system consists of product
+catlog,Retailer/supplier,system,order monitoring system,client/order
+tranaction,sale/purchases etc.  
+
+           
+
+Responsibilities   : Involved in writing code for Server side
+programming using JDBC,
+
+                               JSP and  Servlets.
+
+                    Writing codes for client side validation using
+JavaScript
+
+             
+
+            PERSONAL PROFILE:  
+
+                       
+
+              Name				              :PRAVAT CHANDRA TARAI 
+
+              Date of Birth                                      
+:04/03/1979
+
+              Sex                                                   
+:Male
+
+              Hobby                                               
+:Playing Cricket and Listening Musics  
+
+              Language Known                                
+:English,Hindi,Oriya
+
+              Marital Status                                     :Single
+
+   Email Address			   :   HYPERLINK "mailto:Pravat.ct@gmail.com" 
+Pravat.ct@gmail.com 
+
+	   Mobile No				   :9867393350 	 			
+
+Place:                                                                  
+                         
+
+Date: 
+

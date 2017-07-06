@@ -1,0 +1,342 @@
+Resume
+
+Charudatta B.Deshmukh
+
+E-mail: charudattadeshmukh@gmail.com
+
+E-mail:charudattadeshmukh@yahoo.com
+
+PH: 09821883107 (Mumbai)
+
+Career Objective:
+
+  
+
+To work in a Software Organization as a Software Developer where, the
+ultimate goal is success and the Organization’s growth is directly
+proportional to individual’s growth and satisfaction.
+
+Personal Profile:
+
+An engineering Graduate with a Diploma in Advance Computing from C-DAC.
+
+Excellent communication skills, articulate.
+
+Hard working and skill to work in a team.
+
+Analytically problem solving ability.
+
+Academic Qualification
+
+Bachelor of Engineering in Mechanical from A.I.S.S.M’S College of
+Engineering, Pune with 58.30% in Final Year from Pune University. 
+
+H.S.C with First Class, 71.83%
+
+Shivaji College, Barsi.
+
+S.S.C with Distinction, 81.28%. 
+
+Professional Qualification
+
+Diploma in Advanced Computing (DAC)
+
+Successfully completed DAC course from Vidyanidhi InfoTech Academy,
+Mumbai.
+
+The skill set developed during the course:
+
+Operating Systems	   	: Linux, Windows Xp (fundamental working of OS)
+
+Languages : 		: C, C++,VB.Net ,C#,DotNet, Core Java, J2ee 
+
+Database Technologies  	: Oracle 9i, SQL SERVER 2000/2005
+
+Windows Programming  	: SDK, MFC
+
+Web Technologies	    	: HTML, JavaScript, Xml, Asp.net
+
+Reports		   	: Seagate Crystal Reports
+
+Work & Training Experience
+
+1] Position /Title   		Employer/Institute			Duration 
+
+ Programmer		Training Experience (During CDAC course)	 15 days
+
+Client: Powersolv Inc, USA
+
+Project: Career Track.com
+
+Description: The website would be a one-stop portal for all matters
+relating to education and careers. The website would be totally database
+driven.  The contents of the website   would be uploaded by the
+end-users such as Universities, Colleges, Institutes, Corporate,
+Professionals, Teachers, Parents, Students, etc.  It would offer a Many
+is to Many Relationship model between Providers and End users. We worked
+for Home Page, Post Login and Administration module out of 40 modules in
+this project
+
+Responsibilities: 
+
+Programming. 
+
+Administration
+
+Co-coordinating with other modules.
+
+Conceptualizing, Designing, Prototyping and Developing application
+modules.
+
+Responsible for creating conceptual design docs and reviewing of team
+members.
+
+Responsible for application bugs, enhancements, tracking and fixing.  
+
+Platform & Skills: HTML, Java, JDK 1.5, JSP, Servlets, J2EE, JDBC API,
+PL/SQL, Oracle 9i, WindowsNT
+
+2] Position/Title				Employer 	         Duration	
+
+Software Development Trainee      Optimal InfoTech Pvt. (ltd)          1
+month
+
+Client: Vidhyanidhi InfoTech Academy, Mumbai
+
+Project: Placement Cell
+
+Description: The project covers the overall functionality of the
+placement cell of an institute providing professional courses.
+Maintaining, updating student information, company information, company
+statistics, student statistics etc. The main technical area of work was
+ADO .net and Stored Procedures.
+
+Responsibilities: 
+
+Responsible for technically leading team of Dot Net and Sql Server
+skilled team of six.
+
+Conceptualizing, Designing, Prototyping and Developing application
+modules.
+
+Programming
+
+Responsible for application bugs, enhancements, tracking and fixing.  
+
+Platform & Skills: VB.Dot net using Visual Studio 2005 with SQL Server
+2000 on Windows NT
+
+3] Position/Title				Employer 	          	Duration	
+
+Software Development Executive      Optimal InfoTech Pvt. (ltd)        
+3 months
+
+Client: Orient Craft Ltd, Delhi
+
+Project: Bug Tracking System for Garment Export industry.
+
+Description: The project covers the overall functionality of the
+bug/Enhancement and maintenance cycle between clients and the software
+service providing company. 
+
+The project covers the overall functionality client-vendor communication
+cycle in terms of Bug/Enhancement as Bug/Enhancement-reporting- 
+
+Bug/Enhancement-Modeling
+
+Bug/Enhancement-Designing (If Required)
+
+Bug/Enhancement-Fixing-
+
+Bug/Enhancement-Testing.
+
+Three Tier Architecture (Distributed Application Using Dot Net Remoting)
+
+1) Presentation Layer
+
+2) Business Logic Layer
+
+4) Database layer
+
+Responsibilities
+
+Programming
+
+Maintaining Back End Transactions(Isolation Levels)
+
+ Designing modules.
+
+ Responsible for creating design docs.
+
+ Responsible for application bugs, enhancements, tracking and fixing.  
+
+Platform & Skills: VB.Dot net using Visual Studio 2005 with SQL Server
+2000, using Stored Procedures with XML Schema, on Windows NT 
+
+4] Position/Title				Employer 	          	Duration	
+
+Software Development Executive      Optimal InfoTech Pvt. (ltd)        
+31/2 months
+
+Client: Company owned Product 
+
+Project: Framework Development using VB.Net, for Enterprise Resource
+Solution for Garment Export industry.
+
+Description: The project covers the basic framework building for the
+development of ERP Software for Garment Export management Industry. e.g.
+
+Common Classes for technical functionalities as ADD, EDIT, SAVE, SEARCH,
+PRINT, and NAVIGATE. Common Grid Based functions as Grid Headings,
+Column Data typing, Cell Property setting etc.
+
+Framework development contains the basic features as
+
+Constructing Four Tier Architecture i.e. Distributed Application Using
+Dot Net Remoting 
+
+Using TCP/IP Channel, Binary formatters
+
+1) Presentation Layer
+
+2) Business Logic Layer
+
+3) Database connectivity layer
+
+4) Database layer
+
+Responsibilities
+
+Programming
+
+Maintaining Back End Transactions
+
+ Designing modules.
+
+ Responsible for creating design docs.
+
+ Responsible for application bugs, enhancements, tracking and fixing.  
+
+Platform & Skills: VB.Dot net using Visual Studio 2005 with SQL Server
+2000, using Stored Procedures with XML Schema, on Windows NT 
+
+5] Position/Title				Employer 	          	Duration	
+
+Software Development Executive   Optimal InfoTech Pvt. (ltd)   4 months
+and working on
+
+Client: Company Product for clients as Garment Exporters as Orient Craft
+ltd, Denube Creations, Pantaloon etc
+
+Project: Visual Gems.Net the New Version for Visual Gems Enterprise
+Resource planning software.
+
+Description: The project covers the ERP software for manufacturing
+Industry especially for Garment Export management. It contains four main
+modules as following
+
+1] Export order management
+
+2] Inventory management
+
+3] Production order management
+
+4] Shipment Management
+
+5] Reports (Grid Reports and Crystal Reports)
+
+Using Four Tier Architecture (Distributed Application Using Dot Net
+Remoting)
+
+1) Presentation Layer
+
+2) Business Logic Layer
+
+3) Database connectivity layer
+
+4) Database layer
+
+Responsibilities
+
+Programming
+
+Maintaining Back End Transactions (Isolation Levels)
+
+ Designing modules.
+
+ Responsible for creating design docs.
+
+ Responsible for application bugs, enhancements, tracking and fixing.  
+
+Platform & Skills: VB.Dot net using Visual Studio 2005 with SQL Server
+2000, using Stored Procedures with XML Schema, on Windows NT 
+
+6] Position/Title				Employer 	          	Duration	
+
+Software Development Executive   Optimal InfoTech Pvt. (ltd)         15
+days
+
+Client: Company Product for internal Use
+
+Project: Data Migration
+
+Description: The project contains stored procedures that perform the
+task to pull all the data in existing tables i.e. data is extracted to
+newly designed tables managing fields and their data types and their
+constraints from old databases. The old data is pulled in Cursors
+according to header or detail tables and inserted in to new tables.
+
+Responsibilities
+
+Back end Programming in Stored Procedures
+
+Maintaining Tables as per Design Standards
+
+ Responsible for creating design docs.
+
+Platform & Skills:  SQL Server 2000 using Stored Procedures with XML
+Schema, on Windows NT 
+
+Work Experience Summary
+
+Total Work Experience 1 Year and Half month
+
+Current Employer: Optimal InfoTech Pvt. (ltd)
+
+Current CTC: 1.96 lacs Per Annum 
+
+Notice Period: One Month
+
+Extra Curricular Activities:
+
+1] Active participation in Blood Donation camp held at college premises.
+
+2] Member of Blood Donation center at Denanath Mangeshkar hospital,
+Pune.
+
+3] Yog- Abhyasak for two years In Kabir Bagh Math Sanstha, Pune.
+
+Personal Details:
+
+Date of Birth:	01-12-1979
+
+Sex: Male
+
+Marital Status: Single
+
+Languages Known: Marathi, Hindi, English, First level Japanese Language.
+
+Permanent Address:
+
+Charudatta Deshmukh
+
+Swasti Shree Soc, Smruti Appt, Block 1B, Plot No 23, Karvenagar Pune-52
+
+Maharashtra State, India.
+
+Place: Pune										Date:
+
+		
+
+	
+

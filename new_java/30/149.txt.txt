@@ -1,0 +1,271 @@
+Resume
+
+Amit G. Gulhane                                       
+
+B/16, flat no. 110,
+
+ShivSagar Apart.,
+
+PMGP Colony, Mahakali
+
+Caves road,                                 Mobile No.-9967549141
+
+Andheri(E),Mumbai-93.                E-mail
+:amitgulhane111@indiatim獥挮浯഍伍橢捥楴敶㨠
+
+	Intended to build a career in Software technology with leading
+corporate of hi-tech environment with committed & dedicated people,
+which will help me to explore myself fully and realize my potential.
+Willing to work as a key player in challenging & creative environment.
+
+Experience Summary :
+
+2+ years of experience as Software Developer (Oct 2004 to till date).
+
+Earlier worked for Saakar Sloutions,Pune.
+
+Presently working with HCL Technologies Ltd.
+
+Summary:	
+
+	2+ years experience of building web based applications using Java,
+JSP, Servlets, JDBC, JNDI, HTML, XML and Oracle8i.
+
+	Hands on Experience on Apache Tomcat 4.x, OC4J 9.0 application
+server,WebSphere 6.0.
+
+	Able to understand OOPS design concepts and design in MVC.
+
+Educational Qualification :
+
+	B.E. (CSE) from Amravati University with 68.00% in 2004.
+
+	H.S.C. from Amravati Univarsity with 74.50% marks in 2000.
+
+	S.S.C. from Amravati Univarsity with 74.13% marks in 1998.
+
+Skill set :
+
+Programming Languages :  C, C++, Java/J2EE. 
+
+Operating Systems           :  Windows 2000/NT/XP.
+
+Application Servers          :  OC4J 9.0, Apache tomcat 4.x.
+
+Internet Technologies      :  JDBC, JNDI, Servlets, JSP, EJB, XML, HTML.
+
+DBMS                                 :  Oracle 8i/9i, Ms-Access,DB2.
+
+Projects Details :
+
+Project #1:
+
+Title	eCMATS
+
+Client	State of Tennessee,U.S.A.
+
+Technologies	JSP, Servlets, JDBC,HTML.
+
+DataBase	Oracle9i
+
+Application  Server	OC4J 9.0 Application Server
+
+Operating System	Windows XP
+
+
+
+Synopsis:
+
+                The Enhanced Case Management and Activity Tracking
+System (eCMATS) is an application for the Department of Labor and
+Workforce Development (DLWFD) & Department of Human Services (DHS),
+State of Tennessee. eCMATS is the application based federally funded
+project that  provides assistance to workers affected by job loss or
+their hours and wages are cut due to increased imports or a shift in
+production to a foreign country. Workers whose company is an upstream
+supplier to the primary company or a downstream finisher may also apply.
+The goal of the Trade Act program is to help trade-affected workers
+return to suitable employment as quickly as possible. The Employment and
+Training Administration of the U.S. Department of Labor administers the
+program.
+
+Team Members: 11
+
+Responsibilities:
+
+Responsible for requirement analysis of the application.
+
+Creating Module Specific Information Document.
+
+Developed the presentation layer using JSPs and HTML.
+
+Developed the Java server pages and EJB for MVC architecture.
+
+Project #2:
+
+Title	NCCS
+
+Client	State of Nevada,U.S.A.
+
+Technologies	JSP, Servlets, JDBC, HTML.
+
+DataBase	DB2
+
+Application  Server	WebSphere 6.0 Application Server
+
+Operating System	Windows XP
+
+
+
+Synopsis:
+
+                The Child Care and Development Program provides subsidy
+for low-income families in Nevada, as well as financial aid to providers
+who wish to improve quality for the early care and education of children
+in Nevada. Each of Welfare’s non-profit contracted agencies provides
+full resource and referral services, at no cost, to any Nevada
+family.NCCS will also support the collection, storing and facilitate
+reporting of information to the federal government.
+
+                 Child Care providers will have the choice of submitting
+attendance for subsidized children attending their facility through a
+web site or paper documents.
+
+Team Members: 27
+
+Responsibilities:
+
+Responsible for requirement analysis of the application.
+
+Creating Module Specific Information Document.
+
+Developed the presentation layer using JSPs and HTML.
+
+Developed the Java server pages and EJB for MVC architecture.
+
+Project #3:
+
+Title	Attendance Monitoring System Using RFID Devices(Smart Card)
+
+Client	HIMSOraganizationLtd.(India)
+
+Technologies	JSP, Servlets, JDBC,HTML, Ms-Access
+
+Application  Server	Tomcat 4.0
+
+Operating System	Windows XP
+
+
+
+Synopsis:
+
+                This application based system is basically used for
+maintaining attendance data of all personnel of company or students and
+professors of college in a very sophisticated and easy-to-use manner.
+Its power lies in the fact that this system can be used in centralized
+way so that many departments can be involved in this system. The purpose
+of the system is to generate reports of all the data that is stored in
+centralized database and print those report to be sent to the
+authorities if and whenever required. This application is based on
+three-tier Architecture consisting Java front-end, Business logic at
+middle tier, MS Access database at backend. 
+
+               Database connectivity using JDBC with Ms Access as
+backend.
+
+Team Members: 5
+
+Responsibilities:
+
+Responsible for requirement analysis of the application.
+
+Creating Module Specific Information Document.
+
+Involved coding review of the system.
+
+Developed the presentation layer using JSPs and HTML.
+
+Demonstration of project to client.
+
+Project #4:
+
+Title	Online Library Management System.	
+
+Client	Govt. Engineering College,Amravati.
+
+Technologies	JSP, JDBC, Beans, Servlets, HTML, Oracle8i 
+
+Application Server	Tomcat 4.0
+
+Operating System	Windows XP
+
+
+
+Synopsis:
+
+.
+
+ˆ
+
+ 
+
+,
+
+.
+
+Z
+
+†
+
+ˆ
+
+˜
+
+œ
+
+ 
+
+¦
+
+#ˆ
+
+œ
+
+଀. JDBC/ODBC bridge is used to connect the Oracle database. This
+system is intended for maintaining records of  different departments and
+handling student as well as professor details. Authorized user enters
+all the reports and details and appropriate action is taken accordingly.
+
+
+Team Members: 4
+
+Responsibilities:
+
+Responsible for requirement analysis of the application
+
+Creating Module Specific Information Document.
+
+Involved coding review of the system.
+
+Developed the presentation layer using JSPs and HTML.
+
+Personal details :
+
+Name		      :   Amit G. Gulhane
+
+Date of Birth	     :   07-04-1983
+
+Marital Status   :   Single
+
+Language          :   English, Hindi, Marathi
+
+Contact Address :    s/o G.A.GULHANE
+
+                              Matoshri Bhavan, Sambhaji Nagar,
+
+                              Digras-445203.Dist-Yavatmal.
+
+                              Ph no.-(07234) 222907. 							            
+                                                                        
+ Amit G. Gulhane
+

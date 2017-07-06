@@ -1,0 +1,140 @@
+Mohammed Ayaz Hussain Hundrug.
+
+  HYPERLINK "mailto:mayaazh@yahoo.co.in"  mayaazhh@gmail.com 				Room
+No:206 Taha Manzil Armstrong        
+
+Contact: +91-9886238980			road ShivajiNagar Bangalore 560001
+
+Objective
+
+Intend to build a career with leading corporate of hi-tech environment
+with committed and dedicated people, which will help me to explore
+myself fully and realize my potential.  Willing to work as a key player
+in challenging and creative environment.
+
+
+
+
+
+Qualification	B.E (Information Science Engineering) from VTU, Belgaum.
+Karnataka.
+
+Intermediate from PU Board, Karnataka.
+
+SSLC from Karnataka Secondary Education Board, Karnataka. 
+
+
+
+
+
+Current Job Activities
+
+Presently I am working as a Software Engineer. I am responsible for
+analysing and developing new applications. My job includes Software
+Development and involved in requirement analysis. 
+
+
+
+Professional Summary	1+ years of experience in JAVA and J2EE.
+
+Company	CGI-Netvorks Bangalore (Karnataka).
+
+Date 	July ’06 to Till Date
+
+Designation	Software Engineer  (Java/J2ee)
+
+
+
+Summary of Expertise and Experience
+
+Programming Languages            : Java.
+
+Web Technologies                      : JSP, Servlets, JDBC.
+
+Internet Tools                             : HTML.
+
+Framework                                 : Struts.
+
+Application Server/Web Server : WebLogic 8.1 and Tomcat5.0.
+
+RDBMS                                         : Oracle 8i, MySql.
+
+Operating Systems                     : Windows98/2000/XP.
+
+Web Scripting                              : Java Scripting
+
+IDE                                               : Eclipse3.2,
+Jbuilder.
+
+
+
+PROJECT DESCRIPTION
+
+
+
+PROJECT # 1
+
+Project Name	Information Share Portal (ISP)
+
+
+
+Project Description	Information Share Portal is an application to share
+the information between people/users in an efficient way. User can
+register and become owner of the space. All authentications on this
+application are based on Open ID.  Owner can create notes, maintain
+address book. Owner can maintain buddy list and specify whether
+owner’s buddy list can access the information provided by the owner.
+For each note owner putting permission for the group to access the note.
+Buddy in the buddy list need not be compulsorily registered user of this
+application. 
+
+Role	Developer
+
+Software	Environment	Windows XP
+
+	Technologies	 Java, JDBC, Servlet, JSP.
+
+	          Database	MySql
+
+	          Server	Apache Tomcat
+
+Contribution	Involved in coding Jdbc, Servlet and JSP
+
+Implementing Business logic
+
+Duration	8 Months	Team Size	5
+
+
+
+PERSONAL DETAILS
+
+
+
+Father Name	Md. Ismail. Hussain.
+
+E-mail	mayaazhh@gmail.com
+
+Date Of Birth	19th  November 1983
+
+Sex	Male
+
+Marital Status	Single
+
+Languages Known	English, Hindi and Urdu.
+
+Nationality	Indian
+
+Permanent
+
+Address	Bilalabad colony kbn engg 
+
+college road gulbarga 585104 
+
+Karnataka Ph No: 08472-241935
+
+ 
+
+	
+
+								(Mohammed Ayaaz)
+

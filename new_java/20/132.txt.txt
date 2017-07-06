@@ -1,0 +1,145 @@
+Objective
+
+Seeking a challenging position in a result-oriented company, where
+expert technical skills, good programming, excellent interpersonal
+skills and analytical skills will be fully utilized and further
+developed to contribute and collaborate with a team that enhances your
+organization's success.
+
+Summary
+
+1 year  of Professional Experience in Client/Server Software Development
+in Building Enterprise Applications that includes expertise in the areas
+of Requirement Analysis, Design, Development, Implementation,
+Configuration Control and Testing
+
+Good Experience in Linux, Java, JSP/Servlet, HTML
+
+Proficient in MySQL and DB2
+
+Integrated Modules of whole Back Office Project 
+
+Good knowledge of Linux
+
+Willing to take up challenging assignments on any emerging Technologies
+
+Strong interpersonal skills, Commitment, Result Oriented, Hard-Working, 
+Innovative,  Self Learning ability with a quest and zeal to learn new
+technologies and undertake challenging tasks 
+
+Quick learner and excellent Team Player having profound insight to
+determine priorities, schedule work and meet critical deadlines within
+budgetary guideline
+
+Good Presentation skills
+
+Qualification
+
+Electronics and Instrumentation Engineering from KITS(Kaktiya Institute
+of 
+
+       Technology and sciences) College of Engineering, Warangal(A.P) 
+in 2006 with 
+
+       Overall First Class (65.03%).
+
+  Intermediate from Noble Junior College, Jagitial(A.P) in 2001 with 
+79.6%.
+
+ 10th   from Sharada Vidya Nilayam ,Jagitial (A>P) in 1999 with  84.0%.
+
+Professional Experience
+
+Working  as a Java Developer for  Infotech financials Pvt Ltd, Mumbai  
+
+								JUNE 2006 to present
+
+Technical Skills
+
+Operating System	 Linux ,Windows(2000,XP)
+
+Languages	C, Core Java, J2EE
+
+Database	DB2, Mysql
+
+Scripting Languages	 Java Script
+
+Web Technologies	JSP,Servlets, HTML
+
+Hardware/Networking	Basics of   Networking
+
+
+
+Project Synopsis
+
+Project #1
+
+Title                        Logistics Control Module(LCM)
+
+Client	     National Security Depository Limited (NSDL), Mumbai 
+
+Environment	       Linux ,  JSP, HTML, JAVA SCRIPT, DB2 
+
+Team Size		    3
+
+Duration		    November  2006- present
+
+Description
+
+LCM is a system based tacking mechanism where the record/document should
+be tracked effectively and efficiently .The module is designed with a
+view to enable the user to track the status of TAN/PAN documents as to
+printing and dispatching.
+
+Responsibilities
+
+Enhancements in the existing system. 
+
+  
+
+Project Synopsis
+
+Project #2
+
+Title                     Status Track and SMS Gateway
+
+Client	 National Security Depository Limited (NSDL), Mumbai 
+
+Environment	 Linux (Red hat), JSP, HTML, JAVA SCRIPT, DB2
+
+Team Size	 2
+
+Duration		 JUNE 2006 –NOVEMBER 2006
+
+Description
+
+The 'Status Track and SMS Gateway' application software is designed so
+that user can check the status of their PAN/TAN card . Here status means
+whether they have allotted PAN/TAN number, if PAN/TAN has allotted then
+whether they are in printing or printed status or in delivered status.
+
+User can check   their status through internet or SMS.
+
+     Workshops & Trainings
+
+Attended trainings as per the project  requirements
+
+Personal Statistics
+
+Sex			Male
+
+Linguistic		Read/Write/Speak - English, Hindi ,Telugu
+
+Prepared to relocate
+
+  
+
+Place 	: Mumbai                        	 (Sandeep kumar Anumalla)
+
+                                                Email:
+sundip.kits@gmail.com
+
+Sandeep kumar Anumalla          Phone: +91 9833036237
+
+Page   PAGE \*Arabic  2  of   NUMPAGE \*Arabic  3 
+

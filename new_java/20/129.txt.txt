@@ -1,0 +1,196 @@
+Vanaja Kolla
+
+Bld No:2  Room No:208,
+
+Bimbisar Nagar,
+
+Opp To Western Exp High Way ,					
+
+Goregon (E),               			                                          
+  E-mail: vanaja.kolla@yahoo.com
+
+Mumbai -400063                               			                 Mobile:
++91 9960349123.
+
+Experience Summary 
+
+I have total 3 years of experience in the design and development of web
+based applications, and server-side programming. At present I am working
+in the domain of Banking. My technological forte is
+
+Java, Servlets, JSP, JDBC
+
+Career Profile
+
+Dates	Organization	Role
+
+May-2005to Till Date	TATA Consultancy Services Limited	Team Member
+
+June -2001 to April-2002	Instance Software Solutions 	Team Member
+
+
+
+Technical Profile
+
+Programming Languages	Java.
+
+Web Technologies	Servlets, JSP, JDBC, HTML.,EJB
+
+Frame Work	StrutsFramework, Tapestry Framework.
+
+Operating Systems	Windows.
+
+IDE	WSAD, Eclipse.
+
+RDBMS	Oracle.
+
+
+
+Qualifications
+
+Degree and Date	Institute	Major and Specialization
+
+Bachelor Of Technology In 
+
+Electronics and Communication Engineering
+
+April-2005	JNTU,Hyderabad
+
+ 	Electronics and Communication
+
+Diploma in Electronics and Communication Engineering April-2001	AICTE ,
+Hyderabad
+
+	Electronics and Communication
+
+SSC,1998	Board Of Secondary Education, Hyderabadyderabad	Maths And
+Science
+
+
+
+Assignments
+
+Project#1	ABN HARVEST NL TR W3 CHTS OFF
+
+Client	ABN AMRO 
+
+Period	September -2006 to Till Date
+
+Description	             Eurokas is a web-application used by the bank
+employees to do various cash transactions in the bank like withdrawing
+and depositing money in the bank. The application also facilitates the
+cashier, supervisor and the functional managers of the bank shop to do
+various management and administrative tasks related to the bank.
+
+Role	Team Member involved in knowledge transition, client interaction
+and support.
+
+Solution Environment	IBM Web Sphere 5.0
+
+J2EE,Struts Framework
+
+IBM DB2
+
+Tools	WSAD(IDE for Java/J2EE)
+
+CASCADE (for Version Controlling)
+
+SMILE
+
+
+
+Project#2	YAX Application
+
+Client	MerrillLynch
+
+Period	August -2005 to  June-2006
+
+Description	YAX application deals with the Securities and Orders made to
+trade with Mexico Stock Exchange.The application updates the data with
+the Mexico Stock Exchange and provides means for the MerrilLynch
+brokerage firm to enter orders on behalf of  Customers.It has various
+Interfaces and frontend GUI screens to capture and validate data.The
+frontend is developed using Tapestry Framework with Flash Support.The
+business logic layer is implemented with EJBS and the Data Persistent
+layer implemented  with Hibernate.
+
+Role	Developed Presentation logic using HTML templates and OGNL	
+
+Developed java classes for value objects and BasePage classes and EJBs
+for Controlling Applications.
+
+Involved in  database design using Hibernate.	
+
+Solution Environment	IBM Web Sphere 5.0
+
+J2EE (EJB ),Tapestry Framework,Hibernate
+
+JavaScript, Html 
+
+SQL Server
+
+Tools	WSAD(IDE for Java/J2EE)
+
+CVS(for Version Controlling)
+
+
+
+Project#3	IPS- Insurance Processing System
+
+Client	BIC-Bharat Insurance Company
+
+Period	October 2001 to April-2002
+
+Description	                The main objective of the IPS (Insurance
+Processing System) is to provide cost effective and secured solutions
+for Indian Insurance Providers. 
+
+                 IPS is mainly targeted to deal with different types of
+insurance sectors suiting to the Indian country.  IPS covers different
+modules relating to the insurance in different segments to suit all
+people at all levels such as Life Insurance, Property Insurance, Motor
+Vehicle Insurance and Electronic Appliance Insurance. 
+
+                 Each of the modules give a choice to the client to
+choose from the same as well a comfortable premium program is planned
+for easy payments by the client.
+
+Role	Developed Presentation logic using JavaServerPages
+
+Developed Servlets for Controlling Applications.
+
+
+
+Solution Environment	Oracle 8i Server
+
+J2EE (JSP / Servlets/JDBC/EJB)
+
+JavaScript, Html
+
+WebLogic 7.0
+
+Tools	MS-VSS (for Version Controlling)
+
+
+
+Personal Details
+
+Date of Birth	30-06-1983
+
+Nationality	Indian
+
+
+
+Passport Details
+
+Name as on passport	Relationship	Passport Number	Date of Issue	Expiry
+Date	Place of Issue
+
+Vanaja Kolla	Self	G3588430	24/05/07	23/05/2017	Hyderabad
+
+
+
+Résumé		
+
+Page   PAGE  3  of   NUMPAGES  3 
+

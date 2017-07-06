@@ -1,0 +1,491 @@
+ 
+
+	Contact Information
+
+ 
+
+ 
+
+Amit Godha
+
+flat no. l -16,,Mantri housing complex,Dapodi
+,Pune,110077,Maharashtra,Maharashtra
+
+Email:   HYPERLINK "mailto:godha.amit@gmail.com"  godha.amit@gmail.com 
+
+Phone: Not specified
+
+Mobile: 9922613598
+
+Current Location: Mumbai
+
+ 
+
+	Personal Information 
+
+ 
+
+Date of Birth:  Not specified
+
+Gender:  Male
+
+Nationality:  India
+
+ 
+
+	Professional & Educational Details 
+
+ 
+
+Work Experience
+
+2 years 
+
+Skills
+
+java jsp html servlet sql 
+
+Industry
+
+IT/ Computers - Software
+
+Category
+
+Software, Hardware, EDP
+
+Roles
+
+Software Engineer/ Programmer
+
+Current Employer
+
+express computer navi mumbai 
+
+Current Annual Salary
+
+Not specified
+
+Previous Employer
+
+crystel computech 
+
+Highest Degree Held
+
+BCA, Computers, pcti new delhi
+
+Preferred Job Location
+
+Anywhere,Mumbai,Pune
+
+ 
+
+	 Domain Knowledge
+
+ 
+
+ 
+
+	Not specified
+
+ 
+
+
+
+	 Detailed Resume
+
+	
+
+AMIT GODHA 
+
+Flat no. IA-6,Ahinsa Dham ,Vashi 
+
+Navi Mumbai 
+
+E Mail: godha.amit@gmail.com 
+
+Mob. 9922613598 
+
+Summary: 
+
+  Having 1.8 years experience in IT industry 
+
+  Ability to handle independently projects and lead team in Java Jsp
+Servlet & jdbc with Sql server back end. 
+
+  Presently Working in Express Computer on ICICI Bank DSA project 
+
+  Will join after one month as that's my present companies leaving
+period. 
+
+Expectations: 
+
+  Looking for a post of Software Developer 
+
+  Getting 1.80 lakhs plus per annum. 
+
+  Expecting three lakhs per annum. 
+
+  Current location- Mumbai
+
+Preferred Location- Mumbai ,Pune 
+
+Software Skills: 
+
+  Languages:-Java(jdk 1.4,1.5), C, JavaScript. 
+
+  Tools used in Projects: - Jcreator 
+
+  Internet Technology :- JSP, JDBC2.0, Applet, RMI 
+
+  Web Development tools :-HTML, XML and Java Script 
+
+  Databases:-Sql Server 7.0/2000/DB2/ ACCESS 
+
+  Server:-Tomcat, Java Web server 
+
+  Certifications:- Core Java& Advance Java Certification from N I I T
+
+
+  Know How: - Design Patterns, Three tier architecture and MVC. 
+
+  Operating Systems:- MVS, Windows , OS/ WRAP,NT 4.0,Windows 2000 and
+2003 
+
+Work Experience:- 
+
+  Express computers Pvt. Ltd., Kota as a S/W Engineer ( Jan 2007 to
+till now) 
+
+  Crystal Computech Pvt. Ltd., Kota as a S/W Engineer ( October 2005
+to December 2006.) 
+
+  Worked with Alliance MicroSys Jaipur as a Trainee (July 2005 to
+September 2005.) 
+
+Professional information 
+
+  Core Java& Advance Java Certification from N I I T New Delhi 
+
+  BIT From Manipal University Of Higher Education (MAHA) Karnataka 
+
+Project Details:- 
+
+Attendance Maintenance System 
+
+Environment: J2EE technologies, Servlets, JSP, Tomcat Server,
+SQLServer-2000 
+
+Members: 3 
+
+Role: Programmer 
+
+Project Description: 
+
+Attendance Maintenance System deals software for the employees of
+Rajasthan Atomic Power Station, Rawatbhata. We developed this project
+with the team of two members as per the user requirements. 
+
+Till today RAPS employees are provided attendance registers to collect
+the information of the employees present. This process was done manually
+and so it can be modifiable and also not secured to preserve. 
+
+Two groups mainly used this project. They are the administrators and
+users. User will be given the access to Sign in, Sign out and describe
+the job he has done or to be done for that day. But, admin has the prior
+option to see reports. 
+
+Responsibilities: 
+
+  Worked closely with project leader to fine tune the project
+requirements. 
+
+  Participated in the architectural design and development activities
+
+
+  Used Tomcat as the application server and SQL as the database
+server 
+
+Cheques Register Maintenance System 
+
+Environment: J2EE technologies, Servlets, JSP, Tomcat Server, SQL
+Server-2000 
+
+Members: 4 
+
+Role: Programmer 
+
+Project Description: 
+
+CRMS deals with software for maintain Tax Register, Roll of Cheque;
+maintaining records, maintain party's manipulation. This System Software
+is also able to transfer daily data from sub branch to head branch on a
+single command. For This small software is also given to sub branch of
+BSNL for data entry and to get backup. 
+
+Responsibilities: 
+
+Worked closely with project leader to fine tune the project requirements
+
+
+  Participated in the architectural design and development activities
+
+
+  Used Resin as the application server and SQL as the database server
+
+
+Website on the Medical 
+
+Environment: J2EE technologies, Servlets, JSP, Tomcat Server, SQL
+Server-2000 
+
+Members: 2 
+
+Role: Programmer 
+
+Project Description: 
+
+Website on the Medical deals as a Doctors directory. Doctor can register
+him self with following details (qualification, Sub Qualification,
+Specialization, Sub-Specialization, Country, City, State, Address, No.
+Of Years For Practice etc.) 
+
+���쯓놽놽놡鮡놡놽놽놽폋���������쯓퍶폋���������̟⍪
+
+ 
+
+kd¢
+
+ 
+
+ 
+
+ 
+
+s
+
+r
+
+s
+
+t
+
+ƒ
+
+’
+
+š
+
+ 
+
+«
+
+´
+
+µ
+
+¶
+
+¸
+
+¹
+
+·
+
+¸
+
+Y
+
+	
+
+ 
+
+!
+
+&
+
+E
+
+F
+
+V
+
+u
+
+v
+
+‹
+
+š
+
+›
+
+¬
+
+À
+
+Á
+
+Ô
+
+ô
+
+õ
+
+ 
+
+!
+
+!
+
+'
+
+E
+
+F
+
+W
+
+u
+
+u
+
+v
+
+Œ
+
+š
+
+›
+
+›
+
+
+
+À
+
+Á
+
+Õ
+
+ô
+
+ô
+
+õ
+
+kd
+
+ult to the doctor for their problems. 
+
+We developed this project with the team of two members as per the user
+requirements. 
+
+Three groups mainly used this project. They are the administrators
+Doctors and users. Doctor will be given the access to Sign in,
+S杩⁮畯⁴湡⁤摡⁤敤敬整甠摰瑡⁥桴楥⁲湩潦浲瑡潩
+⹮䈠瑵‬摡業⁮慨⁳桴⁥牰潩⁲灯楴湯琠⁯潣汬捥⁴桴
+⁥污⁬湩潦浲瑡潩⹮ഠ敒灳湯楳楢楬楴獥›
+
+  Worked closely with project leader to fine tune the project
+requirements 
+
+  Participated in the architectural design and development activities
+
+
+  Used Tomcat as the application server and SQL as the database
+server 
+
+Academic Projects 
+
+Rail Reservation 
+
+Environment: visual basic 6.0, SQL Server 
+
+Duration: 6month 
+
+Members: 3 
+
+Role: Programmer 
+
+Project Description: 
+
+Major task was managing the ticket entries of the Passenger for slipper
+Coach and taking proper and good care of account 
+
+Report 
+
+  Ticket Printing 
+
+  Return Ticket 
+
+  Daily Transaction Summary 
+
+  Reservation Chart 
+
+  Ticket Cancellation 
+
+  Operator report 
+
+  Daily sales report 
+
+passion4traveler.com (Website on Tourism) 
+
+Programming language: Java, HTML, Java script, SQL Server 
+
+n: 3 months 
+
+Members: 3 
+
+Role: Programmer 
+
+Project Description: 
+
+This website is developed for tourism spots in India especially in
+Rajasthan. 
+
+Reports: 
+
+  Summary on tourist places 
+
+  Summary of transportation 
+
+  Details of hotels and famous places 
+
+Educational Qualification:- 
+
+  Core Java& Advance Java Certification from N I I T New Delhi 
+
+  BIT From Manipal University Of Higher Education (MAHA) Karnataka 
+
+  Other technical Achievements:- 
+
+utorials. 
+
+  Diploma in Information Technology 
+
+  Written white papers in estimation 
+
+Personal Information 
+
+Name: Amit Godha 
+
+Father's Name: Mr. Mahaveer Kumar Godha 
+
+Sex: Male 
+
+Marital Status: Unmarried 
+
+Nationality: Indian 
+
+alji Godha Katthawala Building, 
+
+Station Road, Kota, Rajasthan-324002 
+
+Date: 
+
+Place: Amit Godha 
+
+
+
+	
+

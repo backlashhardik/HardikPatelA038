@@ -1,0 +1,171 @@
+                           CHITTARANJAN  MOHANTA
+
+ 
+
+                                      Mob:9967260023
+
+                             E_mail: HYPERLINK "chitta153@yahoo.co.in"
+chitta153@yahoo.co.in 
+
+					
+
+	                                
+
+Professional Experience:
+
+Having 2+ years of experience in Java and J2EE for development of
+various commercial applications(from Jan’2005 to till date).
+
+Professional Summary:
+
+At present working as a Software Engineer in D2V INFOSOFT Pvt Ltd.
+Bangalore, which is an Emerging Software Development Organization. 
+
+Extensive expertise in development of variety of software applications
+using JAVA, J2EE(Servlet & JSP) and Oracle.
+
+To obtain a suitable position in the software industry wherein I can get
+an opportunity to work in a challenging environment and to invest my
+knowledge, skill and experience for the project. Willing to learn and
+adapt to new challenges. Have excellent communication skills and strong
+interpersonal skills, which provide the ability to interact with end
+users, managers, and technical personals. I am basically a
+self-motivated, quick learner and team player. I want to work for a
+progressive company where hard work and commitments are recognized and
+duly rewarded.
+
+Professional Qualification:
+
+MCA (Master in Computer Applications) from   Sambalpur University
+Sambalpur, Orissa in the year 2005.
+
+	
+
+Technical Exposure:
+
+Operating Systems		: Windows.
+
+Language			: Core JAVA
+
+Database			: Oracle 8i.
+
+          Web Technology		: Servlets, JSP, Struts.
+
+          Server                                :  WebSphere
+
+IDE                                    : Eclipse
+
+Scripting Language		 : Java Script, HTML.
+
+Proficiency: Java, Jsp, and Servlet.
+
+Academic Profile:
+
+Graduation from MPC College Baripada, Utkal University  Orissa .
+
++2 Sc. from MPC College, Baripada under CHSE, Orissa .
+
+Project Experience:
+
+#1:	Project Name		: Distributed Channel Management System.
+
+		Client			: Propest Co Ltd.
+
+Environment		: Windows 2000 Server.
+
+Skill/Tools	          : Servlets, JSP, JDBC, HTML, and Oracle 8i.
+
+Role			: Programmer.
+
+  
+
+                 The Distributed Channel Management(DCMS) System is a
+web-based System designed for Propest Co ltd.This application automates
+the communication between the clients,dealers and company.It obtains the
+feedback from the clients and dealers.It generate reports from dealers
+with specific requirements & provides updates details and reports the
+sales data in accordance with the specific dears and products.It can
+obtain the workshop details and attains each and every query of user.
+
+                         Roles and Responsibilities:
+
+In a Team of 5 I was involved in
+
+           • Detail study & develop the code for the Application.
+
+#2:	Project Name		: Production Control Planning.
+
+		Environment		: Windows 2000 Server.
+
+Skill/Tools	          : Servlets, JSP, JDBC, HTML, and Oracle 8i.
+
+Role			: Programmer.
+
+PCP Dashboard is a business application, which is going to be used by
+Kemko automobiles. It’s an extranet application, which is used by
+suppliers scattered all over the globe & kemko automobiles employees.
+The application gives information about the status of purchase
+orders/requisitions received/sent along with source and destination
+data. The main criteria of the application were the stability &
+performance as the application is going to have a very large data. 
+Application is used to track the data successfully transmitted/failed at
+each check/leakage point. Display the percentage of data successfully
+transmitted for last 14 days and also displays the data with color
+status to specify the failure and success at check/leakage points. Excel
+download functionality is provided to get all the transaction details
+for the selected day.
+
+                   Roles and Responsibilities:
+
+In a Team of 5, I was involved in
+
+     • Detail study & Develop the code for the Application.
+
+.
+
+#3: 	Project Name		: iSOLVE TRANSACTION SYSTEM.
+
+		Client			: Eris System.
+
+Environment		: Windows 2000 Server.
+
+Skill/Tools	          : Core Java, Servlet, Jsp and Oracle 8i.
+
+Role			: Programmer.
+
+It is an intranet based application system developed using java, jsp,
+and servlet and Oracle 8i as backend. This system is intended to
+maintain business transaction done through companies b to b(Business to
+Business) portal and this system will maintain its transaction detail
+for each order done on the web portal. This system is developed with all
+required study for the clients on site required and thus all required
+features needed for the system are enabled for it.
+
+                     
+
+Personal Profile:
+
+Name			: Chittaranjan Mohanta
+
+S/O			: Mr. Baidhar Mohanta
+
+Date of Birth		: 02.06.1979.
+
+Sex			: Male
+
+Marital Status		: Single
+
+Nationality		: Indian
+
+Languages Known	:Oriya, English & Hindi.
+
+Hobby			: Listening Music, Watching Cricket
+
+	
+
+			    
+
+BANGALORE
+
+Date:								Chittaranjan Mohanta
+

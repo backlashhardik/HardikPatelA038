@@ -1,0 +1,162 @@
+MANISH PAWAR
+
+SUMMARY OF EXPERIENCE
+
+2.7 years of Development experience in IT industry
+
+Expertise in Various Core Java and J2EE technologies
+
+TECHNICAL SKILLS
+
+Operating System	:	Windows XP/NT/9X, Solaris, Linux
+
+J2EE Components 	:	Core Java, Java MultiThreading, JDBC, JSP,
+
+Servlet, Struts, Windchill
+
+Web App Server	:	Apache, Tomcat
+
+Database		:	Oracle 9i
+
+PROFESSIONAL BACKGROUND
+
+Client: Elecon Engineering Company Pvt. Ltd. the Asia’s largest Gear
+Manufacturing Company implemented PLM solution (i.e Windchill 8.0) for
+their crucial CAD Data management. Configuration management, Change
+management. 
+
+Technical Environment: Core Java, JSP, Servlet, Tomcat, Apache, Oracle
+9i
+
+	Role & Contribution:
+
+Implementation of Windchill 8.0 and enhancing the Windchill OOTB
+features through customization using J2EE.
+
+Development of custom reports at Windchill, Site and Organization level
+for various unique requirements
+
+Java, JSP, Servlet performance tuning to enhance the efficiency of the
+application software.
+
+Client: Silicon Meadows Design Private Limited, Pune ,  A well known CAD
+Design company have client across the world.
+
+	Technical Environment: Tomcat, Apache, Java, JSP, Servlet, Oracle 9i
+
+	Role & Contribution:
+
+Customized Windchill PDMLink7.0 by adding the functionality of Multiple
+Checkin, Checkout, Undo Checkout and download facility for windchill
+documents in the folder page as well as document structure page.
+
+Java, JSP, Servlet performance tuning to enhance the efficiency of the
+enterprise application software.
+
+Client: Dynamatics Technologies Limited, Asia's largest producer of
+Hydraulic Gear Pumps implemented PLM solution (i.e Windchill 8.0) for
+their crucial CAD Data management, Configuration management, Change
+management.
+
+	Technical Environment: Tomcat, Apache, Java, JSP, Servlet, Oracle 9i
+
+	Role & Contribution:
+
+Implementation of Windchill 8.0 and enhancing the Windchill OOTB
+features through customization.
+
+Development of Java based Infoengine reports depicting running workflow
+information.
+
+Java, JSP, Servlet performance tuning to enhance the efficiency of the
+application software.
+
+Working Office	:	LARSON & TOUBRO INFOTECH LIMITED
+
+				ML Tower, Building No. 101,
+
+				Millennium Business Park,
+
+				Sector 2, MIDC, Mahape,
+
+				Navi Mumbai – 400 701, India
+
+Work Duration	:	May 2005 to Till Date.
+
+Client : Development Credit Bank Limited.
+
+  
+
+	Technical Environment: Core Java, JSP, Servlet, Tomcat, Apache, Oracle
+9i ,
+
+			        Linux
+
+Description:
+
+Development of Web Based e-Learning application for DCBL .
+
+e-Learning Web Application  is an intranet web application that will be
+used by the employee of the organization (DCB) to give test conducted by
+the organizations (DCB) authority .
+
+Worked as Software Engineer and completed major part of the project.
+
+Working Office:	ARION SYSTEMS PVT. LTD.
+
+	301,Runwal Commercial Center,
+
+                                                    3rd Floor, B. S.
+Devshi Marg,
+
+                                       Govandi Station Rd. ,
+Govandi(E),Mumbai – 400 088 , India
+
+Work Duration	:	Oct 2004 to  Apr 2005
+
+3. 	Project: Mobile Application Development
+
+Technical Environment: Tomcat, Java, JSP, Servlet, Oracle 9i
+
+Description:
+
+Development of web interface for “M-Bus Stop” Mobile application 
+
+Working Offic :                   TATA INFOTECH LIMITED
+
+	    J.B. Nagar , Andheri Kurla Road ,
+
+	    Andheri(East) , Mumbai – 400059
+
+Work Duration	:	Mar  2004  To Sep 2004
+
+EDUCATIONAL QUALIFICATION 
+
+Bachelors Degree in Computer Engineering – 2004 
+
+Bachelors Degree In Mathematics. – 2001
+
+CERTIFICATION AND TRAINING  
+
+Achievements
+
+Successfully executed various turnkey IT projects in verticals like
+Manufacturing, Banking etc.
+
+Successfully delivered Windchill 8.0 implementation through
+Customization.
+
+Appreciated by client for successful and on time completion of the
+project.
+
+PERSONAL DETAILS
+
+Name 	:	Manish Shivaji Pawar
+
+Address	:	A/403 Yash Residency, Plot No 12 , Sector 4 ,						Kalamboli,
+New Mumbai 410218
+
+Mobile 	:	09322008719
+
+Date of Birth : 	16 Oct 1979
+

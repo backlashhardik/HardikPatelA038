@@ -1,0 +1,359 @@
+CURRICULUM VITAE
+
+   Shyama Prasad Bhattacharjee                                          
+                  Room no-305   
+
+   E-mail:   HYPERLINK "mailto:shyama4u_ever@yahoo.co.in" 
+shyama4u_ever@yahoo.co.in                                               
+   Datar Colony 
+
+   PH      : 09819399303                                                
+                             Shivdarshan	   	 
+
+ Bhandup East
+
+ Mumbai
+
+________________________________________________________________________
+__________
+
+Objective                                                               
+                                                                        
+                                                                        
+                                                                        
+                                                                        
+                                                                        
+                                                                        
+                                                                        
+                                                                      
+
+To achieve high career growth in technology through continuous learning.
+Being a performance motivated professional, I love to grow with my
+organization. Passionate of learning new things in technology.
+
+Summary
+
+( Around  2  years  of  work experience in the field of JAVA/J2EE.
+
+( Masters in Computer Application with specialization in J2EE/Web
+Technologies. 
+
+Profile:
+
+sincere, responsible and fast learner. Can work independently and as
+part of a team. Strong initiative and application to work,good at
+communication.
+
+PROFESSIONAL QUALIFICATION:
+
+MCA                  :   From Institute Of Management And Information
+Technology , Cuttack.
+
+                               Utkal University, Orissa , 2005
+
+                               Marks- 74% 
+
+Educational Qualification:
+
++3(Hons.)           : From Christ College , Cuttack.
+
+                              Utkal University , Orissa , 2001.
+
+                              Marks-72.25% (Physics Hons)
+
++2(Sc)                : From Christ College , Cuttack.
+
+                             Council of   Higher Secondary Education,
+Orissa , 1998.
+
+                             Marks-60%
+
+Class X              : From Christ Collegiate School , Cuttack.
+
+                             Board of Secondary Education , Orissa , 
+1996.
+
+                             Marks-  72.8%
+
+Work Experience:
+
+Company	Designation	Duration
+
+
+
+2) MECHSOFT (Current Organization)
+
+1) Java Point System Pvt Ltd 
+
+     
+
+	
+
+Software Engineer
+
+Project Trainee	
+
+Jan 2006 – Till date
+
+Feb 2005- Aug 2005
+
+
+
+
+
+Computer Competency:
+
+Operating System	Windows XP ,Windows 2000,windows 98
+
+Database	SQL Server 2000.
+
+Web Servers	Tomcat 4.1,5.0,5.5 
+
+Application Server	IBM Web Sphere 6.0
+
+Languages  	JAVA, C, C++
+
+Persistence	OJB
+
+Java Technologies	Struts, Servlet, JSP, Javabeans, JDBC
+
+Frameworks	Struts 1.1, 1.2.9 
+
+IDE’s & Tools	Eclipse (3.0, 3.1), Rational Application Developer, Edit
+Plus, Open STA Testing tool. 
+
+Scripting Language	Java Script, Ajax (1.2)
+
+
+
+             Skill Set:
+
+	
+
+Experienced in all phases of web development life cycle(SDLC).
+
+Developed Web Application based on MVC design pattern involving JSP,
+Servlet, JavaScript, HTML, XML using Struts framework
+
+Data base design 
+
+Interacted directly with clients at various levels in the Project
+Development Life Cycle
+
+Technical Assignments:
+
+	
+
+Project Title	 (B2B,B2C Engine) 
+
+Environment	JSP, Servlet, OJB, XML, Struts (1.2.9), Java Beans, Java
+Script,SQL Server 2000, IBM App server Windows XP SP2.
+
+Role: System study, design and coding, Configuration coordinator, Test
+plan 
+
+Project Details:
+
+	     	Our Project is neither a franchise nor a consortium but an online
+community which facilitates online travel transactions. It uses the
+concept of Virtual Travel Stores (VTS) the selling community and
+Purchasing Partners (PP) the supplier community, thus bringing them
+together and facilitating travel e-commerce transactions  and Booking
+Engine (IDBE).  
+
+                    The Highly sophisticated Internet Distribution &
+Booking Engine provides a distribution database to any Virtual Travel
+Store™ (VTS), a Web Portal, a hotel Web site or a traditional travel
+agency or a tour operator that wants to offer real-time reservations on
+the Web.This Booking Engine offer products for the following: 
+
+1. Business to Consumer (B2C)      2. Business to Business
+(B2B)     3. Call Center Edition  
+
+           
+
+	
+
+Project Title	Administrator 
+
+Environment	JSP, Servlet, XML, Struts (1.2.9), Java Beans, Java
+Script,SQL Server, IBM App server Windows XP SP2.
+
+Role: System study, design and coding, Configuration coordinator, Test
+plan 
+
+Project Details:
+
+	     	Project is about feeding the Information of players involved in
+the IDBE like Sales agents, Call center agents, Pay Broker agents, TRez
+agents, Purchase partner Fee ranges, Rules for Paybroker, Call center,
+Privacies etc. Also Admin can block particular countries. He can
+generate reports. Inter A/C transfer can be done by Admin for major
+players are VTS, PP and FA, PB,Trez. Admin can activate or deactivate
+the player to include or not to include in the system. Admin can add new
+credit card for system through this site. He can set up the Attraction
+through this site. In Attraction he can add the tickets also for the
+respective countries. ….
+
+                   Admin can localize Sales agent along with his
+supporting players to their localized currency…             
+
+
+
+	
+
+Project Title	Sales Agent
+
+Environment	JSP, Servlet, XML, Struts (1.2.9), Java Beans, Java Script,
+SQL Server, IBM App server Windows XP SP2.
+
+Role: System study, design and coding, Configuration coordinator, Test
+plan 
+
+Project Details:
+
+	     	Project is about providing the information of Flight, Hotel, Car,
+Attraction  and Creating remaining players of this system like VTS
+(Virtual Travel Agent = B2C,B2B sites),PP(Purchasing
+Partner),FA(Fulfillment Agent). Sales Agent can add above information
+i.e. can create players. Client can manage Fee Parameters of its players
+.Sales Agent can activate or deactivate the player (its client) .The
+Client acts as multiple VTS or PP or FA or either combination of both.
+to include or not to include in the system. Player can reject or accept
+to each other like PP can manage VTS and VTS can manage PP. There is one
+more player in the system named as sub-agent. Client can set the
+sub-agent information along with bank details. This sub-agent can set
+his commission on B2B (Business to Business) site. GDS for Hotel service
+is THUNDERHOTEL, PEGASUS and ALLIED TPRO. The Sales Agent can assign FA
+to fulfill the services of VTS.
+
+                    The fees included are GDS pass through fees,
+Recurring fees (TRez Setup Fee etc.), Non-recurring Fees are as,
+
+        For Flight   – Per Ticket, Per PNR 
+
+        For Car      - 24 Hours daily, Per PNR
+
+        For Hotel    - Per Person Per PNR, Per Person Per Night, Per
+Person Per PNR 
+
+                           Per Night, Per PNR etc.
+
+        For Attraction – Per Ticket, Per PNR.
+
+                    Each service contains other taxes and Revenue share
+for the respective players.
+
+Every players has his wallet ID which is given by Pay Broker for their
+bank transactions…   
+
+          
+
+
+
+Project Title	Client
+
+Environment	JSP, Servlet, XML, Struts (1.2.9), Java Beans, Java Script,
+SQL Server, IBM App server Windows XP SP2.
+
+Role: System study, design and coding, Configuration coordinator, Test
+plan 
+
+Project Details:
+
+	     	Project is about providing the Information of Flight, Hotel, Car,
+Attraction And Contract for Purchase Partner services etc. Client can
+manage Fee Parameters of its players (major players are VTS, PP and FA).
+Client can activate or deactivate the player to include or not to
+include in the system. Player can reject or accept to each other like PP
+can manage VTS and VTS can manage PP. There is one more player in the
+system named as sub-agent. Client can set the sub-agent information
+along with bank details. This sub-agent can set his commission on B2B
+(Business to Business) site. GDS for Hotel service is THUNDERHOTEL,
+PEGASUS and ALLIED TPRO.
+
+                         This also manages Published and Negotiated fees
+of each service. These fees are as,
+
+Published Fees – Markup Fees and Shipping Fees.
+
+Negotiated Fees – Shipping Fees, Taxes Fees, Other Fees etc.
+
+                         Client Module also handles all the eNewsletters
+and registered for the respective Sales Agent. The eNewsletters may be
+weekly, monthly, quarterly ,Half yearly and Yearly. Also manage each
+player. The client mainly creates the contracts for each service using
+this module. The different contracts set up the fees according to the
+fees of GDS and remaining players of the systems like VTS, PP, FA, PB,
+TRez, Call Center Guy etc.  Client can approve his contracts. Also he
+can manage VTS/B2C,B2B site for the respective contracts along with
+their fees. Client mainly related to VTS,FA and PP in this module.
+Client can assign VTS for FA………
+
+             
+
+	
+
+Project Title	B2C Sites
+
+Environment	JSP, Servlet, OJB, XML, Struts (1.2.9), Java Beans, Java
+Script, SQL Server, IBM App server Windows XP SP2.
+
+Role: System study, design and coding, Configuration coordinator, Test
+plan 
+
+Project Details:
+
+	     	B2C Sites are booking site where any user directly go and search
+for any service like FLIGHT, HOTEL, CAR and ATTRACTION. My Module is
+HOTEL in which I am getting the information from GDS i.e,From AlliedTpro
+, Pegasus, Thunder Hotel and then parsing data. For searching HOTEL
+information we send the XML request to GDS. There are three different
+search criteria, Searching for Address, City and for Airport code. Steps
+for searching and booking Hotel.
+
+1.  End user will search Hotel by providing search parameters as above.
+
+Different Hotel information will be displayed to end user. User can view
+particular Hotel details.
+
+If user selects a particular Hotel then he will sign in and provide some
+personal information of guest that is going to stay in Hotel. 
+
+We allow him to furnish credit card details / payment gateway and then
+send request for booking to GDS then give the Confirmation Number and
+send Email to him.
+
+All the players involved in the system will get their amount as booking
+happens as the fee setup is performed in Client, Sales and Admin
+modules.
+
+             
+
+				
+
+		
+
+Personal Details:
+
+       Father’s   Name  :  Sudhansu Shekhar Bhattacharjee
+
+       Date of  Birth      : 28-05-1981
+
+       Religion              :  Hinduism
+
+       Nationality          :  Indian
+
+       Marital  Status    :  Unmarried
+
+Declaration:-
+
+I hereby declare that all the information furnished above is true to the
+best of my knowledge and belief.
+
+Place:-
+
+Date :-							            (Signature)
+
+			     
+
