@@ -1,0 +1,253 @@
+Nishant S.
+
+B2/3/3, Serveshwar, Shri Ganesh HCS, Nerul, Navi Mumbai – 400 706.
+
+E-Mail: nishant_sree@yahoo.co.in. Mobile: +91- 9920726562 / 9870679750.
+
+Career Objective:
+
+Seeking an innovative and a challenging position, where my current
+skills relating to Computer are fully utilized and improved thus
+contribute to the Company profits.
+
+Work Experience
+
+#1
+
+Organization	PMAM IT Services Pvt. Ltd.
+
+Description	Currently working with the Junit testing team, which is
+involved in testing of the server side code of  the project named
+“Interlude” from IDM.
+
+Period	From Mar 2006 to Till Date.
+
+Designation	Technology Specialist
+
+Work Profile	Involved in writing test cases for the server side code of
+the project which is EJB.
+
+
+
+#2
+
+Organization	Raksah TPA Pvt. Ltd.
+
+Description	Company is a Third Party Administrator (TPA) between the
+policyholder and the insurance companies. Raksha Software developed
+using JSP, Servlet and Struts Project makes their business tasks
+simplified. The back-end used is Oracle 8i.The company has two servers
+running on Sun Solaris and uses the Iplanet Application Server.
+
+Period	From Feb 2006 to Mar 2007.
+
+Designation	Software Programmer
+
+Work Profile	Actively involved in the design, development and
+maintenance of Raksha Software.
+
+
+
+Projects Details	
+
+Project Name	Raksha Software
+
+Description	Claims Module: Here all the processing of claim takes place
+i.e. Claim Registration, Query made by Doctor, Pending Documents, Claims
+Passed etc.
+
+ID Cards: Generation of IDCards for individual and corporate
+policyholders.
+
+Role	Individual Report for the no. of Claims registered, processed and
+documents pending for our operators with entry time and date.
+
+Environment	Windows 2000, Oracle 8i , JSP
+
+
+
+
+
+Project Name	Database to Excel
+
+Description	This project read the column and row values from the
+database and the result were written to an excel worksheet using the jxl
+api.
+
+Role	This was developed using core java and jxl apis.
+
+Environment	Windows 2000, Oracle 8i, Core Java
+
+
+
+
+
+Project Name	Excel to Database
+
+Description	Here the data from a excel file is read using jxl apis and
+the data is loaded to the database.
+
+Role	Developed using core java and jxl apis.
+
+Environment	Windows 2000, Oracle 8i, Core Java
+
+
+
+
+
+Project Name	KVO Module
+
+Description	A separate module for a corporate named KVO, where the
+corporate had different Member Id as well as Policy no. for each of its
+employees. Separate tables were made for the processing of claims. For
+preauthorization also separate tables and files were made.
+
+Role	Creating the required tables and the jsp files.
+
+Environment	Windows 2000 Server, Oracle 9i, Jsp
+
+
+
+
+
+Project Name	File Movement and Management
+
+Description	The module helps in tracking the physical movement of file
+from one department to the other. One has to receive the file in his bin
+before making any changes to the claim file. So, at any movement it can
+be know as to where physically the file is resting.
+
+Role	Creating the required tables and the jsp files.
+
+Environment	Windows 2000 Server, Oracle 9i, Jsp
+
+
+
+
+
+#3
+
+Organization	Vaman Technologies R & D Limited, Mumbai.
+
+Description	Company is involved in the development of an RDBMS called
+Vaman DataServer. The product is a contemporary, platform independent
+data management solution consisting of Web Server and Mail Server
+integrated with the Database Server. The server uses the Finite State
+Machine model and internal threading for optimized performance. 
+
+Period	From Dec 2003 to Nov 2005.
+
+Designation	Software Engineer
+
+Work Profile	I am actively involved in the development of Vaman
+Enterprise Manager, the front-end of the RDBMS.
+
+
+
+Projects Details	
+
+Project Name	Vaman Enterprise Manager
+
+Description	This is the Graphical User Interface of Vaman DataServer.
+Communication with the server is achieved using JDBC APIs with Vaman’s
+JDBC-ODBC Bridge driver acting as the intermediate layer. It is designed
+to support multiple server connectivity and also multiple database
+connectivity within a server simultaneously. It also supports
+connectivity across functional servers to emulate the Web server and
+Mail server integration provided by the back-end. Management tools such
+as DB Comparator, DBToXML Code Generator, Query Builder, Relationship
+Diagram Generator, State Machine Map, State Machine Statistics, etc.
+further enhance the user friendliness of the system.   
+
+Role	Designed and developed DBToXML Code Generator, management tool for
+Enterprise Manager. DBToXML generates source code for operations on data
+sources for XML, VB, C#, VB.Net and Java. Connect to a data source, all
+the “System Tables” , “Tables” and “Views will be available to
+the user and he can have the codes for functions like insert, update,
+delete etc to be performed on these DSN. All the data will be available
+to the user in XML format. 
+
+Design and implementation of full-fledged HTML Editor tool which allows
+the user to develop and view HTML pages This is also a part of
+management tool provided in the Vaman Enterprise Manager. It also has
+FTP connectivity.
+
+Design and development of SQL Manager. Connect to any DSN, the “User
+tables” and “View” is arranged in a tree, query can be fired and
+the results are displayed in tables.  
+
+Design and development of some part of Case Studio. 
+
+GUI implementation of Execution Plan for Vaman DataServer which gives
+the estimated cost and execution time for a particular query, included
+in the SQL Manager.
+
+Code Optimization and maintenance of Vaman Enterprise Manager.
+
+
+
+Environment	Core Java , SWINGS , XML
+
+Project Name	Vaman Deployment Wizard
+
+Description	This software installs VAMAN RDBMS on all Platforms. It
+helps to install Vaman Server and Clients like Enterprise Manager and
+VMSQL. While installing the setup will register the JDBC drivers on your
+system. This is a customized setup for the deployment of Vaman
+Enterprise Manager.
+
+Role	Design and implementation of core classes that handle the
+registration of drivers, setting of environment variables and selective
+deployment of files on the client system according to the type of
+installation selected by the user.
+
+Environment	Core Java , SWINGS
+
+
+
+Technical skills
+
+Languages Known	Java, C, C++
+
+Primary Skills	Java (SWINGS, JDBC), XML
+
+Web Technologies	 JSP, Servlets
+
+Operating Systems	Windows NT/9x, Linux, Sun Solaris
+
+RDBMS	Oracle 8i, MS Access
+
+Application Server	Sun One Application Server
+
+
+
+Academic Details
+
+Master of Computer Applications (M. C.A.) - (Pursuing)	North Maharashtra
+University, Jalgaon(MS).
+
+B.Sc. Physics (Instrumentation), Passing Year: 2001.	North Maharashtra
+University, Jalgaon(MS).
+
+H.S.C                                           , Passing Year: 1998.
+C.B.S.E Board, Nepanagar (M.P).
+
+S.S.C                                           , Passing Year: 1996.
+
+	C.B.S.E Board, Cochin (Kerala).
+
+
+
+Personal Details
+
+Date of Birth	August 21, 1980
+
+Languages	Hindi, English, Malayalam, Marathi.
+
+Hobbies	Reading, Listening Music, Playing Volleyball, Cricket, Table
+Tennis. 
+
+Marital Status	Single
+
+
+

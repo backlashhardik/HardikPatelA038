@@ -1,0 +1,155 @@
+      CURRICULUM VITAE
+
+Contact address:
+
+JYOTHI L. B
+
+#49, 1st Cross, Manjunatha Layout 
+
+Mangammana Palya,
+
+Koperkaran Mumbai 
+
+Mobile: 9819479885					        Email id: jyothi.lb@gmail.com
+
+Objective
+
+Seeking an opportunity to work in an environment of constant learning
+and team- working and to become an asset by fulfilling both my
+company’s and my objective.
+
+Personal Skills
+
+Comprehensive problem solving abilities, good verbal and written
+communication skills, ability to deal with people diplomatically,
+willingness to learn, Team facilitator.
+
+Work Experience
+
+16 months (April 05 -Till Date) of Industry experience as Java
+Programmer in MNOP Software Systems Pvt Ltd, Bangalore.
+
+12 months (Oct 03 –Nov 04) of Teaching Experience as Lecturer in
+Department of Computer Science of Acharya Institute of Technology,
+Bangalore.
+
+4 months (March 03-July 03) of Project experience as Project Trainee in
+Master Control Facility (MCF), Hassan.
+
+Education
+
+Bachelor of Engineering (Computer Science) with an aggregate of  65%
+
+ 		From Malnad College of Engineering, Hassan in 2003
+
+Technical Skills
+
+Operating System :  Windows 2000,NTand XP, Unix
+
+J2EE Technologies: Servlets, JSP,  EJB, XML 
+
+Programming languages : Java
+
+RAD Tool: IBM Eclipse
+
+RDBMS: Oracle 9i (SQL, PL/SQL)
+
+Scripting Language : JavaScript
+
+Application server : BEA WebLogic8.1
+
+Project Details
+
+Project #1   Farmers Web Service 
+
+Duration		        : November ’05 to Till Date
+
+Client		        : Farmers Insurance Group, USA. 
+
+RDBMS	        : Oracle 9i
+
+Application Server	        : BEA WebLogic Application Server
+
+Development Tools	        : IBM Eclipse (Java Classes), SQL Navigator   
+   
+
+                                                                        
+            (PL/SQL Packages)
+
+Other Technologies           : JavaScript, XML
+
+Team Strength	        :  8
+
+Description
+
+Farmers Web Services is hosted by Trumbull Services. The Web Service
+processes the xml batches it receives from the Farmers CRN and sends
+back the responses. It is implemented as a set of Java EJBs running
+inside the WebLogic application server. An Oracle backend serves the
+application, which is hosted on a series of WINDOWS NT servers. 
+
+Once the XMLs are received from the Farmers CRN, these are pushed into
+the JMS queues. One job is created for each XML and its details are
+inserted in the table. A timer servlet invokes for every 30 seconds,
+monitors the above table and checks the XML status. It picks up the job
+which is ready for processing and grabs the XML, parses it and pushes
+all the values into the database.
+
+My Contribution
+
+Worked on XML Parsing. 
+
+Worked on servlets.
+
+Testing with customer Production data base.
+
+Worked on JDBC coding.
+
+Project #2   Document creation using Adobe Document Server
+
+Duration		        : 2 Months
+
+Client		        : Farmers Insurance Group, USA. 
+
+Company		        : MNOP Software Systems Pvt Ltd, Bangalore.  
+
+			(Trumbull Services, Connecticut, USA.)
+
+RDBMS	        : Oracle 9i
+
+Platform	        : Windows Platform
+
+Development Tools	        : Adobe Document Server, jdk141_05    
+
+Team Strength	        :  2
+
+Description
+
+This project is to create letters (PDF documents) using Adobe Document
+Server for the Farmers insurance Company which the recovery specialists
+use for their daily transactions. It contains programs to download the
+PDF documents from their website, then to merge those documents with the
+cover letters we have generated and to upload them back to their site.
+
+Academic Projects
+
+Network Based Project-Implementation of File Transfer Protocol in C
+under Linux.
+
+CGI-PERL project -- Online Job Search.
+
+Database Project using VB6.0 and Oracle as Backend – Bookstall
+Management
+
+Personal Achievements
+
+Merit Certificate Winner in SSLC from CBSE, New Delhi.
+
+Active member of IEEE, active participation in college cultural festival
+
+Won many prizes in state level Essay and debate competitions.
+
+ PAGE   
+
+ PAGE   1 
+

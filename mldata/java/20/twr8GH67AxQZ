@@ -1,0 +1,203 @@
+Siddharth Trivedi
+
+B.C.A, M.C.A.
+
+Executive Summary: 
+
+Software Professional having 2.5 years of experience in development of
+Enterprise and Web Applications through SDLC by achieving quality,
+correctness, performance and maintainability in the products, using
+Java/J2EE components like Servlets, JSP, EJB and JDBC etc. through
+Struts framework with database design. And sound understanding and
+application of software engineering principles which is more valuable
+than familiarity with popular APIs or toolsets.
+
+Software Credentials:
+
+Java Technologies	:	J2SE 1.4, JDBC, Servlets, JSP, Struts, EJB
+
+Databases		:	Oracle 9i, MS SQL Server 2000
+
+Servers		:	BEA Weblogic 8.1, Tomcat 5.5.7
+
+IDE and Tools		:	Eclipse 3.1, My Eclipse 4.0, JIRA 3.3
+
+Professional Experience:
+
+As a Systems Engineer for Polaris Software Labs Ltd. Mumbai
+
+Oct ’06 to Till Date
+
+Project Title : RCX (Regional Communication server eXtensible version)
+
+Synopsis : RCX application layer is mainly designed for processing
+transactions.  RCX will receive transactions from various input sources;
+it will process the transaction to respective destination. In current
+sources the input sources are CitiDirect (CD) and Mercury (ME). In case
+of CD transactions will be received as a separate entity while for ME
+transactions would be received in file, specific to a customer. RCX is
+designed to send transactions to FLEX and FILE. In FLEX transaction
+would be separate entity and for lateral a file will be generated for
+the transaction. In between RCX communicates with FOX and GI for getting
+various configuration values for transaction under processing and its
+validation respectively.
+
+Tools and Technologies Used: Java, JSP, Servlets, EJB, Struts, MQ
+Series, Oracle 10g, Weblogic 8.1, UNIX (Solaris)
+
+Roles & Responsibilities : 
+
+Involved in production release and enhancement team of the application
+and derived requirements.
+
+Documenting, Designing and Development of modules through design
+patterns with required technology and tools.
+
+Conducting Integration Unit Testing and Functional Testing for the
+respective module.
+
+As a Software Developer at NetXs Solutions Inc. Ahmedabad
+
+July ‘05 to Oct ‘06 
+
+	
+
+Project Title : BidRx 
+
+Synopsis : This is public online drug auction application for USA &
+Canada, developed as per the guidelines of HIPAA, which is useful to get
+the prescribed drugs online. Here the consumers can setup the drug
+auction and get the required drugs to their home or from nearby drug
+dealer. This is highly secured application, which includes credit card
+transactions. The Consumers, Business Partner’s and the Administrator
+use application.
+
+Technologies Used : JSP, Servlets, JDBC, Oracle9i, Tomcat 5.5.7  
+
+Roles & Responsibilities : 
+
+Developing the application with MVC Frame Work.
+
+Involved in analysis of the application and derived requirements.
+
+Development using JSP, Servlets, Database Programming through JDBC &
+Stored Procedures in Oracle.
+
+Conducting Functional Testing for the respective module.
+
+Project Title : Hedgehog
+
+Synopsis : This is an online bidding application; it contains four
+modules namely Site Administrator, Main User, Administrator, and Bidder.
+Hedgehog acts as a mediator between buyer and seller. Administrator
+makes an auction and keeps track of bidding on auction. Buyers are
+informed through automatic email about the bidding rules and
+information. An auto-refresh facility updates both bidder and
+administrator about latest scenario and stages of auctions. The
+application provides multilingual. Through instance messaging module
+administrator and bidder can have quick conversation with hedgehog
+service.
+
+Technologies Used : JSP, Servlets, JDBC, MS SQL Server 2000, Resin 3.0
+
+Roles & Responsibilities : 
+
+Maintenance of the application. 
+
+Conducting Unit and Functional Testing as per SRS specification.
+
+Maintaining the list of bugs and issues reporting to support team for
+enhancement of the application. 
+
+As a Trainee Network Engineer at Mindcells, Mumbai
+
+Sept. ‘04 to Feb. ‘05
+
+	
+
+Roles & Responsibilities :
+
+Managing 128 Kbps Lease Line with 99.98% Uptime
+
+Troubleshooting LAN & VOIP Switch
+
+Managing Win 2000 SQL Database Server & NetScreen Firewall
+
+Data mining through SQL Server for CRM
+
+Backup of Win 2003 Server
+
+Managing & Troubleshooting Win 2003 Domain Controller & IIS 6.0 & Merak 
+Mail Server 7.2
+
+Virus Scan and Troubleshooting Virus problems
+
+Maintenance of Network Printers and its troubleshooting 
+
+As a Trainee Engineer at Tata Consultancy Services, Mithapur 
+
+Jan ‘04 to April ‘04
+
+Project Title : WAN Monitoring System
+
+Synopsis : Monitoring WAN Activities like Packet, Link and Services.
+Sending alerts to the Network Administrators through SMS & E-Mail.
+Report Generation of Link Traffic & Link Up-Time, Availability of
+Services on Daily Basis.
+
+	
+
+	Technologies Used : J2SE 1.4 & MS Access
+
+Project Title : Availability Report Generator Tool
+
+Synopsis : The Application checks the availability of any Network
+Devices through Java Sockets. Generation of Reports for the same, which
+was integrated with the existing Help-Desk System.
+
+Technologies Used : JSP, Servlets, MS Access, BEA Weblogic 6.1
+
+Project Title : Employee Engagement Survey
+
+Synopsis : Employee Engagement Survey includes inputs organizational
+details of the Employee through Forms along with a set of Questionnaire,
+performs the analysis of Data, and generates reports in MS Excel.
+
+	Technologies Used : ASP, VBScript, JavaScript, IIS 6.0 & MS Access 2000
+
+Academics:
+
+2001 – 04	Master of Computer Application (MCA) from Saurashtra
+University,
+
+		With First Class
+
+1998 – 01	Bachelor of Computer Application (BCA) from Saurashtra
+University
+
+Certification & Training:
+
+Passed the Cisco Certified Network Associate (CCNA) exam in Sept. ‘03
+with a score of 911/1000
+
+ Attended a 1 month training workshop on “Configuration &
+Troubleshooting Cisco 2600 Router” at A.I.T.S, Rajkot in August ‘03
+
+Other Activities:
+
+ Participated in, “Communiqué 2002”, a national level programming &
+web page designing contest at DDIT, Nadiad.
+
+Contact Details:
+
+Address 	: A4/14, Satyadarshan Society, Malpa Hill No. 3, Andheri
+(East), 
+
+      	   Mumbai-93 
+
+Contact No.	: + 91 9833903209
+
+E-Mail		: siddharthktrivedi@yahoo.com
+
+  siddharthktrivedi@gmail.com
+

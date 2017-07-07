@@ -1,0 +1,196 @@
+
+
+
+
+
+
+Detailed Resume (Additional Details) 
+
+
+
+Ram Sundar Yadav 
+
+S/O Mr. M.B.Yadav Mob: +91-9867086289
+
+JN1 35B-6, Email: ramsundar81@gmail.com
+
+SECTOR NO. 9
+
+VASHI NAVI MUMBAI 
+
+Objective: 
+
+To be a part of an organization with good learning, growing
+possibilities and achieve goals in my life by hard work, honesty and to
+make my work a success.
+
+Industry Experience: - Currently working in DNS IT Services Pvt. Ltd.
+Mumbai as a software Developer in java technology from January 01 - 2006
+to till date. 
+
+Academic Qualification:
+
+Degree University/Board Year Marks Obtained
+
+M.C.A North Maharashtra University 
+
+Jalgaon (M.S.) 2006 65.21%
+
+B.Sc. Dr. Ram Manohar Lohiya Awadh University Faizabad (U.P.)
+
+2002 60.56%
+
+H.S.C. 
+
+U.P Board, Allahabad (U.P.)
+
+. 1999 63.36%
+
+S.S.C. 
+
+U.P Board, Allahabad (U.P.)
+
+1996 71.50%
+
+Technical Skill:
+
+Programming Languages : C, C++, Java 
+
+Operating System : Windows 9X / XP/ 2000, MS-DOS.
+
+Database : MS Access 2000, MS SQL Server 2000
+
+Web Technology : HTML, ASP, JSP, Servlet, JavaScript
+
+Industry Experience: - 
+
+1. Title : SMPP Server and Client Implementation
+
+Company Name: DNS IT services Pvt. Ltd 
+
+Technology : Core Java 
+
+Database : MS SQL-Server-2000
+
+Team Size : 3
+
+Role : Responsible for designing and coding.
+
+Description : There are two modules in this software.
+
+SMPP Client module
+
+SMPP Server Module
+
+SMPP Client Module allows sending of Text, Binary, Flash and Unicode
+message. SMPP Client module provides group creation, user management,
+search facility, message log, delivery status and group messaging. It
+provides facility to upload text, CSV and excel files. SMPP Client tool
+is with DNS customers to connect to DNS SMPP Server using SMPP protocol.
+
+
+SMPP Server Module allows SMPP Clients to connect to SMPP Sever and send
+messages. All the user authentication and verification part is done on
+the SMPP Server side. All the credit management and error handling is
+done on the server side. SMPP server stores data in temporary database
+and send it to the SMSC. It also provides instant delivery status of the
+message submitted to the SMSC.
+
+2. Title : Daily Reporting System
+
+Company name : DNS IT services Pvt. Ltd 
+
+Technology : Java 
+
+Database : SQL-Server-2000
+
+Team Size : 3
+
+Role : Develop modem application
+
+Description : In this System two modules are there. 
+
+1. Handset Application 
+
+2. SMS sending Application in java through Modem
+
+Developed front-end application which is used to submit daily sales data
+from various stores like Spencer's, Food Bazaar etc located anywhere in
+India. Sales persons of JNJ visit the store and collect the sales data,
+the stores visit by the sales person are maintained from the back-end.
+Application has menus for the store selection and products. Sales person
+fills the sales quantity for the products and after this the final
+message payload is prepared which involves sales data for various stores
+and send it in real time over SMS
+
+3. Title : Online Examination System 
+
+Technology : Jsp, Bean
+
+Tools : Tomcat 4.0 
+
+Data Base : SQL-Server 2000
+
+Description : An application is used to take online examination having
+two modules.
+
+1. Examinee Module
+
+2. Administrator Module
+
+1. Examinee Module:
+
+This web base application fetches the questions from back-end with four
+choices as answer and the examinee selects one choice out of four. If
+examinee didn't select the answer in one minute then next question will
+appear to the examinee after finishing the exam it will show the result
+to examinee.
+
+2. Administrator Module:
+
+In this Module administrator has facility to compose new question,
+provide user name and password to examinee. Admin can add, edit and
+update the details (username, password, name, roll no etc but not marks
+obtain) of the examinee.
+
+4. Title : Chatting Utility
+
+Technology : Core Java
+
+Data Base : MS SQL Server 2000
+
+Description : An application created in Java, using Socket Programming,
+which provides chatting facility to the client connected in LAN.
+
+5. Title : Medical Dictionary 
+
+Technology : Servlet
+
+Tools : Tomcat 4.0 
+
+Back-End : MS SQL Server 2000
+
+Description : This software facilitates the details of all medical
+diseases and drugs. It also maintains the all transaction between doctor
+and his patient and drugs related to all diseases.
+
+Personal Detail:
+
+Gender : Male.
+
+Date of Birth : 20th October 1981.
+
+Nationality : Indian.
+
+Languages known : English, Hindi
+
+Declaration:
+
+I hereby declare that all the information provided by me in this
+application is factual and correct to the best of my knowledge and
+belief.
+
+Ram Sundar Yadav 
+
+
+
